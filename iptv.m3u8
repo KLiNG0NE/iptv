@@ -6,4 +6,4 @@ http://zdf-hls-15.akamaized.net/hls/live/2016498/de/veryhigh/master.m3u8
 #EXTINF:-1 radio="true" tvg-name="Radio Paradise" tvg-id="radioparadise" tvg-logo="https://example.com/logos/radioparadise.png" group-title="Radio",Radio Paradise
 http://stream.radioparadise.com/mp3-128.m3u
 #EXTINF:-1 radio="true" tvg-name="Freies Radio Neumünster" tvg-id="radio_frn.de" tvg-logo="https://cdn.jsdelivr.net/gh/KLiNG0NE/iptv@main/logo/radio_frn.png" group-title="Radio",Freies Radio Neumünster
-http://streaming.fueralle.org:8000/frn.m3u
+http://streaming.fueralle.org:8000/frn
