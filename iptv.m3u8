@@ -3,3 +3,5 @@
 https://daserste-live.ard-mcdn.de/daserste/live/hls/de/master.m3u8
 #EXTINF:-1 tvg-name="ZDF" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/ZDF_logo.svg/640px-ZDF_logo.svg.png" tvg-id="ZDF.de" tvg-chno="2" tvg-country="DE" group-title="Vollprogramm",ZDF
 http://zdf-hls-15.akamaized.net/hls/live/2016498/de/veryhigh/master.m3u8
+#EXTINF:-1 radio="true" tvg-name="Radio Paradise" tvg-id="radioparadise" tvg-logo="https://example.com/logos/radioparadise.png" group-title="Radio",Radio Paradise
+http://stream.radioparadise.com/mp3-128.m3u
