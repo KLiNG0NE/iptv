@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_DE1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_DELUXEMUSIC1.xml.gz"
-#EXTINF:-1 tvg-name="Das Erste HD" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/main/logo/das-erste.de.png" tvg-id="Das.Erste.de" tvg-chno="1" tvg-country="DE" group-title="Vollprogramm",Das Erste HD
+#EXTINF:-1 tvg-name="Das Erste HD" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/das-erste.de.png" tvg-id="Das.Erste.de" tvg-chno="1" tvg-country="DE" group-title="Vollprogramm",Das Erste HD
 https://daserste-live.ard-mcdn.de/daserste/live/hls/de/master.m3u8
 #EXTINF:-1 tvg-name="ZDF" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/ZDF_logo.svg/640px-ZDF_logo.svg.png" tvg-id="ZDF.de" tvg-chno="2" tvg-country="DE" group-title="Vollprogramm",ZDF
 http://zdf-hls-15.akamaized.net/hls/live/2016498/de/veryhigh/master.m3u8
