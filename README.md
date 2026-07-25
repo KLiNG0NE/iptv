@@ -15,3 +15,9 @@ Kurz-URL:
 ```
 https://tinyurl.com/klingtv
 ```
+
+| Name         | Stream-URL |
+|:------------:|------------|
+Das Erste      | https://daserste-live.ard-mcdn.de/daserste/live/hls/de/master.m3u8
+ZDF            | http://zdf-hls-15.akamaized.net/hls/live/2016498/de/veryhigh/master.m3u8
+3sat           | https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/high/master.m3u8
