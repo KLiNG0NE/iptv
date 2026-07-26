@@ -16,6 +16,8 @@ Kurz-URL:
 https://tinyurl.com/klingtv
 ```
 
+![Logo](logos/das-erste.de.png | width=100)
+
 | Name         | Stream-URL |
 |:------------:|------------|
 Vollprogram |
