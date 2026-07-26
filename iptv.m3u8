@@ -11,6 +11,8 @@ https://artesimulcast.akamaized.net/hls/live/2030993/artelive_de/master.m3u8
 https://zdf-hls-16.akamaized.net/hls/live/2016499/de/veryhigh/master.m3u8
 #EXTINF:-1 tvg-name="One" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/one.de.png" tvg-id="One.de" tvg-chno=""  tvg-language="de" tvg-country="DE" tvg-genre="Unterhaltung" group-title="Spartenprogramm",One
 https://mcdn-one.ard.de/ardone/hls/master.m3u8
+#EXTINF:-1 tvg-name="ZDFinfo" tvg-id="ZDFinfo.de" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/zdfinfo.de.png"  tvg-language="de" tvg-country="DE" tvg-genre="Info/Doku"  group-title="Spartenprogramm",ZDFinfo
+https://zdf-hls-17.akamaized.net/hls/live/2016500/de/veryhigh/master.m3u8
 #EXTINF:-1 tvg-name="tagesschau24" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/tagesschau24.de.png" tvg-id="tagesschau24.de" tvg-chno="4" tvg-country="DE" group-title="Nachrichten",tagesschau24
 https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8
 #EXTINF:-1 radio="true" tvg-name="Freies Radio Neumünster" tvg-id="radio_frn.de" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_frn.de.png" group-title="Radio",Freies Radio Neumünster
