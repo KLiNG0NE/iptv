@@ -2,10 +2,11 @@
 #EXTINF:-1 tvg-name="Das Erste HD" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/das-erste.de.png" tvg-id="Das.Erste.de" tvg-chno="1" tvg-country="DE" group-title="Vollprogramm",Das Erste HD
 https://daserste-live.ard-mcdn.de/daserste/live/hls/de/master.m3u8
 #EXTINF:-1 tvg-name="ZDF" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/zdf.de.png" tvg-id="ZDF.de" tvg-chno="2" tvg-country="DE" group-title="Vollprogramm",ZDF
+#EXTINF:-1 tvg-name="3sat" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/3sat.de.png" tvg-id="3sat.de" tvg-chno="3" tvg-country="DE" group-title="Vollprogramm",3sat
 http://zdf-hls-15.akamaized.net/hls/live/2016498/de/veryhigh/master.m3u8
-#EXTINF:-1 tvg-name="tagesschau24" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/tagesschau24.de.png" tvg-id="tagesschau24.de" tvg-chno="3" tvg-country="DE" group-title="Nachrichten",tagesschau24
+#EXTINF:-1 tvg-name="tagesschau24" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/tagesschau24.de.png" tvg-id="tagesschau24.de" tvg-chno="4" tvg-country="DE" group-title="Nachrichten",tagesschau24
 https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8
-#EXTINF:-1 radio="true" tvg-name="Radio Paradise" tvg-id="radioparadise" tvg-logo="https://example.com/logos/radioparadise.png" group-title="Radio",Radio Paradise
-http://stream.radioparadise.com/mp3-128.m3u
 #EXTINF:-1 radio="true" tvg-name="Freies Radio Neumünster" tvg-id="radio_frn.de" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_frn.png" group-title="Radio",Freies Radio Neumünster
 http://streaming.fueralle.org:8000/frn
+#EXTINF:-1 radio="true" tvg-name="Freies Sender Kombinat" tvg-id="radioparadise" tvg-logo="https://example.com/logos/radioparadise.png" group-title="Radio",Radio Paradise
+https://streaming.fueralle.org/fsk.mp3
