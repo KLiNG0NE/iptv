@@ -24,6 +24,7 @@ https://tinyurl.com/klingtv
 | <img src="logos/das-erste.de.png" alt="Logo" width="24px" />                    | Das Erste      | https://daserste-live.ard-mcdn.de/daserste/live/hls/de/master.m3u8
 | <img src="logos/zdf.de.png" alt="Logo" width="24px" />                          | ZDF            | http://zdf-hls-15.akamaized.net/hls/live/2016498/de/veryhigh/master.m3u8
 | <img src="logos/3sat.de.png" alt="Logo" width="24px" />                         | 3sat           | https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/high/master.m3u8
+|                                                                                 | arte           | https://artesimulcast.akamaized.net/hls/live/2030993/artelive_de/master.m3u8
 |Spartenprogramm |
 |Radio |
 | <img src="logos/radio_frn.png" alt="Logo" width="24px" />                       | FRN            | http://streaming.fueralle.org:8000/frn
