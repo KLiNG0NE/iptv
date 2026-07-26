@@ -11,3 +11,5 @@ https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master
 http://streaming.fueralle.org:8000/frn
 #EXTINF:-1 radio="true" tvg-name="Freies Sender Kombinat" tvg-id="radio_fsk.de" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_freies-sender-kombinat.de.png" group-title="Radio",Freies Sender Kombinat
 https://streaming.fueralle.org/fsk.mp3
+#EXTINF:-1 radio="true" tvg-name="Radio Fratz" tvg-id="radio_radio-fratz.de" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_radio-fratz.de.png" group-title="Radio",Radio Fratz
+https://stream.radio-fratz.de/stream.mp3
