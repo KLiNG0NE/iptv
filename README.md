@@ -16,18 +16,15 @@ Kurz-URL:
 https://tinyurl.com/klingtv
 ```
 
-![Logo](logos/das-erste.de.png | width=100)
+## Sendertabelle ##
 
-
-
-
-| Logo                                                         | Name           | Stream-URL |
-|:------------------------------------------------------------:|:--------------:|------------|
-| Vollprogramm                                                 |                |            |
-| <img src="logos/das-erste.de.png" alt="Logo" width="24px" /> | Das Erste      | https://daserste-live.ard-mcdn.de/daserste/live/hls/de/master.m3u8
-|                                                              |ZDF             | http://zdf-hls-15.akamaized.net/hls/live/2016498/de/veryhigh/master.m3u8
-|                                                              |3sat            | https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/high/master.m3u8
+| Logo                                                                            | Name           | Stream-URL |
+|:-------------------------------------------------------------------------------:|:--------------:|------------|
+| Vollprogramm                                                                    |                |            |
+| <img src="logos/das-erste.de.png" alt="Logo" width="24px" />                    | Das Erste      | https://daserste-live.ard-mcdn.de/daserste/live/hls/de/master.m3u8
+| <img src="logos/zdf.de.png" alt="Logo" width="24px" />                          | ZDF            | http://zdf-hls-15.akamaized.net/hls/live/2016498/de/veryhigh/master.m3u8
+| <img src="logos/3sat.de.png" alt="Logo" width="24px" />                         | 3sat           | https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/high/master.m3u8
 |Spartenprogramm |
 |Radio |
-||FRN | http://streaming.fueralle.org:8000/frn
-||FSK | https://streaming.fueralle.org/fsk.mp3
+| <img src="logos/radio_frn.png" alt="Logo" width="24px" />                       | FRN            | http://streaming.fueralle.org:8000/frn
+| <img src="logos/radio_freies-sender-kombinat.de.png" alt="Logo" width="24px" /> | FSK            | https://streaming.fueralle.org/fsk.mp3
