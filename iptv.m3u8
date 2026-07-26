@@ -19,7 +19,7 @@ https://zdf-hls-19.akamaized.net/hls/live/2016502/de/veryhigh/master.m3u8
 https://mcdn.br.de/br/fs/ard_alpha/hls/de/master.m3u8
 #EXTINF:-1 tvg-name="tagesschau24" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/tagesschau24.de.png" tvg-id="tagesschau24.de" tvg-chno="4" tvg-country="DE" group-title="Nachrichten",tagesschau24
 https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8
-#EXTINF:-1 radio="true" tvg-name="Freies Radio Neumünster" tvg-id="radio_frn.de" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_frn.de.png" group-title="Radio",Freies Radio Neumünster
+#EXTINF:-1 radio="true" tvg-name="Freies Radio Neumünster" tvg-id="radio_frn.de" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_frn.de.png" tvg-url="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/epg/epg-radio_frn.de" group-title="Radio",Freies Radio Neumünster
 http://streaming.fueralle.org:8000/frn
 #EXTINF:-1 radio="true" tvg-name="Freies Sender Kombinat" tvg-id="radio_fsk.de" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_freies-sender-kombinat.de.png" group-title="Radio",Freies Sender Kombinat
 https://streaming.fueralle.org/fsk.mp3
