@@ -27,5 +27,6 @@ https://tinyurl.com/klingtv
 | <img src="logos/arte.de.png" alt="Logo" width="24px" />                         | arte           | https://artesimulcast.akamaized.net/hls/live/2030993/artelive_de/master.m3u8
 |Spartenprogramm |
 |Radio |
-| <img src="logos/radio_frn.de.png" alt="Logo" width="24px" />                    | Freies Radio Neumünster | http://streaming.fueralle.org:8000/frn
-| <img src="logos/radio_freies-sender-kombinat.de.png" alt="Logo" width="24px" /> | Freies Sender Kombinat | https://streaming.fueralle.org/fsk.mp3
+| <img src="logos/radio_frn.de.png" alt="Logo" width="24px" />                    | Freies Radio Neumünster (NMS) | http://streaming.fueralle.org:8000/frn
+| <img src="logos/radio_freies-sender-kombinat.de.png" alt="Logo" width="24px" /> | Freies Sender Kombinat (HH)   | https://streaming.fueralle.org/fsk.mp3
+| <img src="logos/radio_radio-fratz.de.png" alt="Logo" width="24px" />            | Radio Fratz (FL)              | https://stream.radio-fratz.de/stream.mp3
