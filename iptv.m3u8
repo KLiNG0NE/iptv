@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_DE1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_DELUXEMUSIC1.xml.gz"
+﻿#EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_DE1.xml.gz"
 #EXTINF:-1 tvg-id="Das.Erste.de" tvg-name="Das Erste HD" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/das-erste.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Vollprogramm" tvg-chno="1" group-title="Vollprogramm",Das Erste
 https://daserste-live.ard-mcdn.de/daserste/live/hls/de/master.m3u8
 #EXTINF:-1 tvg-id="ZDF.de" tvg-name="ZDF" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/zdf.de.png" tvg-language="de" tvg-country="DE" tvg-chno="2" group-title="Vollprogramm",ZDF
@@ -25,6 +25,8 @@ https://mcdn.br.de/br/fs/ard_alpha/hls/de/master.m3u8
 https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/dw.de.png" tvg-language="en" tvg-country="DE" group-title="Spartenprogramm",DW
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
+#EXTINF:-1 tvg-id="DELUXE.MUSIC.de" tvg-name="Deluxe Music" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/deluxe-music.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Musik" group-title="Musik",Deluxe Music
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
 #EXTINF:-1 radio="true" tvg-id="radio_frn.de" tvg-name="Freies Radio Neumünster" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_frn.de.png" tvg-language="de" tvg-country="DE" tvg-url="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/epg/epg-radio_frn.de" group-title="Radio",Freies Radio Neumünster (NMS)
 http://streaming.fueralle.org:8000/frn
 #EXTINF:-1 radio="true" tvg-id="radio_fsk.de" tvg-name="Freies Sender Kombinat" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_freies-sender-kombinat.de.png" tvg-language="de" tvg-country="DE" group-title="Radio",Freies Sender Kombinat (HH)
