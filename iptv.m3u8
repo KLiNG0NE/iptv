@@ -1,15 +1,15 @@
-﻿#EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_DE1.xml.gz"
+#EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_DE1.xml.gz" x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_DELUXEMUSIC1.xml.gz"
 #EXTINF:-1 tvg-id="Das.Erste.de" tvg-name="Das Erste HD" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/das-erste.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Vollprogramm" tvg-chno="1" group-title="Vollprogramm",Das Erste
 https://daserste-live.ard-mcdn.de/daserste/live/hls/de/master.m3u8
-#EXTINF:-1 tvg-id="ZDF.de" tvg-name="ZDF" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/zdf.de.png" tvg-language="de" tvg-country="DE" tvg-chno="2" group-title="Vollprogramm",ZDF
+#EXTINF:-1 tvg-id="ZDF.de" tvg-name="ZDF" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/zdf.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Vollprogramm" tvg-chno="2" group-title="Vollprogramm",ZDF
 http://zdf-hls-15.akamaized.net/hls/live/2016498/de/veryhigh/master.m3u8
-#EXTINF:-1 tvg-id="3sat.de" tvg-name="3sat" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/3sat.de.png" tvg-language="de" tvg-country="DE" tvg-chno="3" group-title="Vollprogramm",3sat
+#EXTINF:-1 tvg-id="3sat.de" tvg-name="3sat" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/3sat.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Vollprogramm" tvg-chno="3" group-title="Vollprogramm",3sat
 https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/high/master.m3u8
-#EXTINF:-1 tvg-id="ARTE.de" tvg-name="ARTE" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/arte.de.png" tvg-language="de" tvg-country="DE" group-title="Vollprogramm",arte
+#EXTINF:-1 tvg-id="ARTE.de" tvg-name="ARTE" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/arte.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Vollprogramm" group-title="Vollprogramm",arte
 https://artesimulcast.akamaized.net/hls/live/2030993/artelive_de/master.m3u8
-#EXTINF:-1 tvg-id="DF1.de" tvg-name="DF1" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/df1.de.png" group-title="Vollprogramm",DF1
+#EXTINF:-1 tvg-id="DF1.de" tvg-name="DF1" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/df1.de.png" tvg-genre="Vollprogramm" group-title="Vollprogramm",DF1
 https://d287776cjxyfeq.cloudfront.net/out/v1/08823cd7fba74508a5a577fd51dc41f6/index_2.m3u8
-#EXTINF:-1 tvg-id="dctp.tv.de" tvg-name="dctp.tv" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/dctp-tv.de.png" group-title="Vollprogramm",dctp.tv
+#EXTINF:-1 tvg-id="dctp.tv.de" tvg-name="dctp.tv" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/dctp-tv.de.png" tvg-genre="Vollprogramm" group-title="Vollprogramm",dctp.tv
 https://cdn.svmcdn3.com/hls/dctp/cbb197d299874bc094dd5fb5a375b9bc_hls720p.mp4/playlist.m3u8
 #EXTINF:-1 tvg-id="ZDFneo.de" tvg-name="ZDFneo" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/zdfneo.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Unterhaltung" group-title="Spartenprogramm",ZDFneo
 https://zdf-hls-16.akamaized.net/hls/live/2016499/de/veryhigh/master.m3u8
@@ -25,17 +25,15 @@ https://mcdn.br.de/br/fs/ard_alpha/hls/de/master.m3u8
 https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/dw.de.png" tvg-language="en" tvg-country="DE" group-title="Spartenprogramm",DW
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
-#EXTINF:-1 tvg-id="DELUXE.MUSIC.de" tvg-name="Deluxe Music" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/deluxe-music.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Musik" group-title="Musik",Deluxe Music
-https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
-#EXTINF:-1 radio="true" tvg-id="radio_frn.de" tvg-name="Freies Radio Neumünster" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_frn.de.png" tvg-language="de" tvg-country="DE" tvg-url="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/epg/epg-radio_frn.de" group-title="Radio",Freies Radio Neumünster (NMS)
+#EXTINF:-1 radio="true" tvg-id="radio_frn.de" tvg-name="Freies Radio Neumünster" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_frn.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Freies Radio" tvg-url="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/epg/epg-radio_frn.de" group-title="Radio",Freies Radio Neumünster (NMS)
 http://streaming.fueralle.org:8000/frn
-#EXTINF:-1 radio="true" tvg-id="radio_fsk.de" tvg-name="Freies Sender Kombinat" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_freies-sender-kombinat.de.png" tvg-language="de" tvg-country="DE" group-title="Radio",Freies Sender Kombinat (HH)
+#EXTINF:-1 radio="true" tvg-id="radio_fsk.de" tvg-name="Freies Sender Kombinat" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_freies-sender-kombinat.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Freies Radio" group-title="Radio",Freies Sender Kombinat (HH)
 https://streaming.fueralle.org/fsk.mp3
-#EXTINF:-1 radio="true" tvg-id="radio_radio-fratz.de" tvg-name="Radio Fratz" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_radio-fratz.de.png" tvg-language="de" tvg-country="DE" group-title="Radio",Radio Fratz (FL)
+#EXTINF:-1 radio="true" tvg-id="radio_radio-fratz.de" tvg-name="Radio Fratz" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_radio-fratz.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Freies Radio" group-title="Radio",Radio Fratz (FL)
 https://stream.radio-fratz.de/stream.mp3
-#EXTINF:-1 radio="true" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_radio-corax.de.png" tvg-language="de" tvg-country="DE" group-title="Radio",Radio CORAX (HAL)
+#EXTINF:-1 radio="true" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_radio-corax.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Freies Radio" group-title="Radio",Radio CORAX (HAL)
 https://streaming.fueralle.org/corax_192.mp3
-#EXTINF:-1 radio="true" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_radio-frei.de.png" tvg-language="de" tvg-country="DE" group-title="Radio",Radio F.R.E.I. (EF)
+#EXTINF:-1 radio="true" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_radio-frei.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Freies Radio" group-title="Radio",Radio F.R.E.I. (EF)
 https://streaming.fueralle.org/Radio-F.R.E.I
 #EXTINF:-1 radio="true" tvg-id="Radio-LOTTE.de" tvg-name="Radio LOTTE" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radiio_radio-lotte.png" tvg-language="de" tvg-country="DE" tvg-genre="Freies Radio" group-title="Radio",Radio LOTTE (WE)
 https://stream.radio-bf.de/listen/lotte/ssl.mp3
