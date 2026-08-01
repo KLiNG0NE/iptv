@@ -3,8 +3,8 @@
     <display-name>Freies Radio Neumünster</display-name>
     <icon src="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_frn.de.png" />
   </channel>
-  <programme start="20260727000000 +0000" stop="202607275959 +0000" channel="Freies Radio Neumünster">
+  <programme start="20260727000000 +0000" stop="202707275959 +0000" channel="Freies Radio Neumünster">
     <title>Website</title>
-    <desc>Besuchen Sie die Website: <a href="https://www.freiesradio-nms.de">freiesradio-nms.de</a></desc>
+    <desc>Website: <a href="https://www.freiesradio-nms.de">freiesradio-nms.de</a></desc>
   </programme>
 </tv>
