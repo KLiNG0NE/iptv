@@ -37,18 +37,20 @@ https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_nds/master.m3u8
 https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_mv/master.m3u8
 #EXTINF:-1 tvg-id="NDR.de" tvg-name="NDR" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio-bremen.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Drittes Fernsehprogramm" group-title="Vollprogramm",Radio Bremen TV
 https://rbhlslive.akamaized.net/hls/live/2020435/rbfs/master.m3u8
-#EXTINF:-1 radio="true" tvg-id="radio_frn.de" tvg-name="Freies Radio Neumünster" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_frn.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Freies Radio" tvg-url="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/epg/epg-radio_frn.de" group-title="Radio",Freies Radio Neumünster [NMS]
+#EXTINF:-1 radio="true" tvg-id="radio_frn.de" tvg-name="Freies Radio Neumünster" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_frn.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Freies Radio" tvg-url="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/epg/epg-radio_frn.de.xml" group-title="Radio",Freies Radio Neumünster [NMS]
 http://streaming.fueralle.org:8000/frn
 #EXTINF:-1 radio="true" tvg-id="freies-radio-freudenstadt.de" tvg-name="Freies Radio Freudenstadt" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio__freies-radio-freudenstadt.png" tvg-language="de" tvg-country="DE" tvg-genre="Freies Radio" group-title="Radio",Freies Radio Freudenstadt [FDS]
 https://stream.radio-fds.de:9148/stream
 #EXTINF:-1 radio="true" tvg-id="radio_fsk.de" tvg-name="Freies Sender Kombinat" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_freies-sender-kombinat.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Freies Radio" group-title="Radio",Freies Sender Kombinat [HH]
 https://streaming.fueralle.org/fsk.mp3
-#EXTINF:-1 radio="true" tvg-id="radio_radio-fratz.de" tvg-name="Radio Fratz" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_radio-fratz.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Freies Radio" group-title="Radio",Radio Fratz [FL]
-https://stream.radio-fratz.de/stream.mp3
 #EXTINF:-1 radio="true" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_radio-corax.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Freies Radio" group-title="Radio",Radio CORAX [HAL]
 https://streaming.fueralle.org/corax_192.mp3
+#EXTINF:-1 radio="true" tvg-id="radio_fips.de" tvg-name="Radio fips" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio__radio-fips.png" tvg-language="de" tvg-country="DE" tvg-genre="Freies Radio" group-title="Radio",Radio fips
+http://stream.radiofips.de:8000/listen.pls?sid=1
 #EXTINF:-1 radio="true" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_radio-frei.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Freies Radio" group-title="Radio",Radio F.R.E.I. [EF]
 https://streaming.fueralle.org/Radio-F.R.E.I
+#EXTINF:-1 radio="true" tvg-id="radio_radio-fratz.de" tvg-name="Radio Fratz" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_radio-fratz.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Freies Radio" group-title="Radio",Radio Fratz [FL]
+https://stream.radio-fratz.de/stream.mp3
 #EXTINF:-1 radio="true" tvg-id="Radio-LOTTE.de" tvg-name="Radio LOTTE" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radiio_radio-lotte.png" tvg-language="de" tvg-country="DE" tvg-genre="Freies Radio" group-title="Radio",Radio LOTTE [WE]
 https://stream.radio-bf.de/listen/lotte/ssl.mp3
 #EXTINF:-1 radio="true" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_radio-dreyeckland.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Freies Radio" group-title="Radio",Radio Dreyeckland [FR]
