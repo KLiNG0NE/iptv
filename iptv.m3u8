@@ -65,3 +65,5 @@ https://stream.radio-fratz.de/stream.mp3
 https://stream.radio-bf.de/listen/lotte/ssl.mp3
 #EXTINF:-1 radio="true" tvg-id="Radio-StHörfunk.de" tvg-name="Radio StHörfunk" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_radio-sthoerfunk.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Freies Radio" group-title="Radio",Radio StHörfunk [SHA]
 https://stream.sthoerfunk.de:7443/sthoerfunk.mp3
+#EXTINF:-1 radio="true" tvg-id="Weste-Welle.de" tvg-name="Wüste Welle" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_wueste-welle.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Freies Radio" group-title="Radio",Wüste Welle [TÜ]
+http://livestream.wueste-welle.de:8000/mp3
