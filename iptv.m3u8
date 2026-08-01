@@ -59,6 +59,8 @@ https://stream.querfunk.de/qfhi
 http://www.rdl.de:8000/rdl
 #EXTINF:-1 radio="true" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_radio-corax.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Freies Radio" group-title="Radio",Radio CORAX [HAL]
 https://streaming.fueralle.org/corax_192.mp3
+#EXTINF:-1 radio="true" tvg-id="Radio-Darmstadt.de" tvg-name="Radio Darmstadt" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_radio-darmstadt.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Freies Radio" group-title="Radio",Radio Darmstadt [DA]
+https://stream.radiodarmstadt.de/radar.mp3
 #EXTINF:-1 radio="true" tvg-id="radio_fips.de" tvg-name="Radio fips" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio__radio-fips.png" tvg-language="de" tvg-country="DE" tvg-genre="Freies Radio" group-title="Radio",Radio fips [GP]
 https://streams.radiofips.de/fipsmp3
 #EXTINF:-1 radio="true" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_radio-frei.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Freies Radio" group-title="Radio",Radio F.R.E.I. [EF]
