@@ -37,6 +37,8 @@ https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_nds/master.m3u8
 https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_mv/master.m3u8
 #EXTINF:-1 tvg-id="NDR.de" tvg-name="NDR" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio-bremen.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Drittes Fernsehprogramm" group-title="Vollprogramm",Radio Bremen TV
 https://rbhlslive.akamaized.net/hls/live/2020435/rbfs/master.m3u8
+#EXTINF:-1 radio="true" tvg-id="radio_bermuda-funk.de" tvg-name="bermuda.funk" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio__bermudafunk.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Freies Radio" group-title="Radio",bermuda.funk [MA]
+http://streaming.fueralle.org:8000/bermudafunk_high
 #EXTINF:-1 radio="true" tvg-id="radio_frn.de" tvg-name="Freies Radio Neumünster" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_frn.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Freies Radio" tvg-url="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/epg/epg-radio_frn.de.xml" group-title="Radio",Freies Radio Neumünster [NMS]
 http://streaming.fueralle.org:8000/frn
 #EXTINF:-1 radio="true" tvg-id="freies-radio-freudenstadt.de" tvg-name="Freies Radio Freudenstadt" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio__freies-radio-freudenstadt.png" tvg-language="de" tvg-country="DE" tvg-genre="Freies Radio" group-title="Radio",Freies Radio Freudenstadt [FDS]
@@ -45,6 +47,8 @@ https://stream.radio-fds.de:9148/stream
 https://streaming.fueralle.org/fsk.mp3
 #EXTINF:-1 radio="true" tvg-id="radio_querfunk.de" tvg-name="Querfunk" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_querfunk.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Freies Radio" group-title="Radio",Querfunk [KA]
 https://stream.querfunk.de/qfhi
+#EXTINF:-1 radio="true" tvg-id="radio-dreyeckland.de" tvg-name="Radio Dreyeckland" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_radio-dreyeckland.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Freies Radio" group-title="Radio",Radio Dreyeckland [FR]
+http://www.rdl.de:8000/rdl
 #EXTINF:-1 radio="true" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_radio-corax.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Freies Radio" group-title="Radio",Radio CORAX [HAL]
 https://streaming.fueralle.org/corax_192.mp3
 #EXTINF:-1 radio="true" tvg-id="radio_fips.de" tvg-name="Radio fips" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio__radio-fips.png" tvg-language="de" tvg-country="DE" tvg-genre="Freies Radio" group-title="Radio",Radio fips [GP]
@@ -55,5 +59,3 @@ https://streaming.fueralle.org/Radio-F.R.E.I
 https://stream.radio-fratz.de/stream.mp3
 #EXTINF:-1 radio="true" tvg-id="Radio-LOTTE.de" tvg-name="Radio LOTTE" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radiio_radio-lotte.png" tvg-language="de" tvg-country="DE" tvg-genre="Freies Radio" group-title="Radio",Radio LOTTE [WE]
 https://stream.radio-bf.de/listen/lotte/ssl.mp3
-#EXTINF:-1 radio="true" tvg-id="radio-dreyeckland.de" tvg-name="Radio Dreyeckland" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_radio-dreyeckland.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Freies Radio" group-title="Radio",Radio Dreyeckland [FR]
-http://www.rdl.de:8000/rdl
