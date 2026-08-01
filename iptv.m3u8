@@ -49,6 +49,8 @@ http://streaming.fueralle.org:8000/frn
 http://88.99.63.244:8000/stream
 #EXTINF:-1 radio="true" tvg-id="radio_fsk.de" tvg-name="Freies Sender Kombinat" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_freies-sender-kombinat.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Freies Radio" group-title="Radio",Freies Sender Kombinat [HH]
 https://streaming.fueralle.org/fsk.mp3
+#EXTINF:-1 radio="true" tvg-id="LORA-München.de" tvg-name="LORA München" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_lora-muenchen.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Freies Radio" group-title="Radio",LORA München [M]
+http://stream.lora924.de:8000/lora-mp3-256.mp3
 #EXTINF:-1 radio="true" tvg-id="radio_querfunk.de" tvg-name="Querfunk" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_querfunk.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Freies Radio" group-title="Radio",Querfunk [KA]
 https://stream.querfunk.de/qfhi
 #EXTINF:-1 radio="true" tvg-id="radio-dreyeckland.de" tvg-name="Radio Dreyeckland" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_radio-dreyeckland.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Freies Radio" group-title="Radio",Radio Dreyeckland [FR]
