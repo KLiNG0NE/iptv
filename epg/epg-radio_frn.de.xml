@@ -1,10 +1,14 @@
-<tv>
-  <channel id="radio_frn.de">
-    <display-name>Freies Radio Neumünster</display-name>
-    <icon src="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_frn.de.png" />
-  </channel>
-  <programme start="20260727000000 +0000" stop="202707275959 +0000" channel="Freies Radio Neumünster">
-    <title>Website</title>
-    <desc>Website: <a href="https://www.freiesradio-nms.de">freiesradio-nms.de</a></desc>
-  </programme>
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tv SYSTEM "xmltv.dtd">
+
+<tv generator-info-name="Manuelles EPG" source-info-name="Statische Senderdaten">
+    <channel id="radio_frn.de">
+        <display-name>Freies Radio Neumünster</display-name>
+        <url>https://freiesradio-nms.de/</url>
+        <icon src="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_frn.de.png" />
+    </channel>
+    <programme start="20260727000000 +0000" stop="202707275959 +0000" channel="Freies Radio Neumünster">
+      <title>Website</title>
+      <desc>Website: <a href="https://www.freiesradio-nms.de">freiesradio-nms.de</a></desc>
+    </programme>
 </tv>
