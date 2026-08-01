@@ -39,10 +39,12 @@ https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_mv/master.m3u8
 https://rbhlslive.akamaized.net/hls/live/2020435/rbfs/master.m3u8
 #EXTINF:-1 radio="true" tvg-id="radio_bermuda-funk.de" tvg-name="bermuda.funk" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio__bermudafunk.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Freies Radio" group-title="Radio",bermuda.funk [MA]
 http://streaming.fueralle.org:8000/bermudafunk_high
-#EXTINF:-1 radio="true" tvg-id="radio_frn.de" tvg-name="Freies Radio Neumünster" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_frn.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Freies Radio" tvg-url="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/epg/epg-radio_frn.de.xml" group-title="Radio",Freies Radio Neumünster [NMS]
-http://streaming.fueralle.org:8000/frn
 #EXTINF:-1 radio="true" tvg-id="freies-radio-freudenstadt.de" tvg-name="Freies Radio Freudenstadt" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio__freies-radio-freudenstadt.png" tvg-language="de" tvg-country="DE" tvg-genre="Freies Radio" group-title="Radio",Freies Radio Freudenstadt [FDS]
 https://stream.radio-fds.de:9148/stream
+#EXTINF:-1 radio="true" tvg-id="radio_frn.de" tvg-name="Freies Radio Neumünster" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_frn.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Freies Radio" tvg-url="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/epg/epg-radio_frn.de.xml" group-title="Radio",Freies Radio Neumünster [NMS]
+http://streaming.fueralle.org:8000/frn
+#EXTINF:-1 radio="true" tvg-id="freies-radio-wiesental.de" tvg-name="Freies Radio Wiesental" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_freies-radio-wiesental.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Freies Radio" group-title="Radio",Freies Radio Wiesental [LÖ]
+http://88.99.63.244:8000/stream
 #EXTINF:-1 radio="true" tvg-id="radio_fsk.de" tvg-name="Freies Sender Kombinat" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_freies-sender-kombinat.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Freies Radio" group-title="Radio",Freies Sender Kombinat [HH]
 https://streaming.fueralle.org/fsk.mp3
 #EXTINF:-1 radio="true" tvg-id="radio_querfunk.de" tvg-name="Querfunk" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_querfunk.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Freies Radio" group-title="Radio",Querfunk [KA]
