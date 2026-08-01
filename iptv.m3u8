@@ -62,7 +62,7 @@ https://streaming.fueralle.org/Radio-F.R.E.I
 #EXTINF:-1 radio="true" tvg-id="radio_radio-fratz.de" tvg-name="Radio Fratz" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_radio-fratz.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Freies Radio" group-title="Radio",Radio Fratz [FL]
 https://stream.radio-fratz.de/stream.mp3
 #EXTINF:-1 radio="true" tvg-id="Radio-free-FM.de" tvg-name="Radio free FM" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_radio-free-fm.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Freies Radio" group-title="Radio",Radio free FM [UL]
-https://stream.radio-fratz.de/stream.mp3
+https://stream.freefm.de/Studio
 #EXTINF:-1 radio="true" tvg-id="Radio-LOTTE.de" tvg-name="Radio LOTTE" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radiio_radio-lotte.png" tvg-language="de" tvg-country="DE" tvg-genre="Freies Radio" group-title="Radio",Radio LOTTE [WE]
 https://stream.radio-bf.de/listen/lotte/ssl.mp3
 #EXTINF:-1 radio="true" tvg-id="Radio-StHörfunk.de" tvg-name="Radio StHörfunk" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_radio-sthoerfunk.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Freies Radio" group-title="Radio",Radio StHörfunk [SHA]
