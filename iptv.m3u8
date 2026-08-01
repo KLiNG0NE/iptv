@@ -55,5 +55,5 @@ https://streaming.fueralle.org/Radio-F.R.E.I
 https://stream.radio-fratz.de/stream.mp3
 #EXTINF:-1 radio="true" tvg-id="Radio-LOTTE.de" tvg-name="Radio LOTTE" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radiio_radio-lotte.png" tvg-language="de" tvg-country="DE" tvg-genre="Freies Radio" group-title="Radio",Radio LOTTE [WE]
 https://stream.radio-bf.de/listen/lotte/ssl.mp3
-#EXTINF:-1 radio="true" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_radio-dreyeckland.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Freies Radio" group-title="Radio",Radio Dreyeckland [FR]
-http://www.rdl.de:8000/rdl.m3u
+#EXTINF:-1 radio="true" tvg-id="radio-dreyeckland.de" tvg-name="Radio Dreyeckland" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_radio-dreyeckland.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Freies Radio" group-title="Radio",Radio Dreyeckland [FR]
+http://www.rdl.de:8000/rdl
