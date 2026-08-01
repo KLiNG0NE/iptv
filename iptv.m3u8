@@ -47,6 +47,8 @@ https://streaming.fueralle.org/frs-hi.mp3
 http://streaming.fueralle.org:8000/frn
 #EXTINF:-1 radio="true" tvg-id="freies-radio-wiesental.de" tvg-name="Freies Radio Wiesental" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_freies-radio-wiesental.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Freies Radio" group-title="Radio",Freies Radio Wiesental [LÖ]
 http://88.99.63.244:8000/stream
+#EXTINF:-1 radio="true" tvg-id="Freie-Radios-Berlin-Brandenburg.de" tvg-name="Freie Radios – Berlin Brandenburg" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_frbb.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Freies Radio" group-title="Radio",Freie Radios – Berlin Brandenburg [B]
+https://streaming.fueralle.org/fr-bb
 #EXTINF:-1 radio="true" tvg-id="radio_fsk.de" tvg-name="Freies Sender Kombinat" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_freies-sender-kombinat.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Freies Radio" group-title="Radio",Freies Sender Kombinat [HH]
 https://streaming.fueralle.org/fsk.mp3
 #EXTINF:-1 radio="true" tvg-id="LORA-München.de" tvg-name="LORA München" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_lora-muenchen.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Freies Radio" group-title="Radio",LORA München [M]
