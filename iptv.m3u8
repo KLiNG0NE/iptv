@@ -77,6 +77,8 @@ https://stream1.datenkollektiv.net/ginseng.mp3
 https://stream.radio-bf.de/listen/lotte/ssl.mp3
 #EXTINF:-1 radio="true" tvg-id="Radio-RFM.de" tvg-name="Radio RFM" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_rfm.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Freies Radio" group-title="Radio",Radio RFM [ESW]
 https://server4.streamserver24.com:43524/stream
+#EXTINF:-1 radio="true" tvg-id="Radio-RheinWelle.de" tvg-name="Radio RheinWelle 92,5" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_radio-rheinwelle.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Freies Radio" group-title="Radio",Radio RheinWelle 92,5 [WI]
+https://server7.streamserver24.com:31428/stream
 #EXTINF:-1 radio="true" tvg-id="Radio-Ruesselsheim.de" tvg-name="Radio Rüsselsheim" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_radio-ruesselsheim.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Freies Radio" group-title="Radio",Radio Rüsselsheim [GG]
 https://streaming.radio-r.net/radio-r
 #EXTINF:-1 radio="true" tvg-id="Radio-StHörfunk.de" tvg-name="Radio StHörfunk" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_radio-sthoerfunk.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Freies Radio" group-title="Radio",Radio StHörfunk [SHA]
