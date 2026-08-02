@@ -27,6 +27,8 @@ https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/strea
 https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8
 #EXTINF:-1 tvg-id="DELUXE.MUSIC.de" tvg-name="Deluxe Music" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/deluxe-music.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Musik" group-title="Musik",Deluxe Music
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
+#EXTINF:-1 tvg-id="kronehit-tv.at" tvg-name="kronehit tv" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/kronehit.at.png" tvg-language="de" tvg-country="AT" tvg-genre="Musik" group-title="Musik",kronehit tv
+https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
 #EXTINF:-1 tvg-id="NDR.de" tvg-name="NDR" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/ndr.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Drittes Fernsehprogramm" group-title="Vollprogramm",NDR Fernsehen [SH]
 https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_sh/master.m3u8
 #EXTINF:-1 tvg-id="NDR.de" tvg-name="NDR" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/ndr.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Drittes Fernsehprogramm" group-title="Vollprogramm",NDR Fernsehen [HH]
@@ -37,7 +39,7 @@ https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_nds/master.m3u8
 https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_mv/master.m3u8
 #EXTINF:-1 tvg-id="NDR.de" tvg-name="NDR" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio-bremen.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Drittes Fernsehprogramm" group-title="Vollprogramm",Radio Bremen TV
 https://rbhlslive.akamaized.net/hls/live/2020435/rbfs/master.m3u8
-#EXTINF:-1 tvg-id="Okto.at" tvg-name="OKTO" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/okto.de.png" tvg-language="de" tvg-country="AT" group-title="Bürgerfernsehen",OKTO
+#EXTINF:-1 tvg-id="Okto.at" tvg-name="OKTO" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/okto.at.png" tvg-language="de" tvg-country="AT" group-title="Bürgerfernsehen",OKTO
 https://cdn3.wowza.com/1/MHFtazJReW5rOFhP/N2NWNDZ2/hls/live/playlist.m3u8
 #EXTINF:-1 radio="true" tvg-id="radio_bermuda-funk.de" tvg-name="bermuda.funk" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio__bermudafunk.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Freies Radio" group-title="Radio",bermuda.funk [MA]
 http://streaming.fueralle.org:8000/bermudafunk_high
