@@ -109,3 +109,5 @@ https://zett-stream.de/listen/radio_zett/radio192.mp3
 https://streaming.fueralle.org/rfk
 #EXTINF:-1 radio="true" tvg-id="Weste-Welle.de" tvg-name="Wüste Welle" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_wueste-welle.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Freies Radio" group-title="Radio",Wüste Welle [TÜ]
 http://livestream.wueste-welle.de:8000/mp3
+#EXTINF:-1 tvg-id="OKTO.at" tvg-name="OKTO" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/okto.de.png" tvg-language="de" tvg-country="AT" group-title="Bürgerfernsehen",OKTO
+https://cdn3.wowza.com/1/MHFtazJReW5rOFhP/N2NWNDZ2/hls/live/playlist.m3u8
