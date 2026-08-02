@@ -1,8 +1,8 @@
 # iptv
 
-![Static Badge](https://img.shields.io/badge/IP-TV-blue)
+![Static Badge](https://img.shields.io/badge/IP-TV-blue) ![Static Badge](https://img.shields.io/badge/M3U-Playlist-orange) ![GitHub last commit](https://img.shields.io/github/last-commit/KLiNG0NE/iptv)
 
-IPTV
+## IPTV ##
 
 Dies ist eine M3U-Liste mit kostenlos und legal verfügbaren TV-Sendern für deutschsprachige Zuschauer.
 
