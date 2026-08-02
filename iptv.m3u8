@@ -77,8 +77,8 @@ https://stream1.datenkollektiv.net/ginseng.mp3
 https://stream.radio-bf.de/listen/lotte/ssl.mp3
 #EXTINF:-1 radio="true" tvg-id="Radio-RFM.de" tvg-name="Radio RFM" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_rfm.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Freies Radio" group-title="Radio",Radio RFM [ESW]
 https://server4.streamserver24.com:43524/stream
-#EXTINF:-1 radio="true" tvg-id="Radio-StHörfunk.de" tvg-name="Radio StHörfunk" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_radio-sthoerfunk.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Freies Radio" group-title="Radio",Radio StHörfunk [SHA]
-https://stream.sthoerfunk.de:7443/sthoerfunk.mp3
+#EXTINF:-1 radio="true" tvg-id="Radio-Unerhört-Marburg.de" tvg-name="Radio Unerhört Marburg" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_radio-unerhoert-marburg.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Freies Radio" group-title="Radio",Radio Unerhört Marburg [MR]
+http://stream.radio-rum.de:8000/rum.mp3
 #EXTINF:-1 radio="true" tvg-id="Radio-X.de" tvg-name="Radio X" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_radio-x.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Freies Radio" group-title="Radio",Radio X [F]
 http://stream.radiox.de:8000/live
 #EXTINF:-1 radio="true" tvg-id="Radio-Z.de" tvg-name="Radio Z" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_radio-z.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Freies Radio" group-title="Radio",Radio Z [N]
