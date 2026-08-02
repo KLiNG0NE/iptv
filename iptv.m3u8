@@ -73,6 +73,8 @@ https://stream.freefm.de/Studio
 https://stream1.datenkollektiv.net/ginseng.mp3
 #EXTINF:-1 radio="true" tvg-id="Radio-LOTTE.de" tvg-name="Radio LOTTE" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radiio_radio-lotte.png" tvg-language="de" tvg-country="DE" tvg-genre="Freies Radio" group-title="Radio",Radio LOTTE [WE]
 https://stream.radio-bf.de/listen/lotte/ssl.mp3
+#EXTINF:-1 radio="true" tvg-id="Radio-RFM.de" tvg-name="Radio RFM" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_rfm.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Freies Radio" group-title="Radio",Radio RFM [ESW]
+https://server4.streamserver24.com:43524/stream
 #EXTINF:-1 radio="true" tvg-id="Radio-StHörfunk.de" tvg-name="Radio StHörfunk" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_radio-sthoerfunk.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Freies Radio" group-title="Radio",Radio StHörfunk [SHA]
 https://stream.sthoerfunk.de:7443/sthoerfunk.mp3
 #EXTINF:-1 radio="true" tvg-id="Radio-Z.de" tvg-name="Radio Z" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_radio-z.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Freies Radio" group-title="Radio",Radio Z [N]
