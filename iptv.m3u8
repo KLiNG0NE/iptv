@@ -61,6 +61,8 @@ http://stream.lora924.de:8000/lora-mp3-256.mp3
 http://stream.lohro.de:8000/lohro.mp3
 #EXTINF:-1 radio="true" tvg-id="radio_querfunk.de" tvg-name="Querfunk" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_querfunk.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Freies Radio" group-title="Radio",Querfunk [KA]
 https://stream.querfunk.de/qfhi
+#EXTINF:-1 radio="true" tvg-id="Radio-Blau.de" tvg-name="Radio Blau" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_radio-blau.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Freies Radio" group-title="Radio",Radio Blau [L]
+http://stream.radioblau.de/
 #EXTINF:-1 radio="true" tvg-id="radio-dreyeckland.de" tvg-name="Radio Dreyeckland" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_radio-dreyeckland.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Freies Radio" group-title="Radio",Radio Dreyeckland [FR]
 http://www.rdl.de:8000/rdl
 #EXTINF:-1 radio="true" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_radio-corax.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Freies Radio" group-title="Radio",Radio CORAX [HAL]
