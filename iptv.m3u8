@@ -1,4 +1,4 @@
-﻿#EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_DE1.xml.gz"
+﻿#EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_DE1.xml.gz" x-tvg-url="https://iptv-epg.org/files/epg-de.xml.gz"
 #EXTINF:-1 tvg-id="Das.Erste.de" tvg-name="Das Erste HD" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/das-erste.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Vollprogramm" tvg-chno="1" group-title="Vollprogramm",Das Erste
 https://daserste-live.ard-mcdn.de/daserste/live/hls/de/master.m3u8
 #EXTINF:-1 tvg-id="ZDF.de" tvg-name="ZDF" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/zdf.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Vollprogramm" tvg-chno="2" group-title="Vollprogramm",ZDF
@@ -21,10 +21,10 @@ https://zdf-hls-17.akamaized.net/hls/live/2016500/de/veryhigh/master.m3u8
 https://zdf-hls-19.akamaized.net/hls/live/2016502/de/veryhigh/master.m3u8
 #EXTINF:-1 tvg-id="ARD.alpha.de" tvg-name="ARD alpha" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/ard-alpha.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Info/Doku" group-title="Spartenprogramm",ARD alpha
 https://mcdn.br.de/br/fs/ard_alpha/hls/de/master.m3u8
-#EXTINF:-1 tvg-id="tagesschau24.de" tvg-name="tagesschau24" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/tagesschau24.de.png" tvg-language="de" tvg-country="DE" tvg-chno="24" group-title="Nachrichten",tagesschau24
-https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8
 #EXTINF:-1 tvg-id="DW.de" tvg-name="DW" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/dw.de.png" tvg-language="en" tvg-country="DE" tvg-genre="International" group-title="Spartenprogramm",DW
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
+#EXTINF:-1 tvg-id="tagesschau24.de" tvg-name="tagesschau24" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/tagesschau24.de.png" tvg-language="de" tvg-country="DE" tvg-chno="24" group-title="Nachrichten",tagesschau24
+https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8
 #EXTINF:-1 tvg-id="DELUXE.MUSIC.de" tvg-name="Deluxe Music" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/deluxe-music.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Musik" group-title="Musik",Deluxe Music
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
 #EXTINF:-1 tvg-id="NDR.de" tvg-name="NDR" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/ndr.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Drittes Fernsehprogramm" group-title="Vollprogramm",NDR Fernsehen [SH]
@@ -37,6 +37,8 @@ https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_nds/master.m3u8
 https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_mv/master.m3u8
 #EXTINF:-1 tvg-id="NDR.de" tvg-name="NDR" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio-bremen.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Drittes Fernsehprogramm" group-title="Vollprogramm",Radio Bremen TV
 https://rbhlslive.akamaized.net/hls/live/2020435/rbfs/master.m3u8
+#EXTINF:-1 tvg-id="Okto.at" tvg-name="OKTO" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/okto.de.png" tvg-language="de" tvg-country="AT" group-title="Bürgerfernsehen",OKTO
+https://cdn3.wowza.com/1/MHFtazJReW5rOFhP/N2NWNDZ2/hls/live/playlist.m3u8
 #EXTINF:-1 radio="true" tvg-id="radio_bermuda-funk.de" tvg-name="bermuda.funk" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio__bermudafunk.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Freies Radio" group-title="Radio",bermuda.funk [MA]
 http://streaming.fueralle.org:8000/bermudafunk_high
 #EXTINF:-1 radio="true" tvg-id="coloradio.de" tvg-name="coloRadio" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_coloradio.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Freies Radio" group-title="Radio",coloRadio [DD]
@@ -109,5 +111,3 @@ https://zett-stream.de/listen/radio_zett/radio192.mp3
 https://streaming.fueralle.org/rfk
 #EXTINF:-1 radio="true" tvg-id="Weste-Welle.de" tvg-name="Wüste Welle" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_wueste-welle.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Freies Radio" group-title="Radio",Wüste Welle [TÜ]
 http://livestream.wueste-welle.de:8000/mp3
-#EXTINF:-1 tvg-id="OKTO.at" tvg-name="OKTO" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/okto.de.png" tvg-language="de" tvg-country="AT" group-title="Bürgerfernsehen",OKTO
-https://cdn3.wowza.com/1/MHFtazJReW5rOFhP/N2NWNDZ2/hls/live/playlist.m3u8
