@@ -1,5 +1,7 @@
 # iptv
 
+![Static Badge](https://img.shields.io/badge/IP-TV-blue)
+
 IPTV
 
 Dies ist eine M3U-Liste mit kostenlos und legal verfügbaren TV-Sendern für deutschsprachige Zuschauer.
