@@ -43,6 +43,8 @@ http://streaming.fueralle.org:8000/bermudafunk_high
 https://stream.radio-fds.de:9148/stream
 #EXTINF:-1 radio="true" tvg-id="freies-radio-fuer-stuttgart.de" tvg-name="Freies Radio für Stuttgart" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_freies-radio-fuer-stuttgart.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Freies Radio" group-title="Radio",Freies Radio für Stuttgart [S]
 https://streaming.fueralle.org/frs-hi.mp3
+#EXTINF:-1 radio="true" tvg-id="Freies-Radio-Kassel.de" tvg-name="Freies Radio Kassel" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_freies-radio-kassel.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Freies Radio" group-title="Radio",Freies Radio Kassel [KS]
+https://stream-freies-radio-kassel.de/live.mp3
 #EXTINF:-1 radio="true" tvg-id="radio_frn.de" tvg-name="Freies Radio Neumünster" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_frn.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Freies Radio" tvg-url="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/epg/epg-radio_frn.de.xml" group-title="Radio",Freies Radio Neumünster [NMS]
 http://streaming.fueralle.org:8000/frn
 #EXTINF:-1 radio="true" tvg-id="freies-radio-wiesental.de" tvg-name="Freies Radio Wiesental" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_freies-radio-wiesental.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Freies Radio" group-title="Radio",Freies Radio Wiesental [LÖ]
