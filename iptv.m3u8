@@ -67,6 +67,8 @@ https://streaming.fueralle.org/corax_192.mp3
 https://stream.radiodarmstadt.de/radar.mp3
 #EXTINF:-1 radio="true" tvg-id="radio_fips.de" tvg-name="Radio fips" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio__radio-fips.png" tvg-language="de" tvg-country="DE" tvg-genre="Freies Radio" group-title="Radio",Radio fips [GP]
 https://streams.radiofips.de/fipsmp3
+#EXTINF:-1 radio="true" tvg-id="radio-flora.de" tvg-name="radio flora" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_radio-flora.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Freies Radio" group-title="Radio",radio flora [H]
+https://radioflora.de:8443/studiostream.mp3
 #EXTINF:-1 radio="true" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_radio-frei.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Freies Radio" group-title="Radio",Radio F.R.E.I. [EF]
 https://streaming.fueralle.org/Radio-F.R.E.I
 #EXTINF:-1 radio="true" tvg-id="radio_radio-fratz.de" tvg-name="Radio Fratz" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_radio-fratz.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Freies Radio" group-title="Radio",Radio Fratz [FL]
