@@ -103,6 +103,8 @@ http://stream.radio-rum.de:8000/rum.mp3
 http://stream.radiox.de:8000/live
 #EXTINF:-1 radio="true" tvg-id="Radio-Z.de" tvg-name="Radio Z" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_radio-z.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Freies Radio" group-title="Radio",Radio Z [N]
 https://stream.radio-z.net/live
+#EXTINF:-1 radio="true" tvg-id="Radio-Zett.de" tvg-name="Radio Zett" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_radio-zett.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Freies Radio" group-title="Radio",Radio Zett [ZI]
+https://zett-stream.de/listen/radio_zett/radio192.mp3
 #EXTINF:-1 radio="true" tvg-id="Rundfunk-Kombinat-Sachsen.de" tvg-name="Rundfunk-Kombinat Sachsen" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_rundfunk-kombinat-sachsen.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Freies Radio" group-title="Radio",Rundfunk-Kombinat Sachsen [L]
 https://streaming.fueralle.org/rfk
 #EXTINF:-1 radio="true" tvg-id="Weste-Welle.de" tvg-name="Wüste Welle" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_wueste-welle.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Freies Radio" group-title="Radio",Wüste Welle [TÜ]
