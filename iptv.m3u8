@@ -39,6 +39,8 @@ https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_mv/master.m3u8
 https://rbhlslive.akamaized.net/hls/live/2020435/rbfs/master.m3u8
 #EXTINF:-1 radio="true" tvg-id="radio_bermuda-funk.de" tvg-name="bermuda.funk" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio__bermudafunk.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Freies Radio" group-title="Radio",bermuda.funk [MA]
 http://streaming.fueralle.org:8000/bermudafunk_high
+#EXTINF:-1 radio="true" tvg-id="coloradio.de" tvg-name="coloRadio" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_coloradio.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Freies Radio" group-title="Radio",coloRadio [DD]
+https://streaming.fueralle.org/coloradio_160.mp3?_=1
 #EXTINF:-1 radio="true" tvg-id="freies-radio-freudenstadt.de" tvg-name="Freies Radio Freudenstadt" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio__freies-radio-freudenstadt.png" tvg-language="de" tvg-country="DE" tvg-genre="Freies Radio" group-title="Radio",Freies Radio Freudenstadt [FDS]
 https://stream.radio-fds.de:9148/stream
 #EXTINF:-1 radio="true" tvg-id="freies-radio-fuer-stuttgart.de" tvg-name="Freies Radio für Stuttgart" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_freies-radio-fuer-stuttgart.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Freies Radio" group-title="Radio",Freies Radio für Stuttgart [S]
