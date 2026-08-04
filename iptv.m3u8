@@ -54,7 +54,7 @@ https://hr-live.ard-mcdn.de/hr/live/hls/de/master.m3u8
 #EXTINF:-1 tvg-id="SWR/SR.de" tvg-name="SWR" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/swr.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Drittes Fernsehprogramm" group-title="Vollprogramm",SWR
 https://mcdn.swr.de/swr/swrbwd/master.m3u8
 #EXTINF:-1 tvg-id="SWR/SR.de" tvg-name="SR Fernsehen" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/sr-fernsehen.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Drittes Fernsehprogramm" group-title="Vollprogramm",SR Fernsehen
-https://mcdn.swr.de/swr/swrbwd/master.m3u8
+https://srfs.akamaized.net/hls/live/689649/srfsgeo/master.m3u8
 #EXTINF:-1 tvg-id="Okto.at" tvg-name="OKTO" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/okto.at.png" tvg-language="de" tvg-country="AT" group-title="Bürgerfernsehen",OKTO
 https://cdn3.wowza.com/1/MHFtazJReW5rOFhP/N2NWNDZ2/hls/live/playlist.m3u8
 #EXTINF:-1 radio="true" tvg-id="radio_bermuda-funk.de" tvg-name="bermuda.funk" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio__bermudafunk.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Freies Radio" group-title="Radio",bermuda.funk [MA]
