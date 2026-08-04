@@ -9,8 +9,6 @@ https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/high/master.m3u8
 https://artesimulcast.akamaized.net/hls/live/2030993/artelive_de/master.m3u8
 #EXTINF:-1 tvg-id="DF1.de" tvg-name="DF1" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/df1.de.png" tvg-genre="Vollprogramm" group-title="Vollprogramm",DF1
 https://d287776cjxyfeq.cloudfront.net/out/v1/08823cd7fba74508a5a577fd51dc41f6/index_2.m3u8
-#EXTINF:-1 tvg-id="dctp.tv.de" tvg-name="dctp.tv" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/dctp-tv.de.png" tvg-genre="Vollprogramm" group-title="Vollprogramm",dctp.tv
-https://cdn.svmcdn3.com/hls/dctp/cbb197d299874bc094dd5fb5a375b9bc_hls720p.mp4/playlist.m3u8
 #EXTINF:-1 tvg-id="ZDFneo.de" tvg-name="ZDFneo" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/zdfneo.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Unterhaltung" group-title="Spartenprogramm",ZDFneo
 https://zdf-hls-16.akamaized.net/hls/live/2016499/de/veryhigh/master.m3u8
 #EXTINF:-1 tvg-id="One.de" tvg-name="One" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/one.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Unterhaltung" group-title="Spartenprogramm",One
@@ -39,6 +37,10 @@ https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_nds/master.m3u8
 https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_mv/master.m3u8
 #EXTINF:-1 tvg-id="NDR.de" tvg-name="NDR" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio-bremen.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Drittes Fernsehprogramm" group-title="Vollprogramm",Radio Bremen TV
 https://rbhlslive.akamaized.net/hls/live/2020435/rbfs/master.m3u8
+#EXTINF:-1 tvg-id="RBB.de" tvg-name="rbb Fernsehen" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/rbb-fernsehen.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Drittes Fernsehprogramm" group-title="Vollprogramm",rbb Fernsehen (BER)
+https://rbb-live.ard-mcdn.de/rbb/berlin/hls/de/master.m3u8
+#EXTINF:-1 tvg-id="RBB.de" tvg-name="rbb Fernsehen" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/rbb-fernsehen.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Drittes Fernsehprogramm" group-title="Vollprogramm",rbb Fernsehen (BRB)
+https://rbb-live.ard-mcdn.de/rbb/brandenburg/hls/de/master.m3u8
 #EXTINF:-1 tvg-id="Okto.at" tvg-name="OKTO" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/okto.at.png" tvg-language="de" tvg-country="AT" group-title="Bürgerfernsehen",OKTO
 https://cdn3.wowza.com/1/MHFtazJReW5rOFhP/N2NWNDZ2/hls/live/playlist.m3u8
 #EXTINF:-1 radio="true" tvg-id="radio_bermuda-funk.de" tvg-name="bermuda.funk" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio__bermudafunk.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Freies Radio" group-title="Radio",bermuda.funk [MA]
