@@ -97,6 +97,8 @@ https://streaming.fueralle.org/fsk.mp3
 http://stream.lora924.de:8000/lora-mp3-256.mp3
 #EXTINF:-1 radio="true" tvg-id="LOHRO.de" tvg-name="LOHRO" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_lohro.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Freies Radio" group-title="Freies Radio",LOHRO [MV-HRO]
 http://stream.lohro.de:8000/lohro.mp3
+#EXTINF:-1 radio="true" tvg-id="Orange-94.0.at" tvg-name="Orange 94.0" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_orange-94-0.at.png" tvg-language="de" tvg-country="AT" tvg-genre="Freies Radio" group-title="Freies Radio",Orange 94.0 [AT-W]
+https://securestream.o94.at/live.mp3
 #EXTINF:-1 radio="true" tvg-id="radio_querfunk.de" tvg-name="Querfunk" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_querfunk.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Freies Radio" group-title="Freies Radio",Querfunk [BW-KA]
 https://stream.querfunk.de/qfhi
 #EXTINF:-1 radio="true" tvg-id="Radio-Blau.de" tvg-name="Radio Blau" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_radio-blau.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Freies Radio" group-title="Freies Radio",Radio Blau [SN-L]
