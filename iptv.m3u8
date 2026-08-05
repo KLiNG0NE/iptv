@@ -69,6 +69,8 @@ http://streaming.fueralle.org:8000/bermudafunk_high
 https://stream.cr944.at/cr944-high
 #EXTINF:-1 radio="true" tvg-id="coloradio.de" tvg-name="coloRadio" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_coloradio.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Freies Radio" group-title="Freies Radio",coloRadio [SN-DD]
 https://streaming.fueralle.org/coloradio_160.mp3?_=1
+#EXTINF:-1 radio="true" tvg-id="Freies-Radio-B138.de" tvg-name="Freies Radio B138" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_radio-b138.at.png" tvg-language="de" tvg-country="AT" tvg-genre="Freies Radio" group-title="Freies Radio",Freies Radio B138 [AT-OÖ-KI]
+http://73713.streamerr.co:8000/main
 #EXTINF:-1 radio="true" tvg-id="freies-radio-freudenstadt.de" tvg-name="Freies Radio Freudenstadt" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio__freies-radio-freudenstadt.png" tvg-language="de" tvg-country="DE" tvg-genre="Freies Radio" group-title="Freies Radio",Freies Radio Freudenstadt [BW-FDS]
 https://stream.radio-fds.de:9148/stream
 #EXTINF:-1 radio="true" tvg-id="Freies-Radio-Innsbruck.at" tvg-name="Freies Radio Innsbruck" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_freies-radio-innsbruck.at.png" tvg-language="de" tvg-country="AT" tvg-genre="Freies Radio" group-title="Freies Radio",Freies Radio Innsbruck FREIRAD [AT-T-I]
