@@ -101,6 +101,8 @@ http://stream.lohro.de:8000/lohro.mp3
 https://securestream.o94.at/live.mp3
 #EXTINF:-1 radio="true" tvg-id="radio_querfunk.de" tvg-name="Querfunk" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_querfunk.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Freies Radio" group-title="Freies Radio",Querfunk [BW-KA]
 https://stream.querfunk.de/qfhi
+#EXTINF:-1 radio="true" tvg-id="Radio-AGORA.ar" tvg-name="Radio AGORA" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_agora.at.png" tvg-language="de; sl" tvg-country="AT" tvg-genre="Freies Radio" group-title="Freies Radio",Radio AGORA [AT-K-K]
+https://stream.agora.at/stream/agora/agora
 #EXTINF:-1 radio="true" tvg-id="Radio-Blau.de" tvg-name="Radio Blau" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_radio-blau.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Freies Radio" group-title="Freies Radio",Radio Blau [SN-L]
 http://stream.radioblau.de/
 #EXTINF:-1 radio="true" tvg-id="radio-dreyeckland.de" tvg-name="Radio Dreyeckland" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_radio-dreyeckland.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Freies Radio" group-title="Freies Radio",Radio Dreyeckland [BW-FR]
