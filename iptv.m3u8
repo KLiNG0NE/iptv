@@ -103,12 +103,14 @@ https://stream.radiodarmstadt.de/radar.mp3
 https://streams.radiofips.de/fipsmp3
 #EXTINF:-1 radio="true" tvg-id="radio-flora.de" tvg-name="radio flora" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_radio-flora.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Freies Radio" group-title="Freies Radio",radio flora [NI-H]
 https://radioflora.de:8443/studiostream.mp3
-#EXTINF:-1 radio="true" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_radio-frei.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Freies Radio" group-title="Freies Radio",Radio F.R.E.I. [TH-EF]
-https://streaming.fueralle.org/Radio-F.R.E.I
 #EXTINF:-1 radio="true" tvg-id="radio_radio-fratz.de" tvg-name="Radio Fratz" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_radio-fratz.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Freies Radio" group-title="Freies Radio",Radio Fratz [SH-FL]
 https://stream.radio-fratz.de/stream.mp3
 #EXTINF:-1 radio="true" tvg-id="Radio-free-FM.de" tvg-name="Radio free FM" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_radio-free-fm.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Freies Radio" group-title="Freies Radio",Radio free FM [BW-UL]
 https://stream.freefm.de/Studio
+#EXTINF:-1 radio="true" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_radio-frei.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Freies Radio" group-title="Freies Radio",Radio F.R.E.I. [TH-EF]
+https://streaming.fueralle.org/Radio-F.R.E.I
+#EXTINF:-1 radio="true" tvg-id="Radio-FREEQUENNS.at" tvg-name="Radio FREEQUENNS" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_freequenns.at.png" tvg-language="de" tvg-country="AT" tvg-genre="Freies Radio" group-title="Freies Radio",Radio FREEQUENNS [AT-ST-LI]
+https://www.freequenns.at/live
 #EXTINF:-1 radio="true" tvg-id="Radio-Ginseng.de" tvg-name="Radio Ginseng" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_radio-ginseng.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Freies Radio" group-title="Freies Radio",Radio Ginseng [BB-LOS]
 https://stream1.datenkollektiv.net/ginseng.mp3
 #EXTINF:-1 radio="true" tvg-id="Radio-LOTTE.de" tvg-name="Radio LOTTE" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radiio_radio-lotte.png" tvg-language="de" tvg-country="DE" tvg-genre="Freies Radio" group-title="Freies Radio",Radio LOTTE [TH-WE]
