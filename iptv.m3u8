@@ -84,7 +84,7 @@ https://stream-freies-radio-kassel.de/live.mp3
 #EXTINF:-1 radio="true" tvg-id="radio_frn.de" tvg-name="Freies Radio Neumünster" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_frn.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Freies Radio" tvg-url="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/epg/epg-radio_frn.de.xml" group-title="Freies Radio",Freies Radio Neumünster [SH-NMS]
 http://streaming.fueralle.org:8000/frn
 #EXTINF:-1 radio="true" tvg-id="Freies-Radio-Salzkammergut.de" tvg-name="Freies Radio Salzkammergut" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_freies-radio-salzkammergut.at.png" tvg-language="de" tvg-country="AT" tvg-genre="Freies Radio" group-title="Freies Radio",Freies Radio Salzkammergut [AT-OÖ-GM]
-http://freiesradio.at:8000/frs.mp3.m3u
+http://freiesradio.at:8000/frs.mp3
 #EXTINF:-1 radio="true" tvg-id="freies-radio-wiesental.de" tvg-name="Freies Radio Wiesental" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_freies-radio-wiesental.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Freies Radio" group-title="Freies Radio",Freies Radio Wiesental [BW-LÖ]
 http://88.99.63.244:8000/stream
 #EXTINF:-1 radio="true" tvg-id="Freie-Radios-Berlin-Brandenburg.de" tvg-name="Freie Radios – Berlin Brandenburg" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_frbb.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Freies Radio" group-title="Freies Radio",Freie Radios – Berlin Brandenburg [B]
