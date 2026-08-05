@@ -127,6 +127,8 @@ https://www.freequenns.at/live
 https://stream.fro.at/fro320.mp3
 #EXTINF:-1 radio="true" tvg-id="Radio-Ginseng.de" tvg-name="Radio Ginseng" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_radio-ginseng.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Freies Radio" group-title="Freies Radio",Radio Ginseng [BB-LOS]
 https://stream1.datenkollektiv.net/ginseng.mp3
+#EXTINF:-1 radio="true" tvg-id="Radio-Helsinki.at" tvg-name="Radio Helsinki" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio__radio-helsinki.at.png" tvg-language="de" tvg-country="AT" tvg-genre="Freies Radio" group-title="Freies Radio",Radio Helsinki [AT-ST-G]
+https://live.helsinki.at:8088/live160.mp3
 #EXTINF:-1 radio="true" tvg-id="Radio-LOTTE.de" tvg-name="Radio LOTTE" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radiio_radio-lotte.png" tvg-language="de" tvg-country="DE" tvg-genre="Freies Radio" group-title="Freies Radio",Radio LOTTE [TH-WE]
 https://stream.radio-bf.de/listen/lotte/ssl.mp3
 #EXTINF:-1 radio="true" tvg-id="Radio-Ostfriesland.de" tvg-name="Radio Ostfriesland" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_radio-ostfriesland.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Freies Radio" group-title="Freies Radio",Radio Ostfriesland [NI-EMD]
