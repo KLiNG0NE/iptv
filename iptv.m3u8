@@ -71,6 +71,8 @@ https://stream.cr944.at/cr944-high
 https://streaming.fueralle.org/coloradio_160.mp3?_=1
 #EXTINF:-1 radio="true" tvg-id="freies-radio-freudenstadt.de" tvg-name="Freies Radio Freudenstadt" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio__freies-radio-freudenstadt.png" tvg-language="de" tvg-country="DE" tvg-genre="Freies Radio" group-title="Freies Radio",Freies Radio Freudenstadt [BW-FDS]
 https://stream.radio-fds.de:9148/stream
+#EXTINF:-1 radio="true" tvg-id="Freies-Radio-Innsbruck.at" tvg-name="Freies Radio Innsbruck" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_freies-radio-innsbruck.at.png" tvg-language="de" tvg-country="AT" tvg-genre="Freies Radio" group-title="Freies Radio",Freies Radio Innsbruck FREIRAD [AT-T-I]
+https://stream.freirad.at/live.mp3
 #EXTINF:-1 radio="true" tvg-id="freies-radio-fuer-stuttgart.de" tvg-name="Freies Radio für Stuttgart" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_freies-radio-fuer-stuttgart.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Freies Radio" group-title="Freies Radio",Freies Radio für Stuttgart [BW-S]
 https://streaming.fueralle.org/frs-hi.mp3
 #EXTINF:-1 radio="true" tvg-id="Freies-Radio-Kassel.de" tvg-name="Freies Radio Kassel" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_freies-radio-kassel.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Freies Radio" group-title="Freies Radio",Freies Radio Kassel [HE-KS]
