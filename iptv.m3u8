@@ -133,6 +133,8 @@ https://stream1.datenkollektiv.net/ginseng.mp3
 https://live.helsinki.at:8088/live160.mp3
 #EXTINF:-1 radio="true" tvg-id="Radio-LOTTE.de" tvg-name="Radio LOTTE" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radiio_radio-lotte.png" tvg-language="de" tvg-country="DE" tvg-genre="Freies Radio" group-title="Freies Radio",Radio LOTTE [TH-WE]
 https://stream.radio-bf.de/listen/lotte/ssl.mp3
+#EXTINF:-1 radio="true" tvg-id="Radio-MORA.at" tvg-name="Radio MORA" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_radio-mora.at.png" tvg-language="de" tvg-country="AT" tvg-genre="Freies Radio" group-title="Freies Radio",Radio MORA [AT-B-OP]
+https://server4.streamserver24.com:26250/stream?1655820557881
 #EXTINF:-1 radio="true" tvg-id="Radio-Ostfriesland.de" tvg-name="Radio Ostfriesland" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_radio-ostfriesland.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Freies Radio" group-title="Freies Radio",Radio Ostfriesland [NI-EMD]
 https://live.radio-aktiv.de/ostfriesland.mp3
 #EXTINF:-1 radio="true" tvg-id="Radio-Proton.at" tvg-name="Radio Proton" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_radio-proton.at.png" tvg-language="de" tvg-country="AT" tvg-genre="Freies Radio" group-title="Freies Radio",Radio Proton [AT-V-DO]
