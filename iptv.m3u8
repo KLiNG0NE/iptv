@@ -107,6 +107,8 @@ http://www.rdl.de:8000/rdl
 https://streaming.fueralle.org/corax_192.mp3
 #EXTINF:-1 radio="true" tvg-id="Radio-Darmstadt.de" tvg-name="Radio Darmstadt" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_radio-darmstadt.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Freies Radio" group-title="Freies Radio",Radio Darmstadt [HE-DA]
 https://stream.radiodarmstadt.de/radar.mp3
+#EXTINF:-1 radio="true" tvg-id="Radiofabrik-107-5.at" tvg-name="Radiofabrik 107,5" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_radiofabrik.at.png" tvg-language="de" tvg-country="AT" tvg-genre="Freies Radio" group-title="Freies Radio",Radiofabrik 107,5 [AT-S-S]
+https://stream.radiofabrik.at/rf_low.mp3
 #EXTINF:-1 radio="true" tvg-id="radio_fips.de" tvg-name="Radio fips" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio__radio-fips.png" tvg-language="de" tvg-country="DE" tvg-genre="Freies Radio" group-title="Freies Radio",Radio fips [BW-GP]
 https://streams.radiofips.de/fipsmp3
 #EXTINF:-1 radio="true" tvg-id="radio-flora.de" tvg-name="radio flora" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_radio-flora.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Freies Radio" group-title="Freies Radio",radio flora [NI-H]
