@@ -18,6 +18,8 @@ Kurz-URL:
 https://tinyurl.com/klingtv
 ```
 
+> ⚠️ Einige Streams benötigen je nach Wiedergabegerät etwas längere Zeit (5+ Sek.), um geladen zu werden.
+
 ## Sendertabelle ##
 
 | Logo                                                                            | Name           | Stream-URL |
