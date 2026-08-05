@@ -117,6 +117,8 @@ https://stream.freefm.de/Studio
 https://streaming.fueralle.org/Radio-F.R.E.I
 #EXTINF:-1 radio="true" tvg-id="Radio-FREEQUENNS.at" tvg-name="Radio FREEQUENNS" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_freequenns.at.png" tvg-language="de" tvg-country="AT" tvg-genre="Freies Radio" group-title="Freies Radio",Radio FREEQUENNS [AT-ST-LI]
 https://www.freequenns.at/live
+#EXTINF:-1 radio="true" tvg-id="Radio-FRO.at" tvg-name="Radio FRO" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_fro.at.png" tvg-language="de" tvg-country="AT" tvg-genre="Freies Radio" group-title="Freies Radio",Radio FRO [AT-OÖ-L]
+https://stream.fro.at/fro320.mp3
 #EXTINF:-1 radio="true" tvg-id="Radio-Ginseng.de" tvg-name="Radio Ginseng" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_radio-ginseng.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Freies Radio" group-title="Freies Radio",Radio Ginseng [BB-LOS]
 https://stream1.datenkollektiv.net/ginseng.mp3
 #EXTINF:-1 radio="true" tvg-id="Radio-LOTTE.de" tvg-name="Radio LOTTE" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radiio_radio-lotte.png" tvg-language="de" tvg-country="DE" tvg-genre="Freies Radio" group-title="Freies Radio",Radio LOTTE [TH-WE]
