@@ -131,6 +131,8 @@ https://stream1.datenkollektiv.net/ginseng.mp3
 https://stream.radio-bf.de/listen/lotte/ssl.mp3
 #EXTINF:-1 radio="true" tvg-id="Radio-Ostfriesland.de" tvg-name="Radio Ostfriesland" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_radio-ostfriesland.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Freies Radio" group-title="Freies Radio",Radio Ostfriesland [NI-EMD]
 https://live.radio-aktiv.de/ostfriesland.mp3
+#EXTINF:-1 radio="true" tvg-id="Radio-Proton.at" tvg-name="Radio Proton" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_radio-proton.at.png" tvg-language="de" tvg-country="AT" tvg-genre="Freies Radio" group-title="Freies Radio",Radio Proton [AT-V-DO]
+https://radioproton.at:8443/proton
 #EXTINF:-1 radio="true" tvg-id="Radio-RFM.de" tvg-name="Radio RFM" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_rfm.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Freies Radio" group-title="Freies Radio",Radio RFM [HE-ESW]
 https://server4.streamserver24.com:43524/stream
 #EXTINF:-1 radio="true" tvg-id="Radio-RheinWelle.de" tvg-name="Radio RheinWelle 92,5" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_radio-rheinwelle.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Freies Radio" group-title="Freies Radio",Radio RheinWelle 92,5 [HE-WI]
