@@ -21,6 +21,8 @@ https://zdf-hls-19.akamaized.net/hls/live/2016502/de/veryhigh/master.m3u8
 https://mcdn.br.de/br/fs/ard_alpha/hls/de/master.m3u8
 #EXTINF:-1 tvg-id="DW.de" tvg-name="DW" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/dw.de.png" tvg-language="en" tvg-country="DE" tvg-genre="International" group-title="Spartenprogramm",DW
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
+#EXTINF:-1 tvg-id="Dokusat.de" tvg-name="Dokusat" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/dokusat.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Info/Doku" group-title="Spartenprogramm",Dokusat
+https://muc3.iptv-playoutcenter.de/dokusat/dokusat1/playlist.m3u8
 #EXTINF:-1 tvg-id="tagesschau24.de" tvg-name="tagesschau24" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/tagesschau24.de.png" tvg-language="de" tvg-country="DE" tvg-chno="24" group-title="Nachrichten",tagesschau24
 https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8
 #EXTINF:-1 tvg-id="DELUXE.MUSIC.de" tvg-name="Deluxe Music" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/deluxe-music.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Musik" group-title="Musik",Deluxe Music
