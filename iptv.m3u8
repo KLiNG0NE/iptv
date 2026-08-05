@@ -155,6 +155,8 @@ https://stream.tonkuhle.de/tonkuhle.mp3
 http://stream.radio-rum.de:8000/rum.mp3
 #EXTINF:-1 radio="true" tvg-id="Radio-X.de" tvg-name="Radio X" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_radio-x.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Freies Radio" group-title="Freies Radio",Radio X [HE-F]
 http://stream.radiox.de:8000/live
+#EXTINF:-1 radio="true" tvg-id="radioYpsilon.at" tvg-name="radioYpsilon" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_radioypsilon.at.png" tvg-language="de" tvg-country="AT" tvg-genre="Freies Radio" group-title="Freies Radio",radioYpsilon [AT-HL-HL]
+http://mp3.radioypsilon.at:8000/
 #EXTINF:-1 radio="true" tvg-id="Radio-Z.de" tvg-name="Radio Z" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_radio-z.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Freies Radio" group-title="Freies Radio",Radio Z [BY-N]
 https://stream.radio-z.net/live
 #EXTINF:-1 radio="true" tvg-id="Radio-Zett.de" tvg-name="Radio Zett" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_radio-zett.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Freies Radio" group-title="Freies Radio",Radio Zett [SN-ZI]
