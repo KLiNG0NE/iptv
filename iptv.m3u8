@@ -155,6 +155,8 @@ http://streaming.fueralle.org:8000/radiot.mp3
 https://stream.tonkuhle.de/tonkuhle.mp3
 #EXTINF:-1 radio="true" tvg-id="Radio-Unerhört-Marburg.de" tvg-name="Radio Unerhört Marburg" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_radio-unerhoert-marburg.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Freies Radio" group-title="Freies Radio",Radio Unerhört Marburg [HE-MR]
 http://stream.radio-rum.de:8000/rum.mp3
+#EXTINF:-1 radio="true" tvg-id="Radio-X.ch" tvg-name="Radio X (Basel)" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_radio-x.ch.png" tvg-language="de" tvg-country="CH" tvg-genre="Freies Radio" group-title="Freies Radio",Radio X [CH-BS-BSL]
+https://mp3.radiox.ch/standard.mp3
 #EXTINF:-1 radio="true" tvg-id="Radio-X.de" tvg-name="Radio X" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_radio-x.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Freies Radio" group-title="Freies Radio",Radio X [HE-F]
 http://stream.radiox.de:8000/live
 #EXTINF:-1 radio="true" tvg-id="radioYpsilon.at" tvg-name="radioYpsilon" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_radioypsilon.at.png" tvg-language="de" tvg-country="AT" tvg-genre="Freies Radio" group-title="Freies Radio",radioYpsilon [AT-HL-HL]
