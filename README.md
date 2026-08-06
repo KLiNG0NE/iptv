@@ -18,7 +18,7 @@ Kurz-URL:
 https://tinyurl.com/klingtv
 ```
 
-> ⚠️ Einige Streams benötigen je nach Wiedergabegerät etwas längere Zeit (5+ Sek.), um geladen zu werden.
+> ⚠️ Einige Streams benötigen je nach Wiedergabegerät etwas längere Zeit (5+ Sek.), um geladen zu werden. – Einige Programme senden keine 24/7, also evtl. später nochmal reinhören. Diese Liste wird privat zusammengestellt und erhebt keinen Anspruch auf Vollständigkeit oder Verfügbarkeit.
 
 ## Sendertabelle ##
 
