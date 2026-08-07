@@ -113,7 +113,7 @@ http://www.rdl.de:8000/rdl
 https://streaming.fueralle.org/corax_192.mp3
 #EXTINF:-1 radio="true" tvg-id="Radio-Darmstadt.de" tvg-name="Radio Darmstadt" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_radio-darmstadt.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Freies Radio" group-title="Freies Radio",Radio Darmstadt [HE-DA]
 https://stream.radiodarmstadt.de/radar.mp3
-#EXTINF:-1 radio="true" tvg-id="Radiofabrik-107-5.at" tvg-name="Radiofabrik 107,5" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_radiofabrik.at.png" tvg-language="de" tvg-country="AT" tvg-genre="Freies Radio" group-title="Freies Radio",Radiofabrik 107,5 [AT-S-S]
+#EXTINF:-1 radio="true" tvg-id="Radiofabrik-107-5.at" tvg-name="Radiofabrik 107,5" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_radiofabrik.at.png" tvg-language="de" tvg-country="AT" tvg-genre="Freies Radio" group-title="Freies Radio",5 [AT-S-S]
 https://stream.radiofabrik.at/rf_low.mp3
 #EXTINF:-1 radio="true" tvg-id="radio_fips.de" tvg-name="Radio fips" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio__radio-fips.png" tvg-language="de" tvg-country="DE" tvg-genre="Freies Radio" group-title="Freies Radio",Radio fips [BW-GP]
 https://streams.radiofips.de/fipsmp3
@@ -141,7 +141,7 @@ https://server4.streamserver24.com:26250/stream?1655820557881
 https://live.radio-aktiv.de/ostfriesland.mp3
 #EXTINF:-1 radio="true" tvg-id="Radio-Proton.at" tvg-name="Radio Proton" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_radio-proton.at.png" tvg-language="de" tvg-country="AT" tvg-genre="Freies Radio" group-title="Freies Radio",Radio Proton [AT-V-DO]
 https://radioproton.at:8443/proton
-#EXTINF:-1 radio="true" tvg-id="Radio-RaBe.ch" tvg-name="Radio RaBe" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_radio-rabe.ch.png" tvg-language="de" tvg-country="CH" tvg-genre="Freies Radio" group-title="Freies Radio",Radio RaBe [CH-BE-BRN]
+#EXTINF:-1 radio="true" tvg-id="Radio-RaBe.ch" tvg-name="Radio RaBe" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_radio-rabe.ch.png" tvg-language="de" tvg-country="CH" tvg-genre="Freies Radio" group-title="Freies Radio",Radio RaBe [CH-BE]
 http://stream.rabe.ch:8000/livestream/rabe-hd.mp3
 #EXTINF:-1 radio="true" tvg-id="Radio-RaSA.ch" tvg-name="Radio RaSA" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_radio-rasa.ch.png" tvg-language="de" tvg-country="CH" tvg-genre="Freies Radio" group-title="Freies Radio",Radio RaSA [CH-SH]
 https://radio.upstream-cloud.ch/radiorasa-128.mp3
@@ -153,6 +153,8 @@ https://server7.streamserver24.com:31428/stream
 https://streaming.radio-r.net/radio-r
 #EXTINF:-1 radio="true" tvg-id="Radio-Słubfurt.de" tvg-name="Radio Słubfurt" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_radio-slubfurt.de.png" tvg-language="de; pl" tvg-country="DE" tvg-genre="Freies Radio" group-title="Freies Radio",Radio Słubfurt [BB-FF]
 http://streaming.fueralle.org:8000/slubfurt
+#EXTINF:-1 radio="true" tvg-id="stadtfilter.ch" tvg-name="Radio Stadtfilter" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_radio-stadtfilter.ch.png" tvg-language="de" tvg-country="CH" tvg-genre="Freies Radio" group-title="Freies Radio",Radio Stadtfilter [CH-ZH]
+https://backend.stadtfilter.net/stadtfilterhls/audio1_stream.m3u8?session=776ff27e-8464-4c5e-817c-e557d7055dc9
 #EXTINF:-1 radio="true" tvg-id="Radio-StHörfunk.de" tvg-name="Radio StHörfunk" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_radio-sthoerfunk.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Freies Radio" group-title="Freies Radio",Radio StHörfunk [BW-SHA]
 https://stream.sthoerfunk.de:7443/sthoerfunk.mp3
 #EXTINF:-1 radio="true" tvg-id="Radio-T.de" tvg-name="Radio T" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_radio-t.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Freies Radio" group-title="Freies Radio",Radio T [SN-C]
