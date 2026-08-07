@@ -115,7 +115,7 @@ http://www.rdl.de:8000/rdl
 https://streaming.fueralle.org/corax_192.mp3
 #EXTINF:-1 radio="true" tvg-id="Radio-Darmstadt.de" tvg-name="Radio Darmstadt" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_radio-darmstadt.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Freies Radio" group-title="Freies Radio",Radio Darmstadt [HE-DA]
 https://stream.radiodarmstadt.de/radar.mp3
-#EXTINF:-1 radio="true" tvg-id="Radiofabrik-107-5.at" tvg-name="Radiofabrik 107,5" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_radiofabrik.at.png" tvg-language="de" tvg-country="AT" tvg-genre="Freies Radio" group-title="Freies Radio",5 [AT-S-S]
+#EXTINF:-1 radio="true" tvg-id="Radiofabrik-107-5.at" tvg-name="Radiofabrik 107,5" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_radiofabrik.at.png" tvg-language="de" tvg-country="AT" tvg-genre="Freies Radio" group-title="Freies Radio",Radiofabrik 107,5 [AT-S-S]
 https://stream.radiofabrik.at/rf_low.mp3
 #EXTINF:-1 radio="true" tvg-id="radio_fips.de" tvg-name="Radio fips" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio__radio-fips.png" tvg-language="de" tvg-country="DE" tvg-genre="Freies Radio" group-title="Freies Radio",Radio fips [BW-GP]
 https://streams.radiofips.de/fipsmp3
@@ -134,6 +134,8 @@ https://stream.fro.at/fro320.mp3
 #EXTINF:-1 radio="true" tvg-id="Radio-Ginseng.de" tvg-name="Radio Ginseng" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_radio-ginseng.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Freies Radio" group-title="Freies Radio",Radio Ginseng [BB-LOS]
 https://stream1.datenkollektiv.net/ginseng.mp3
 #EXTINF:-1 radio="true" tvg-id="Radio-Helsinki.at" tvg-name="Radio Helsinki" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio__radio-helsinki.at.png" tvg-language="de" tvg-country="AT" tvg-genre="Freies Radio" group-title="Freies Radio",Radio Helsinki [AT-ST-G]
+https://live.helsinki.at:8088/live160.mp3
+#EXTINF:-1 radio="true" tvg-id="lora.ch" tvg-name="Radio LoRa" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_radio-lora.ch.png" tvg-language="de" tvg-country="CH" tvg-genre="Freies Radio" group-title="Freies Radio",Radio LoRa [CH-ZH]
 https://live.helsinki.at:8088/live160.mp3
 #EXTINF:-1 radio="true" tvg-id="Radio-LOTTE.de" tvg-name="Radio LOTTE" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radiio_radio-lotte.png" tvg-language="de" tvg-country="DE" tvg-genre="Freies Radio" group-title="Freies Radio",Radio LOTTE [TH-WE]
 https://stream.radio-bf.de/listen/lotte/ssl.mp3
