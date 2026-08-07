@@ -93,6 +93,8 @@ http://88.99.63.244:8000/stream
 https://streaming.fueralle.org/fr-bb
 #EXTINF:-1 radio="true" tvg-id="radio_fsk.de" tvg-name="Freies Sender Kombinat" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_freies-sender-kombinat.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Freies Radio" group-title="Freies Radio",Freies Sender Kombinat [HH]
 https://streaming.fueralle.org/fsk.mp3
+#EXTINF:-1 radio="true" tvg-id="jam-on.ch" tvg-name="Jam On Radio" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_jam-on-radio.ch.png" tvg-language="de" tvg-country="CH" tvg-genre="Freies Radio" group-title="Freies Radio",Jam On Radio [CH-ZG]
+https://jam-on.ice.infomaniak.ch/jam-on-128.mp3
 #EXTINF:-1 radio="true" tvg-id="LORA-München.de" tvg-name="LORA München" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_lora-muenchen.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Freies Radio" group-title="Freies Radio",LORA München [BY-M]
 http://stream.lora924.de:8000/lora-mp3-256.mp3
 #EXTINF:-1 radio="true" tvg-id="LOHRO.de" tvg-name="LOHRO" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_lohro.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Freies Radio" group-title="Freies Radio",LOHRO [MV-HRO]
