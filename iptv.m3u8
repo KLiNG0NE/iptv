@@ -167,7 +167,7 @@ http://mp3.radioypsilon.at:8000/
 https://stream.radio-z.net/live
 #EXTINF:-1 radio="true" tvg-id="Radio-Zett.de" tvg-name="Radio Zett" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_radio-zett.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Freies Radio" group-title="Freies Radio",Radio Zett [SN-ZI]
 https://zett-stream.de/listen/radio_zett/radio192.mp3
-#EXTINF:-1 radio="true" tvg-id="Rundfunk-Kombinat-Sachsen.de" tvg-name="Rundfunk-Kombinat Sachsen" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_rundfunk-kombinat-sachsen.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Freies Radio" group-title="Freies Radio",Rundfunk-Kombinat Sachsen [SN-L]
-https://streaming.fueralle.org/rfk
+#EXTINF:-1 radio="true" tvg-id="toxic.fm.ch" tvg-name="toxic.fm" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_toxic-fm.ch.png" tvg-language="de" tvg-country="CH" tvg-genre="Freies Radio" group-title="Freies Radio",toxic.fm [CH-SG]
+https://toxicfm.ice.infomaniak.ch/toxicfm-128.mp3
 #EXTINF:-1 radio="true" tvg-id="Weste-Welle.de" tvg-name="Wüste Welle" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_wueste-welle.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Freies Radio" group-title="Freies Radio",Wüste Welle [BW-TÜ]
 http://livestream.wueste-welle.de:8000/mp3
