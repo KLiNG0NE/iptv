@@ -205,3 +205,5 @@ http://icecast.ndr.de/ndr/ndrinfo/live/mp3/128/stream.mp3
 http://icecast.ndr.de/ndr/ndrinfospezial/live/mp3/128/stream.mp3
 #EXTINF:-1 radio="true" tvg-id="N-JOY.de" tvg-name="N-JOY" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_n-joy.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Radio - ÖRR" group-title="Radio – ÖRR",N-JOY
 http://icecast.ndr.de/ndr/njoy/live/mp3/128/stream.mp3
+#EXTINF:-1 radio="true" tvg-id="NDR-Blue.de" tvg-name="NDR Blue" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_ndr-blue.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Radio - ÖRR" group-title="Radio – ÖRR",NDR Blue
+http://icecast.ndr.de/ndr/ndrblue/live/mp3/128/stream.mp3
