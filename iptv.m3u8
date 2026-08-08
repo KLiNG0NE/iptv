@@ -187,13 +187,19 @@ https://st01.sslstream.dlf.de/dlf/01/128/mp3/stream.mp3?aggregator=web
 https://st02.sslstream.dlf.de/dlf/02/128/mp3/stream.mp3?aggregator=web
 #EXTINF:-1 radio="true" tvg-id="deutschlandfunknova.de" tvg-name="Deutschlandfunk Nova" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_deutschlandfunk-nova.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Radio - ÖRR" group-title="Radio – ÖRR",Deutschlandfunk Nova
 https://st03.sslstream.dlf.de/dlf/03/128/mp3/stream.mp3?aggregator=web
-#EXTINF:-1 radio="true" tvg-id="NDR-90-3.de" tvg-name="NDR 90,3" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_ndr-90-3.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Radio - ÖRR" group-title="Radio – ÖRR",NDR 90,3
-http://icecast.ndr.de/ndr/ndr903/hamburg/mp3/128/stream.mp3
-#EXTINF:-1 radio="true" tvg-id="NDR-1-Niedersachsen.de" tvg-name="NDR 1 Niedersachsen" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_ndr-1-niedersachsen.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Radio - ÖRR" group-title="Radio – ÖRR",NDR 1 Niedersachsen
-http://icecast.ndr.de/ndr/ndr1niedersachsen/hannover/mp3/128/stream.mp3
 #EXTINF:-1 radio="true" tvg-id="NDR-1-Welle-Nord.de" tvg-name="NDR 1 Welle Nord" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_ndr-1-welle-nord.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Radio - ÖRR" group-title="Radio – ÖRR",NDR 1 Welle Nord
 http://icecast.ndr.de/ndr/ndr1wellenord/kiel/mp3/128/stream.mp3
+#EXTINF:-1 radio="true" tvg-id="NDR-1-Niedersachsen.de" tvg-name="NDR 1 Niedersachsen" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_ndr-1-niedersachsen.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Radio - ÖRR" group-title="Radio – ÖRR",NDR 1 Niedersachsen
+http://icecast.ndr.de/ndr/ndr1niedersachsen/hannover/mp3/128/stream.mp3
 #EXTINF:-1 radio="true" tvg-id="NDR-1-Radio-MV.de" tvg-name="NDR 1 Radio MV" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_ndr-1-radio-mv.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Radio - ÖRR" group-title="Radio – ÖRR",NDR 1 Radio MV
 http://icecast.ndr.de/ndr/ndr1radiomv/schwerin/mp3/128/stream.mp3
 #EXTINF:-1 radio="true" tvg-id="NDR-2.de" tvg-name="NDR 2" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_ndr-2.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Radio - ÖRR" group-title="Radio – ÖRR",NDR 2
 http://icecast.ndr.de/ndr/ndr2/hamburg/mp3/128/stream.mp3
+#EXTINF:-1 radio="true" tvg-id="NDR-90-3.de" tvg-name="NDR 90,3" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_ndr-90-3.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Radio - ÖRR" group-title="Radio – ÖRR",NDR 90,3
+http://icecast.ndr.de/ndr/ndr903/hamburg/mp3/128/stream.mp3
+#EXTINF:-1 radio="true" tvg-id="NDR-Kultur.de" tvg-name="NDR Kultur" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_ndr-kultur.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Radio - ÖRR" group-title="Radio – ÖRR",NDR Kultur
+http://icecast.ndr.de/ndr/ndrkultur/live/mp3/128/stream.mp3
+#EXTINF:-1 radio="true" tvg-id="NDR-Info.de" tvg-name="NDR Info" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_ndr-info.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Radio - ÖRR" group-title="Radio – ÖRR",NDR Info
+http://icecast.ndr.de/ndr/ndrinfo/live/mp3/128/stream.mp3
+#EXTINF:-1 radio="true" tvg-id="NDR-Info-Spezial.de" tvg-name="NDR Info Spezial" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_ndr-info-spezial.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Radio - ÖRR" group-title="Radio – ÖRR",NDR Info Spezial
+http://icecast.ndr.de/ndr/ndrinfospezial/live/mp3/128/stream.mp3
