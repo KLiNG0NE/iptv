@@ -136,7 +136,7 @@ https://stream1.datenkollektiv.net/ginseng.mp3
 #EXTINF:-1 radio="true" tvg-id="Radio-Helsinki.at" tvg-name="Radio Helsinki" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio__radio-helsinki.at.png" tvg-language="de" tvg-country="AT" tvg-genre="Freies Radio" group-title="Freies Radio",Radio Helsinki [AT-ST-G]
 https://live.helsinki.at:8088/live160.mp3
 #EXTINF:-1 radio="true" tvg-id="lora.ch" tvg-name="Radio LoRa" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_radio-lora.ch.png" tvg-language="de" tvg-country="CH" tvg-genre="Freies Radio" group-title="Freies Radio",Radio LoRa [CH-ZH]
-https://live.helsinki.at:8088/live160.mp3
+https://lora.ice.infomaniak.ch/lora.mp3
 #EXTINF:-1 radio="true" tvg-id="Radio-LOTTE.de" tvg-name="Radio LOTTE" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radiio_radio-lotte.png" tvg-language="de" tvg-country="DE" tvg-genre="Freies Radio" group-title="Freies Radio",Radio LOTTE [TH-WE]
 https://stream.radio-bf.de/listen/lotte/ssl.mp3
 #EXTINF:-1 radio="true" tvg-id="Radio-MORA.at" tvg-name="Radio MORA" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_radio-mora.at.png" tvg-language="de" tvg-country="AT" tvg-genre="Freies Radio" group-title="Freies Radio",Radio MORA [AT-B-OP]
