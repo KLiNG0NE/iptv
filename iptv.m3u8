@@ -207,3 +207,5 @@ http://icecast.ndr.de/ndr/ndrinfospezial/live/mp3/128/stream.mp3
 http://icecast.ndr.de/ndr/njoy/live/mp3/128/stream.mp3
 #EXTINF:-1 radio="true" tvg-id="NDR-Blue.de" tvg-name="NDR Blue" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_ndr-blue.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Radio - ÖRR" group-title="Radio – ÖRR",NDR Blue
 http://icecast.ndr.de/ndr/ndrblue/live/mp3/128/stream.mp3
+#EXTINF:-1 radio="true" tvg-id="NDR-Schlager.de" tvg-name="NDR Schlager" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_ndr-schlager.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Radio - ÖRR" group-title="Radio – ÖRR",NDR Schlager
+http://icecast.ndr.de/ndr/ndrschlager/live/mp3/128/stream.mp3
