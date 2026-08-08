@@ -195,3 +195,5 @@ http://icecast.ndr.de/ndr/ndr1niedersachsen/hannover/mp3/128/stream.mp3
 http://icecast.ndr.de/ndr/ndr1wellenord/kiel/mp3/128/stream.mp3
 #EXTINF:-1 radio="true" tvg-id="NDR-1-Radio-MV.de" tvg-name="NDR 1 Radio MV" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_ndr-1-radio-mv.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Radio - ÖRR" group-title="Radio – ÖRR",NDR 1 Radio MV
 http://icecast.ndr.de/ndr/ndr1radiomv/schwerin/mp3/128/stream.mp3
+#EXTINF:-1 radio="true" tvg-id="NDR-2.de" tvg-name="NDR 2" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_ndr-2.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Radio - ÖRR" group-title="Radio – ÖRR",NDR 2
+http://icecast.ndr.de/ndr/ndr2/hamburg/mp3/128/stream.mp3
