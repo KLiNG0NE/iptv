@@ -226,6 +226,6 @@ http://www.radioeins.de/livemp3
 #EXTINF:-1 radio="true" tvg-id="fritz.de" tvg-name="Fritz" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_fritz.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Radio - ÖRR" group-title="Radio – ÖRR",Fritz
 http://dispatcher.rndfnk.com/rbb/fritz/live/mp3/mid
 #EXTINF:-1 radio="true" tvg-id="radiodrei.de" tvg-name="radio3" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_radio3.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Radio - ÖRR" group-title="Radio – ÖRR",radio3
-https://dispatcher.rndfnk.com/rbb/rbbkultur/live/mp3/high
+http://www.rbbkultur.de/livemp3
 #EXTINF:-1 radio="true" tvg-id="inforadio.de" tvg-name="rbb24 Inforadio" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_rbb24-inforadio.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Radio - ÖRR" group-title="Radio – ÖRR",rbb24 Inforadio
 http://www.inforadio.de/livemp3
