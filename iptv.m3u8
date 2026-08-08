@@ -221,3 +221,5 @@ https://icecast.radiobremen.de/rb/bremennext/live/mp3/128/stream.mp3
 http://dispatcher.rndfnk.com/rbb/rbb888/live/mp3/mid
 #EXTINF:-1 radio="true" tvg-id="antennebrandenburg.de" tvg-name="Antenne Brandenburg" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_antenne-brandenburg.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Radio - ÖRR" group-title="Radio – ÖRR",Antenne Brandenburg
 http://www.antennebrandenburg.de/livemp3
+#EXTINF:-1 radio="true" tvg-id="radioeins.de" tvg-name="radioeins" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_radioeins.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Radio - ÖRR" group-title="Radio – ÖRR",radioeins
+http://www.radioeins.de/livemp3
