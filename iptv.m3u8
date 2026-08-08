@@ -211,3 +211,5 @@ http://icecast.ndr.de/ndr/ndrblue/live/mp3/128/stream.mp3
 http://icecast.ndr.de/ndr/ndrschlager/live/mp3/128/stream.mp3
 #EXTINF:-1 radio="true" tvg-id="bremeneins.de" tvg-name="Bremen Eins" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_bremen-eins.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Radio - ÖRR" group-title="Radio – ÖRR",Bremen Eins
 https://icecast.radiobremen.de/rb/bremeneins/live/mp3/128/stream.mp3
+#EXTINF:-1 radio="true" tvg-id="bremenzwei.de" tvg-name="Bremen Zwei" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_bremen-zwei.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Radio - ÖRR" group-title="Radio – ÖRR",Bremen Zwei
+https://icecast.radiobremen.de/rb/bremenzwei/live/mp3/128/stream.mp3
