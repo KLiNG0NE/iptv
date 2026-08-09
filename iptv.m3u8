@@ -233,3 +233,5 @@ http://www.inforadio.de/livemp3
 http://mdr-284280-0.cast.mdr.de/mdr/284280/0/mp3/high/stream.mp3
 #EXTINF:-1 radio="true" tvg-id="MDR-Sachsen-Anhalt.de" tvg-name="MDR Sachsen-Anhalt" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_mdr-sachsen-anhalt.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Radio - ÖRR" group-title="Radio – ÖRR",MDR Sachsen-Anhalt
 http://mdr-284290-0.cast.mdr.de/mdr/284290/0/mp3/high/stream.mp3
+#EXTINF:-1 radio="true" tvg-id="MDR-Thueringen.de" tvg-name="MDR Thüringen" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_mdr-thueringen.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Radio - ÖRR" group-title="Radio – ÖRR",MDR Thüringen
+http://mdr-284300-0.cast.mdr.de/mdr/284300/0/mp3/high/stream.mp3
