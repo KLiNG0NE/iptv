@@ -253,3 +253,5 @@ http://mdr-991101-0.cast.mdr.de/mdr/991101/0/mp3/high/stream.mp3
 https://wdr-1live-live.icecastssl.wdr.de/wdr/1live/live/mp3/128/stream.mp3
 #EXTINF:-1 radio="true" tvg-id="1LIVE-DIGGI.de" tvg-name="1LIVE DIGGI" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_1live-diggi.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Radio - ÖRR" group-title="Radio – ÖRR",1LIVE DIGGI
 https://wdr-1live-diggi.icecastssl.wdr.de/wdr/1live/diggi/mp3/128/stream.mp3
+#EXTINF:-1 radio="true" tvg-id="WDR-2.de" tvg-name="WDR 2" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_wdr-2.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Radio - ÖRR" group-title="Radio – ÖRR",WDR 2
+http://wdr-wdr2-rheinland.icecast.wdr.de/wdr/wdr2/rheinland/mp3/128/stream.mp3
