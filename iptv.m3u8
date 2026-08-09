@@ -157,8 +157,8 @@ https://server7.streamserver24.com:31428/stream
 https://streaming.radio-r.net/radio-r
 #EXTINF:-1 radio="true" tvg-id="Radio-Słubfurt.de" tvg-name="Radio Słubfurt" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_radio-slubfurt.de.png" tvg-language="de; pl" tvg-country="DE" tvg-genre="Freies Radio" group-title="Freies Radio",Radio Słubfurt [BB-FF]
 http://streaming.fueralle.org:8000/slubfurt
-#EXTINF:-1 radio="true" tvg-id="stadtfilter.ch" tvg-name="Radio Stadtfilter" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_radio-stadtfilter.ch.png" tvg-language="de" tvg-country="CH" tvg-genre="Freies Radio" group-title="Freies Radio",Radio Stadtfilter [CH-ZH]
-https://backend.stadtfilter.net/stadtfilterhls/audio1_stream.m3u8?session=776ff27e-8464-4c5e-817c-e557d7055dc9
+#EXTINF:-1 radio="true" tvg-id="stadtfilter.ch" tvg-name="Radio Stadtfilter" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_radio-stadtfilter.ch.png" tvg-language="de" tvg-country="CH" tvg-genre="Freies Radio" group-title="Freies Radio",Radio Stadtfilter [CH-ZH-WIN]
+https://streamer.stadtfilter.net/stadtfilter.mp3
 #EXTINF:-1 radio="true" tvg-id="Radio-StHörfunk.de" tvg-name="Radio StHörfunk" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_radio-sthoerfunk.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Freies Radio" group-title="Freies Radio",Radio StHörfunk [BW-SHA]
 https://stream.sthoerfunk.de:7443/sthoerfunk.mp3
 #EXTINF:-1 radio="true" tvg-id="Radio-T.de" tvg-name="Radio T" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_radio-t.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Freies Radio" group-title="Freies Radio",Radio T [SN-C]
