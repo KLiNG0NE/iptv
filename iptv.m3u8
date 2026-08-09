@@ -269,3 +269,5 @@ http://dispatcher.rndfnk.com/hr/hr1/rheinmain/high
 https://dispatcher.rndfnk.com/hr/hr2/live/mp3/high
 #EXTINF:-1 radio="true" tvg-id="hr3.de" tvg-name="hr3" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_hr3.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Radio - ÖRR" group-title="Radio – ÖRR",hr3
 https://dispatcher.rndfnk.com/hr/hr3/live/mp3/high
+#EXTINF:-1 radio="true" tvg-id="hr3.de" tvg-name="hr4" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_hr4.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Radio - ÖRR" group-title="Radio – ÖRR",hr4
+http://dispatcher.rndfnk.com/hr/hr4/rheinmain/high
