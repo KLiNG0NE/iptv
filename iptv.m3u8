@@ -251,3 +251,5 @@ http://mdr-284330-0.cast.mdr.de/mdr/284330/0/mp3/high/stream.mp3
 http://mdr-991101-0.cast.mdr.de/mdr/991101/0/mp3/high/stream.mp3
 #EXTINF:-1 radio="true" tvg-id="1LIVE.de" tvg-name="1LIVE" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_1live.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Radio - ÖRR" group-title="Radio – ÖRR",1LIVE
 https://wdr-1live-live.icecastssl.wdr.de/wdr/1live/live/mp3/128/stream.mp3
+#EXTINF:-1 radio="true" tvg-id="1LIVE-DIGGI.de" tvg-name="1LIVE DIGGI" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_1live-diggi.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Radio - ÖRR" group-title="Radio – ÖRR",1LIVE DIGGI
+https://wdr-1live-diggi.icecastssl.wdr.de/wdr/1live/diggi/mp3/128/stream.mp3
