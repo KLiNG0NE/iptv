@@ -241,3 +241,5 @@ http://mdr-284340-0.cast.mdr.de/mdr/284340/0/mp3/high/stream.mp3
 http://mdr-284321-0.cast.mdr.de/mdr/284321/0/mp3/high/stream.mp3
 #EXTINF:-1 radio="true" tvg-id="MDR-Klassik.de" tvg-name="MDR Klassik" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_mdr-klassik.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Radio - ÖRR" group-title="Radio – ÖRR",MDR Klassik
 http://mdr-284331-0.cast.mdr.de/mdr/284331/0/mp3/high/stream.mp3
+#EXTINF:-1 radio="true" tvg-id="MDR-Kultur.de" tvg-name="MDR Kultur" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_mdr-kultur.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Radio - ÖRR" group-title="Radio – ÖRR",MDR Kultur
+http://mdr-284311-0.cast.mdr.de/mdr/284311/0/mp3/high/stream.mp3
