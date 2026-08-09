@@ -273,3 +273,5 @@ https://dispatcher.rndfnk.com/hr/hr3/live/mp3/high
 http://dispatcher.rndfnk.com/hr/hr4/rheinmain/high
 #EXTINF:-1 radio="true" tvg-id="hr-inforadio.de" tvg-name="hr INFO" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_hr-info.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Radio - ÖRR" group-title="Radio – ÖRR",hr INFO
 https://dispatcher.rndfnk.com/hr/hrinfo/live/high
+#EXTINF:-1 radio="true" tvg-id="swr1-rp.de" tvg-name="SWR1 RP" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_swr1.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Radio - ÖRR" group-title="Radio – ÖRR",SWR1 Rheinland-Pfalz
+https://liveradio.swr.de/sw331ch/swr1rp/play.mp3
