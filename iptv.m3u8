@@ -267,3 +267,5 @@ https://wdr-diemaus-live.icecastssl.wdr.de/wdr/diemaus/live/mp3/128/stream.mp3
 http://dispatcher.rndfnk.com/hr/hr1/rheinmain/high
 #EXTINF:-1 radio="true" tvg-id="hr2.de" tvg-name="hr2-kultur" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_hr2-kultur.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Radio - ÖRR" group-title="Radio – ÖRR",hr2-kultur
 https://dispatcher.rndfnk.com/hr/hr2/live/mp3/high
+#EXTINF:-1 radio="true" tvg-id="hr3.de" tvg-name="hr3" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_hr3.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Radio - ÖRR" group-title="Radio – ÖRR",hr3
+https://dispatcher.rndfnk.com/hr/hr3/live/mp3/high
