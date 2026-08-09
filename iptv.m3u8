@@ -235,3 +235,5 @@ http://mdr-284280-0.cast.mdr.de/mdr/284280/0/mp3/high/stream.mp3
 http://mdr-284290-0.cast.mdr.de/mdr/284290/0/mp3/high/stream.mp3
 #EXTINF:-1 radio="true" tvg-id="MDR-Thueringen.de" tvg-name="MDR Thüringen" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_mdr-thueringen.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Radio - ÖRR" group-title="Radio – ÖRR",MDR Thüringen
 http://mdr-284300-0.cast.mdr.de/mdr/284300/0/mp3/high/stream.mp3
+#EXTINF:-1 radio="true" tvg-id="MDR-Aktuell.de" tvg-name="MDR Aktuell" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_mdr-aktuell.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Radio - ÖRR" group-title="Radio – ÖRR",MDR Aktuell
+http://mdr-284340-0.cast.mdr.de/mdr/284340/0/mp3/high/stream.mp3
