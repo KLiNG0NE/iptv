@@ -283,3 +283,5 @@ https://liveradio.swr.de/sw282p3/swr2/
 https://liveradio.swr.de/sw282p3/swr3/
 #EXTINF:-1 radio="true" tvg-id="swr-aktuell.de" tvg-name="SWR Aktuell" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_swr-aktuell.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Radio - ÖRR" group-title="Radio – ÖRR",SWR Aktuell
 https://liveradio.swr.de/sw282p3/swraktuell/
+#EXTINF:-1 radio="true" tvg-id="DASDING.de" tvg-name="DASDING" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_dasding.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Radio - ÖRR" group-title="Radio – ÖRR",DASDING
+https://liveradio.swr.de/sw282p3/dasding/
