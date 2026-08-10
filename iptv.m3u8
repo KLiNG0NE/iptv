@@ -293,6 +293,8 @@ https://liveradio.swr.de/sw282p3/swr4rp/
 https://liveradio.sr.de/sr/sr1/mp3/128/stream.mp3
 #EXTINF:-1 radio="true" tvg-id="SR-kultur.de" tvg-name="SR kultur" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_sr-kultur.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Radio - ÖRR" group-title="Radio – ÖRR",SR kultur
 https://liveradio.sr.de/sr/sr2/mp3/256/stream.mp3
+#EXTINF:-1 radio="true" tvg-id="SR-kultur-Off-Beat.de" tvg-name="SR kultur Off Beat" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_sr-kultur.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Radio - ÖRR" group-title="Radio – ÖRR",SR kultur Off Beat
+https://liveradio.sr.de/sr/sr2c1/mp3/128/stream.mp3
 #EXTINF:-1 radio="true" tvg-id="SR-3-Saarlandwelle.de" tvg-name="SR 3 Saarlandwelle" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_sr-3-saarlandwelle.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Radio - ÖRR" group-title="Radio – ÖRR",SR 3 Saarlandwelle
 https://liveradio.sr.de/sr/sr3/mp3/128/stream.mp3
 #EXTINF:-1 radio="true" tvg-id="SR-3-Schlagerwelt.de" tvg-name="SR 3 Schlagerwelt" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_sr-3-saarlandwelle.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Radio - ÖRR" group-title="Radio – ÖRR",SR 3 Schlagerwelt
