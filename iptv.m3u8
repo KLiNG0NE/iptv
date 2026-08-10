@@ -279,3 +279,5 @@ https://liveradio.swr.de/sw331ch/swr1bw/play.mp3
 https://liveradio.swr.de/sw331ch/swr1rp/play.mp3
 #EXTINF:-1 radio="true" tvg-id="swr-kultur.de" tvg-name="SWR Kultur" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_swr-kultur.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Radio - ÖRR" group-title="Radio – ÖRR",SWR Kultur
 https://liveradio.swr.de/sw282p3/swr2/
+#EXTINF:-1 radio="true" tvg-id="swr-3.de" tvg-name="SWR 3" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_swr-3.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Radio - ÖRR" group-title="Radio – ÖRR",SWR 3
+https://liveradio.swr.de/sw282p3/swr3/
