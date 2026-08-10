@@ -313,3 +313,5 @@ https://dispatcher.rndfnk.com/br/br1/obb/mp3/mid
 https://dispatcher.rndfnk.com/br/br2/live/mp3/mid
 #EXTINF:-1 radio="true" tvg-id="Bayern-3.de" tvg-name="Bayern 3" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_bayern-3.de.png" tvg-language="de; fr" tvg-country="DE" tvg-genre="Radio - ÖRR" group-title="Radio – ÖRR",Bayern 3
 https://dispatcher.rndfnk.com/br/br3/live/mp3/mid
+#EXTINF:-1 radio="true" tvg-id="BR24.de" tvg-name="BR24" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_br24.de.png" tvg-language="de; fr" tvg-country="DE" tvg-genre="Radio - ÖRR" group-title="Radio – ÖRR",BR24
+https://dispatcher.rndfnk.com/br/br24/live/mp3/mid
