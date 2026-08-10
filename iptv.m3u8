@@ -291,3 +291,5 @@ https://liveradio.swr.de/sw282p3/swr4bw/
 https://liveradio.swr.de/sw282p3/swr4rp/
 #EXTINF:-1 radio="true" tvg-id="SR-1.de" tvg-name="SR 1" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_sr-1.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Radio - ÖRR" group-title="Radio – ÖRR",SR 1
 https://liveradio.sr.de/sr/sr1/mp3/128/stream.mp3
+#EXTINF:-1 radio="true" tvg-id="SR-kultur.de" tvg-name="SR kultur" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_sr-kultur.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Radio - ÖRR" group-title="Radio – ÖRR",SR kultur
+https://liveradio.sr.de/sr/sr2/mp3/256/stream.mp3
