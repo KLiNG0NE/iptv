@@ -287,3 +287,5 @@ https://liveradio.swr.de/sw282p3/swraktuell/
 https://liveradio.swr.de/sw282p3/dasding/
 #EXTINF:-1 radio="true" tvg-id="SWR4-BW.de" tvg-name="SWR4 BW" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_swr4.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Radio - ÖRR" group-title="Radio – ÖRR",SWR4 BW
 https://liveradio.swr.de/sw282p3/swr4bw/
+#EXTINF:-1 radio="true" tvg-id="SWR4-RP.de" tvg-name="SWR4 RP" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_swr4.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Radio - ÖRR" group-title="Radio – ÖRR",SWR4 RP
+https://liveradio.swr.de/sw282p3/swr4rp/
