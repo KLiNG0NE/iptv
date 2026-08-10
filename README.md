@@ -4,7 +4,7 @@
 
 ## M3U-Playlist ##
 
-Dies ist eine M3U-Liste mit kostenlos und legal verfügbaren TV-Sendern für deutschsprachige Zuschauer.
+Dies ist eine M3U-Liste mit kostenlos und legal verfügbaren TV- sowie Radio-Sendern für deutschsprachige Zuschauer.
 
 Die Liste kann u. a. über den folgenden Link in Plex, Kodi oder dem VLC Media Player aufgerufen werden:
 
