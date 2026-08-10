@@ -307,3 +307,5 @@ https://liveradio.sr.de/sr/sr3c1/mp3/128/stream.mp3
 https://liveradio.sr.de/sr/sr3c2/mp3/128/stream.mp3
 #EXTINF:-1 radio="true" tvg-id="Antenne-Saar.de" tvg-name="Antenne Saar" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_antenne-saar.de.png" tvg-language="de; fr" tvg-country="DE" tvg-genre="Radio - ÖRR" group-title="Radio – ÖRR",Antenne Saar
 https://liveradio.sr.de/sr/as/mp3/128/stream.mp3
+#EXTINF:-1 radio="true" tvg-id="Bayern-1.de" tvg-name="Bayern 1" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_bayern-1.de.png" tvg-language="de; fr" tvg-country="DE" tvg-genre="Radio - ÖRR" group-title="Radio – ÖRR",Bayern 1
+https://dispatcher.rndfnk.com/br/br1/obb/mp3/mid
