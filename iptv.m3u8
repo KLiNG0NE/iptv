@@ -307,11 +307,13 @@ https://liveradio.sr.de/sr/sr3c1/mp3/128/stream.mp3
 https://liveradio.sr.de/sr/sr3c2/mp3/128/stream.mp3
 #EXTINF:-1 radio="true" tvg-id="Antenne-Saar.de" tvg-name="Antenne Saar" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_antenne-saar.de.png" tvg-language="de; fr" tvg-country="DE" tvg-genre="Radio - ÖRR" group-title="Radio – ÖRR",Antenne Saar
 https://liveradio.sr.de/sr/as/mp3/128/stream.mp3
-#EXTINF:-1 radio="true" tvg-id="Bayern-1.de" tvg-name="Bayern 1" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_bayern-1.de.png" tvg-language="de; fr" tvg-country="DE" tvg-genre="Radio - ÖRR" group-title="Radio – ÖRR",Bayern 1
+#EXTINF:-1 radio="true" tvg-id="Bayern-1.de" tvg-name="Bayern 1" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_bayern-1.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Radio - ÖRR" group-title="Radio – ÖRR",Bayern 1
 https://dispatcher.rndfnk.com/br/br1/obb/mp3/mid
-#EXTINF:-1 radio="true" tvg-id="Bayern-2.de" tvg-name="Bayern 2" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_bayern-2.de.png" tvg-language="de; fr" tvg-country="DE" tvg-genre="Radio - ÖRR" group-title="Radio – ÖRR",Bayern 2
+#EXTINF:-1 radio="true" tvg-id="Bayern-2.de" tvg-name="Bayern 2" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_bayern-2.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Radio - ÖRR" group-title="Radio – ÖRR",Bayern 2
 https://dispatcher.rndfnk.com/br/br2/live/mp3/mid
-#EXTINF:-1 radio="true" tvg-id="Bayern-3.de" tvg-name="Bayern 3" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_bayern-3.de.png" tvg-language="de; fr" tvg-country="DE" tvg-genre="Radio - ÖRR" group-title="Radio – ÖRR",Bayern 3
+#EXTINF:-1 radio="true" tvg-id="Bayern-3.de" tvg-name="Bayern 3" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_bayern-3.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Radio - ÖRR" group-title="Radio – ÖRR",Bayern 3
 https://dispatcher.rndfnk.com/br/br3/live/mp3/mid
-#EXTINF:-1 radio="true" tvg-id="BR24.de" tvg-name="BR24" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_br24.de.png" tvg-language="de; fr" tvg-country="DE" tvg-genre="Radio - ÖRR" group-title="Radio – ÖRR",BR24
+#EXTINF:-1 radio="true" tvg-id="BR24.de" tvg-name="BR24" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_br24.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Radio - ÖRR" group-title="Radio – ÖRR",BR24
 https://dispatcher.rndfnk.com/br/br24/live/mp3/mid
+#EXTINF:-1 radio="true" tvg-id="BR-KLASSIK.de" tvg-name="BR-KLASSIK" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_br-klassik.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Radio - ÖRR" group-title="Radio – ÖRR",BR-KLASSIK
+https://dispatcher.rndfnk.com/br/brklassik/live/mp3/high
