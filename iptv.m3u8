@@ -273,9 +273,9 @@ https://dispatcher.rndfnk.com/hr/hr3/live/mp3/high
 http://dispatcher.rndfnk.com/hr/hr4/rheinmain/high
 #EXTINF:-1 radio="true" tvg-id="hr-inforadio.de" tvg-name="hr INFO" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_hr-info.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Radio - ÖRR" group-title="Radio – ÖRR",hr INFO
 https://dispatcher.rndfnk.com/hr/hrinfo/live/high
-#EXTINF:-1 radio="true" tvg-id="swr1-bw.de" tvg-name="SWR1 BW" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_swr1.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Radio - ÖRR" group-title="Radio – ÖRR",SWR1 Baden-Württemberg
+#EXTINF:-1 radio="true" tvg-id="swr1-bw.de" tvg-name="SWR1 BW" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_swr1.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Radio - ÖRR" group-title="Radio – ÖRR",SWR1 BW
 https://liveradio.swr.de/sw331ch/swr1bw/play.mp3
-#EXTINF:-1 radio="true" tvg-id="swr1-rp.de" tvg-name="SWR1 RP" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_swr1.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Radio - ÖRR" group-title="Radio – ÖRR",SWR1 Rheinland-Pfalz
+#EXTINF:-1 radio="true" tvg-id="swr1-rp.de" tvg-name="SWR1 RP" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_swr1.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Radio - ÖRR" group-title="Radio – ÖRR",SWR1 RP
 https://liveradio.swr.de/sw331ch/swr1rp/play.mp3
 #EXTINF:-1 radio="true" tvg-id="swr-kultur.de" tvg-name="SWR Kultur" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_swr-kultur.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Radio - ÖRR" group-title="Radio – ÖRR",SWR Kultur
 https://liveradio.swr.de/sw282p3/swr2/
@@ -289,3 +289,5 @@ https://liveradio.swr.de/sw282p3/dasding/
 https://liveradio.swr.de/sw282p3/swr4bw/
 #EXTINF:-1 radio="true" tvg-id="SWR4-RP.de" tvg-name="SWR4 RP" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_swr4.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Radio - ÖRR" group-title="Radio – ÖRR",SWR4 RP
 https://liveradio.swr.de/sw282p3/swr4rp/
+#EXTINF:-1 radio="true" tvg-id="SR-1.de" tvg-name="SR 1" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_sr-1.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Radio - ÖRR" group-title="Radio – ÖRR",SR 1
+https://liveradio.sr.de/sr/sr1/mp3/128/stream.mp3
