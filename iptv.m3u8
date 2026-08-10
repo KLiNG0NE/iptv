@@ -297,3 +297,5 @@ https://liveradio.sr.de/sr/sr2/mp3/256/stream.mp3
 https://liveradio.sr.de/sr/sr3/mp3/128/stream.mp3
 #EXTINF:-1 radio="true" tvg-id="SR-3-Schlagerwelt.de" tvg-name="SR 3 Schlagerwelt" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_sr-3-saarlandwelle.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Radio - ÖRR" group-title="Radio – ÖRR",SR 3 Schlagerwelt
 https://liveradio.sr.de/sr/sr3c1/mp3/128/stream.mp3
+#EXTINF:-1 radio="true" tvg-id="SR-3-Oldiewelt.de" tvg-name="SR 3 Oldiewelt" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_sr-3-saarlandwelle.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Radio - ÖRR" group-title="Radio – ÖRR",SR 3 Oldiewelt
+https://liveradio.sr.de/sr/sr3c2/mp3/128/stream.mp3
