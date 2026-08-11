@@ -325,6 +325,12 @@ https://dispatcher.rndfnk.com/br/brschlager/live/mp3/mid
 https://streams.radiobob.de/bob-national/mp3-192/streams.radiobob.de/
 #EXTINF:-1 radio="true" tvg-id="radiobob.de" tvg-name="RADIO BOB!" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_radio-bob-sh.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Radio-Privat" group-title="Radio – Privat",RADIO BOB! Schleswig-Holstein
 https://streams.radiobob.de/bob-shlive/mp3-192/streams.radiobob.de/
+#EXTINF:-1 radio="true" tvg-id="radiobob.de" tvg-name="RADIO BOB!" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_radio-bob-nrw.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Radio-Privat" group-title="Radio – Privat",RADIO BOB! NRW
+https://streams.radiobob.de/live-nrw-mitte/mp3-192/streams.radiobob.de/
+#EXTINF:-1 radio="true" tvg-id="radiobob.de" tvg-name="RADIO BOB!" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_radio-bob.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Radio-Privat" group-title="Radio – Privat",RADIO BOB! Hessen
+https://streams.radiobob.de/bob-live/mp3-192/streams.radiobob.de/
+#EXTINF:-1 radio="true" tvg-name="RADIO BOB!" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_radio-bob.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Radio-Privat" group-title="Radio – Privat",RADIO BOB! – Classic Rock
+https://streams.radiobob.de/bob-classicrock/mp3-192/streams.radiobob.de/
 #EXTINF:-1 radio="true" tvg-id="rockantenne.de" tvg-name="Rock Antenne" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_rock-antenne.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Radio-Privat" group-title="Radio – Privat",ROCK ANTENNE
 https://stream.rockantenne.de/rockantenne/stream/mp3
 #EXTINF:-1 radio="true" tvg-id="rockantenne.de" tvg-name="Rock Antenne" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_rock-antenne.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Radio-Privat" group-title="Radio – Privat",ROCK ANTENNE Hamburg
