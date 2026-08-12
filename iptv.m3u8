@@ -553,3 +553,13 @@ https://stream.rockantenne.de/live-rock/stream/mp3
 https://stream.rockantenne.de/rockandroll/stream/mp3
 #EXTINF:-1 radio="true" tvg-id="rsh.de" tvg-name="R.SH" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_r-sh.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Radio-Privat" group-title="Radio – Privat",R.SH
 http://streams.rsh.de/rsh-live/mp3-192/
+#EXTINF:-1 radio="true" tvg-name="R.SH" tvg-logo="https://images.rsh.de/files/2022-12/rsh_stream-tile_partymix_0.jpg" tvg-language="de" tvg-country="DE" tvg-genre="Radio-Privat" group-title="Radio – Privat",R.SH <Partymix>
+http://streams.rsh.de/rsh-mittmannmix/mp3-192/
+#EXTINF:-1 radio="true" tvg-name="R.SH" tvg-logo="https://images.rsh.de/files/streams/rsh_stream-tile_sylt.jpg" tvg-language="de" tvg-country="DE" tvg-genre="Radio-Privat" group-title="Radio – Privat",R.SH <auf Sylt>
+http://streams.rsh.de/rsh-sylt/mp3-192/
+#EXTINF:-1 radio="true" tvg-id="rsh.de" tvg-name="R.SH" tvg-logo="https://images.rsh.de/files/streams/rsh_stream-tile_gute-laune-hits.jpg" tvg-language="de" tvg-country="DE" tvg-genre="Radio-Privat" group-title="Radio – Privat",R.SH <Gute Laune Hits>
+http://streams.rsh.de/gutelaune/mp3-192/
+#EXTINF:-1 radio="true" tvg-name="R.SH" tvg-logo="https://images.rsh.de/files/streams/rsh_stream-tile_top40.jpg" tvg-language="de" tvg-country="DE" tvg-genre="Radio-Privat" group-title="Radio – Privat",R.SH <Top 40>
+http://streams.rsh.de/rsh-nordparade/mp3-192/
+#EXTINF:-1 radio="true" tvg-name="R.SH" tvg-logo="https://images.rsh.de/files/streams/rsh_stream-tile_relax.jpg" tvg-language="de" tvg-country="DE" tvg-genre="Radio-Privat" group-title="Radio – Privat",R.SH <Relax>
+http://streams.rsh.de/relax/mp3-192/
