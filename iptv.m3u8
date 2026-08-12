@@ -401,7 +401,7 @@ https://streams.radiobob.de/motoerhead/mp3-192/
 http://streams.radiobob.de/bob-deutsch/mp3-192/
 #EXTINF:-1 radio="true" tvg-name="RADIO BOB!" tvg-logo="https://images.radiobob.de/files/2025-11/ozzy_osbourne-stream.jpg" tvg-language="de" tvg-country="DE" tvg-genre="Radio-Privat" group-title="Radio – Privat",RADIO BOB! <Ozzy Osbourne>
 https://streams.radiobob.de/ozzyosbourne/mp3-192/
-#EXTINF:-1 radio="true" tvg-name="RADIO BOB!" tvg-logo="https://images.radiobob.de/files/2025-05/acdc_stream_schrift.jpg" tvg-language="de" tvg-country="DE" tvg-genre="Radio-Privat" group-title="Radio – Privat",RADIO BOB! –<AC/DC>
+#EXTINF:-1 radio="true" tvg-name="RADIO BOB!" tvg-logo="https://images.radiobob.de/files/2025-05/acdc_stream_schrift.jpg" tvg-language="de" tvg-country="DE" tvg-genre="Radio-Privat" group-title="Radio – Privat",RADIO BOB! <AC/DC>
 http://streams.radiobob.de/bob-acdc/mp3-192/
 #EXTINF:-1 radio="true" tvg-name="RADIO BOB!" tvg-logo="https://images.radiobob.de/files/2025-05/kiss_stream_schrift.jpg" tvg-language="de" tvg-country="DE" tvg-genre="Radio-Privat" group-title="Radio – Privat",RADIO BOB! <KISS>
 https://streams.radiobob.de/kiss/mp3-192/
