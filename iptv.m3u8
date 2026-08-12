@@ -325,6 +325,8 @@ https://dispatcher.rndfnk.com/br/brschlager/live/mp3/mid
 https://streams.deltaradio.de/delta-live/mp3-192/
 #EXTINF:-1 radio="true" tvg-name="delta radio" tvg-logo="https://agginfo.quantumcast.cloud/m/rc/branding/6e10a029-59f9-4421-87f7-46190d02bdcc/delta_at-home_600x600.png" tvg-language="de" tvg-country="DE" tvg-genre="Radio-Privat" group-title="Radio – Privat",delta radio at home
 https://streams.deltaradio.de/101/mp3-192/
+#EXTINF:-1 radio="true" tvg-name="delta radio" tvg-logo="https://agginfo.quantumcast.cloud/m/rc/branding/619032b6-6574-4c4d-ada7-93490969d4bc/edm_dancefloor_600x600.png" tvg-language="de" tvg-country="DE" tvg-genre="Radio-Privat" group-title="Radio – Privat",delta radio EDM Dancefloor
+https://streams.deltaradio.de/EDM/mp3-192/
 #EXTINF:-1 radio="true" tvg-id="radiobob.de" tvg-name="RADIO BOB!" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_radio-bob.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Radio-Privat" group-title="Radio – Privat",RADIO BOB!
 https://streams.radiobob.de/bob-national/mp3-192/streams.radiobob.de/
 #EXTINF:-1 radio="true" tvg-id="radiobob.de" tvg-name="RADIO BOB!" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_radio-bob-sh.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Radio-Privat" group-title="Radio – Privat",RADIO BOB! Schleswig-Holstein
@@ -333,55 +335,55 @@ https://streams.radiobob.de/bob-shlive/mp3-192/streams.radiobob.de/
 https://streams.radiobob.de/live-nrw-mitte/mp3-192/streams.radiobob.de/
 #EXTINF:-1 radio="true" tvg-id="radiobob.de" tvg-name="RADIO BOB!" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_radio-bob.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Radio-Privat" group-title="Radio – Privat",RADIO BOB! Hessen
 https://streams.radiobob.de/bob-live/mp3-192/streams.radiobob.de/
-#EXTINF:-1 radio="true" tvg-name="RADIO BOB!" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_radio-bob.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Radio-Privat" group-title="Radio – Privat",RADIO BOB! – Classic Rock
+#EXTINF:-1 radio="true" tvg-name="RADIO BOB!" tvg-logo="https://images.radiobob.de/files/2025-05/classic_rock_stream_schrift.jpg" tvg-language="de" tvg-country="DE" tvg-genre="Radio-Privat" group-title="Radio – Privat",RADIO BOB! – Classic Rock
 https://streams.radiobob.de/bob-classicrock/mp3-192/streams.radiobob.de/
-#EXTINF:-1 radio="true" tvg-name="RADIO BOB!" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_radio-bob.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Radio-Privat" group-title="Radio – Privat",RADIO BOB! – Alternative
+#EXTINF:-1 radio="true" tvg-name="RADIO BOB!" tvg-logo="https://images.radiobob.de/files/2025-05/alternative_rock_stream_schrift.jpg" tvg-language="de" tvg-country="DE" tvg-genre="Radio-Privat" group-title="Radio – Privat",RADIO BOB! – Alternative
 http://streams.radiobob.de/bob-alternative/mp3-192/
-#EXTINF:-1 radio="true" tvg-name="RADIO BOB!" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_radio-bob.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Radio-Privat" group-title="Radio – Privat",RADIO BOB! – Harte Saite
+#EXTINF:-1 radio="true" tvg-name="RADIO BOB!" tvg-logo="https://images.radiobob.de/files/2025-05/harte_saite_stream_schrift.jpg" tvg-language="de" tvg-country="DE" tvg-genre="Radio-Privat" group-title="Radio – Privat",RADIO BOB! – Harte Saite
 http://streams.radiobob.de/bob-hartesaite/mp3-192/
-#EXTINF:-1 radio="true" tvg-name="RADIO BOB!" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_radio-bob.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Radio-Privat" group-title="Radio – Privat",RADIO BOB! – Motörhead
+#EXTINF:-1 radio="true" tvg-name="RADIO BOB!" tvg-logo="https://images.radiobob.de/files/2025-05/motorhead_stream_schrift.jpg" tvg-language="de" tvg-country="DE" tvg-genre="Radio-Privat" group-title="Radio – Privat",RADIO BOB! – Motörhead
 https://streams.radiobob.de/motoerhead/mp3-192/
-#EXTINF:-1 radio="true" tvg-name="RADIO BOB!" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_radio-bob.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Radio-Privat" group-title="Radio – Privat",RADIO BOB! – Deutsch
+#EXTINF:-1 radio="true" tvg-name="RADIO BOB!" tvg-logo="https://images.radiobob.de/files/2025-05/deutschrock_stream_schrift.jpg" tvg-language="de" tvg-country="DE" tvg-genre="Radio-Privat" group-title="Radio – Privat",RADIO BOB! – Deutsch
 http://streams.radiobob.de/bob-deutsch/mp3-192/
-#EXTINF:-1 radio="true" tvg-name="RADIO BOB!" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_radio-bob.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Radio-Privat" group-title="Radio – Privat",RADIO BOB! – Ozzy Osbourne
+#EXTINF:-1 radio="true" tvg-name="RADIO BOB!" tvg-logo="https://images.radiobob.de/files/2025-11/ozzy_osbourne-stream.jpg" tvg-language="de" tvg-country="DE" tvg-genre="Radio-Privat" group-title="Radio – Privat",RADIO BOB! – Ozzy Osbourne
 https://streams.radiobob.de/ozzyosbourne/mp3-192/
-#EXTINF:-1 radio="true" tvg-name="RADIO BOB!" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_radio-bob.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Radio-Privat" group-title="Radio – Privat",RADIO BOB! – AC/DC
+#EXTINF:-1 radio="true" tvg-name="RADIO BOB!" tvg-logo="https://images.radiobob.de/files/2025-05/acdc_stream_schrift.jpg" tvg-language="de" tvg-country="DE" tvg-genre="Radio-Privat" group-title="Radio – Privat",RADIO BOB! – AC/DC
 http://streams.radiobob.de/bob-acdc/mp3-192/
-#EXTINF:-1 radio="true" tvg-name="RADIO BOB!" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_radio-bob.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Radio-Privat" group-title="Radio – Privat",RADIO BOB! – KISS
+#EXTINF:-1 radio="true" tvg-name="RADIO BOB!" tvg-logo="https://images.radiobob.de/files/2025-05/kiss_stream_schrift.jpg" tvg-language="de" tvg-country="DE" tvg-genre="Radio-Privat" group-title="Radio – Privat",RADIO BOB! – KISS
 https://streams.radiobob.de/kiss/mp3-192/
-#EXTINF:-1 radio="true" tvg-name="RADIO BOB!" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_radio-bob.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Radio-Privat" group-title="Radio – Privat",RADIO BOB! – Iron Maiden
+#EXTINF:-1 radio="true" tvg-name="RADIO BOB!" tvg-logo="https://images.radiobob.de/files/2025-06/iron_maiden_mit_schrift_0.jpg" tvg-language="de" tvg-country="DE" tvg-genre="Radio-Privat" group-title="Radio – Privat",RADIO BOB! – Iron Maiden
 https://streams.radiobob.de/bob-ironmaiden/mp3-192/
-#EXTINF:-1 radio="true" tvg-name="RADIO BOB!" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_radio-bob.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Radio-Privat" group-title="Radio – Privat",RADIO BOB! – Wacken Radio
+#EXTINF:-1 radio="true" tvg-name="RADIO BOB!" tvg-logo="https://images.radiobob.de/files/2025-07/bob_wackenradio_stream_tile_mit_schrift.jpg" tvg-language="de" tvg-country="DE" tvg-genre="Radio-Privat" group-title="Radio – Privat",RADIO BOB! – Wacken Radio
 http://streams.radiobob.de/bob-wacken/mp3-192/
-#EXTINF:-1 radio="true" tvg-name="RADIO BOB!" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_radio-bob.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Radio-Privat" group-title="Radio – Privat",RADIO BOB! – Rock Hits
+#EXTINF:-1 radio="true" tvg-name="RADIO BOB!" tvg-logo="https://images.radiobob.de/files/2025-05/rock_hits_stream_schrift.jpg" tvg-language="de" tvg-country="DE" tvg-genre="Radio-Privat" group-title="Radio – Privat",RADIO BOB! – Rock Hits
 http://streams.radiobob.de/bob-rockhits/mp3-192/
-#EXTINF:-1 radio="true" tvg-name="RADIO BOB!" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_radio-bob.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Radio-Privat" group-title="Radio – Privat",RADIO BOB! – Best of Rock
+#EXTINF:-1 radio="true" tvg-name="RADIO BOB!" tvg-logo="https://images.radiobob.de/files/2025-05/best_of_rock_stream_schrift.jpg" tvg-language="de" tvg-country="DE" tvg-genre="Radio-Privat" group-title="Radio – Privat",RADIO BOB! – Best of Rock
 http://streams.radiobob.de/bob-bestofrock/mp3-192/
-#EXTINF:-1 radio="true" tvg-name="RADIO BOB!" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_radio-bob.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Radio-Privat" group-title="Radio – Privat",RADIO BOB! – Woman of Rock
+#EXTINF:-1 radio="true" tvg-name="RADIO BOB!" tvg-logo="https://images.radiobob.de/files/2025-05/women_of_rock_stream_schrift.jpg" tvg-language="de" tvg-country="DE" tvg-genre="Radio-Privat" group-title="Radio – Privat",RADIO BOB! – Woman of Rock
 https://streams.radiobob.de/womenofrock/mp3-192/
-#EXTINF:-1 radio="true" tvg-name="RADIO BOB!" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_radio-bob.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Radio-Privat" group-title="Radio – Privat",RADIO BOB! – Summer Rock Hits
+#EXTINF:-1 radio="true" tvg-name="RADIO BOB!" tvg-logo="https://images.radiobob.de/files/2025-05/summer_rock_hits_stream_schrift.jpg" tvg-language="de" tvg-country="DE" tvg-genre="Radio-Privat" group-title="Radio – Privat",RADIO BOB! – Summer Rock Hits
 http://streams.radiobob.de/summerrock/mp3-192/
-#EXTINF:-1 radio="true" tvg-name="RADIO BOB!" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_radio-bob.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Radio-Privat" group-title="Radio – Privat",RADIO BOB! – 70er Rock
+#EXTINF:-1 radio="true" tvg-name="RADIO BOB!" tvg-logo="https://images.radiobob.de/files/2025-05/70er_rock_schrift.jpg" tvg-language="de" tvg-country="DE" tvg-genre="Radio-Privat" group-title="Radio – Privat",RADIO BOB! – 70er Rock
 https://streams.radiobob.de/70errock/mp3-192/
-#EXTINF:-1 radio="true" tvg-name="RADIO BOB!" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_radio-bob.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Radio-Privat" group-title="Radio – Privat",RADIO BOB! – 80s Rock
+#EXTINF:-1 radio="true" tvg-name="RADIO BOB!" tvg-logo="https://images.radiobob.de/files/2025-05/80er_rock_schrift.jpg" tvg-language="de" tvg-country="DE" tvg-genre="Radio-Privat" group-title="Radio – Privat",RADIO BOB! – 80s Rock
 http://streams.radiobob.de/bob-80srock/mp3-192/
-#EXTINF:-1 radio="true" tvg-name="RADIO BOB!" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_radio-bob.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Radio-Privat" group-title="Radio – Privat",RADIO BOB! – 90s Rock
+#EXTINF:-1 radio="true" tvg-name="RADIO BOB!" tvg-logo="https://images.radiobob.de/files/2025-05/90er_rock_schrift.jpg" tvg-language="de" tvg-country="DE" tvg-genre="Radio-Privat" group-title="Radio – Privat",RADIO BOB! – 90s Rock
 http://streams.radiobob.de/bob-90srock/mp3-192/
-#EXTINF:-1 radio="true" tvg-name="RADIO BOB!" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_radio-bob.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Radio-Privat" group-title="Radio – Privat",RADIO BOB! – 2000er Rock
+#EXTINF:-1 radio="true" tvg-name="RADIO BOB!" tvg-logo="https://images.radiobob.de/files/2025-05/2000er_rock_schrift.jpg" tvg-language="de" tvg-country="DE" tvg-genre="Radio-Privat" group-title="Radio – Privat",RADIO BOB! – 2000er Rock
 http://streams.radiobob.de/2000er/mp3-192/
-#EXTINF:-1 radio="true" tvg-name="RADIO BOB!" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_radio-bob.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Radio-Privat" group-title="Radio – Privat",RADIO BOB! – Rock Oldies
+#EXTINF:-1 radio="true" tvg-name="RADIO BOB!" tvg-logo="https://images.radiobob.de/files/2025-05/rock_oldies_stream_schrift.jpg" tvg-language="de" tvg-country="DE" tvg-genre="Radio-Privat" group-title="Radio – Privat",RADIO BOB! – Rock Oldies
 http://streams.radiobob.de/rockoldies/mp3-192/
-#EXTINF:-1 radio="true" tvg-name="RADIO BOB!" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_radio-bob.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Radio-Privat" group-title="Radio – Privat",RADIO BOB! – Metal
+#EXTINF:-1 radio="true" tvg-name="RADIO BOB!" tvg-logo="https://images.radiobob.de/files/2025-05/metal_stream_schrift.jpg" tvg-language="de" tvg-country="DE" tvg-genre="Radio-Privat" group-title="Radio – Privat",RADIO BOB! – Metal
 http://streams.radiobob.de/bob-metal/mp3-192/
-#EXTINF:-1 radio="true" tvg-name="RADIO BOB!" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_radio-bob.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Radio-Privat" group-title="Radio – Privat",RADIO BOB! – Hair Metal
+#EXTINF:-1 radio="true" tvg-name="RADIO BOB!" tvg-logo="https://images.radiobob.de/files/2025-05/hair_metal_stream_schrift.jpg" tvg-language="de" tvg-country="DE" tvg-genre="Radio-Privat" group-title="Radio – Privat",RADIO BOB! – Hair Metal
 https://streams.radiobob.de/hairmetal/mp3-192/
-#EXTINF:-1 radio="true" tvg-name="RADIO BOB!" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_radio-bob.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Radio-Privat" group-title="Radio – Privat",RADIO BOB! – Singer/Songwriter
+#EXTINF:-1 radio="true" tvg-name="RADIO BOB!" tvg-logo="https://images.radiobob.de/files/2025-05/singer_songwriter_stream_schrift.jpg" tvg-language="de" tvg-country="DE" tvg-genre="Radio-Privat" group-title="Radio – Privat",RADIO BOB! – Singer/Songwriter
 http://streams.radiobob.de/bob-singersong/mp3-192/
-#EXTINF:-1 radio="true" tvg-name="RADIO BOB!" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_radio-bob.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Radio-Privat" group-title="Radio – Privat",RADIO BOB! – Hardrock
+#EXTINF:-1 radio="true" tvg-name="RADIO BOB!" tvg-logo="https://images.radiobob.de/files/2025-05/hardrock_stream_schrift.jpg" tvg-language="de" tvg-country="DE" tvg-genre="Radio-Privat" group-title="Radio – Privat",RADIO BOB! – Hardrock
 http://streams.radiobob.de/bob-hardrock/mp3-192/
-#EXTINF:-1 radio="true" tvg-name="RADIO BOB!" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_radio-bob.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Radio-Privat" group-title="Radio – Privat",RADIO BOB! – Grunge
+#EXTINF:-1 radio="true" tvg-name="RADIO BOB!" tvg-logo="https://images.radiobob.de/files/2025-05/grunge_stream_schrift.jpg" tvg-language="de" tvg-country="DE" tvg-genre="Radio-Privat" group-title="Radio – Privat",RADIO BOB! – Grunge
 http://streams.radiobob.de/bob-grunge/mp3-192/
-#EXTINF:-1 radio="true" tvg-name="RADIO BOB!" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_radio-bob.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Radio-Privat" group-title="Radio – Privat",RADIO BOB! – Punk
+#EXTINF:-1 radio="true" tvg-name="RADIO BOB!" tvg-logo="https://images.radiobob.de/files/2025-05/punk_stream_schrift.jpg" tvg-language="de" tvg-country="DE" tvg-genre="Radio-Privat" group-title="Radio – Privat",RADIO BOB! – Punk
 http://streams.radiobob.de/bob-punk/mp3-192/
 #EXTINF:-1 radio="true" tvg-id="rockantenne.de" tvg-name="Rock Antenne" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_rock-antenne.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Radio-Privat" group-title="Radio – Privat",ROCK ANTENNE
 https://stream.rockantenne.de/rockantenne/stream/mp3
