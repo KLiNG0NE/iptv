@@ -229,25 +229,25 @@ http://dispatcher.rndfnk.com/rbb/fritz/live/mp3/mid
 http://www.rbbkultur.de/livemp3
 #EXTINF:-1 radio="true" tvg-id="inforadio.de" tvg-name="rbb24 Inforadio" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_rbb24-inforadio.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Radio - ÖRR" group-title="Radio – ÖRR",rbb24 Inforadio
 http://www.inforadio.de/livemp3
-#EXTINF:-1 radio="true" tvg-id="MDR-Sachsen.de" tvg-name="MDR Sachsen" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_mdr-sachsen.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Radio - ÖRR" group-title="Radio – ÖRR",MDR Sachsen
+#EXTINF:-1 radio="true" tvg-id="MDR-Sachsen.de" tvg-name="MDR Sachsen" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_mdr-sachsen.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Radio - ÖRR" group-title="Radio – ÖRR",mdr Sachsen
 http://mdr-284280-0.cast.mdr.de/mdr/284280/0/mp3/high/stream.mp3
-#EXTINF:-1 radio="true" tvg-id="MDR-Sachsen-Anhalt.de" tvg-name="MDR Sachsen-Anhalt" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_mdr-sachsen-anhalt.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Radio - ÖRR" group-title="Radio – ÖRR",MDR Sachsen-Anhalt
+#EXTINF:-1 radio="true" tvg-id="MDR-Sachsen-Anhalt.de" tvg-name="MDR Sachsen-Anhalt" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_mdr-sachsen-anhalt.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Radio - ÖRR" group-title="Radio – ÖRR",mdr Sachsen-Anhalt
 http://mdr-284290-0.cast.mdr.de/mdr/284290/0/mp3/high/stream.mp3
-#EXTINF:-1 radio="true" tvg-id="MDR-Thueringen.de" tvg-name="MDR Thüringen" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_mdr-thueringen.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Radio - ÖRR" group-title="Radio – ÖRR",MDR Thüringen
+#EXTINF:-1 radio="true" tvg-id="MDR-Thueringen.de" tvg-name="MDR Thüringen" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_mdr-thueringen.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Radio - ÖRR" group-title="Radio – ÖRR",mdr Thüringen
 http://mdr-284300-0.cast.mdr.de/mdr/284300/0/mp3/high/stream.mp3
-#EXTINF:-1 radio="true" tvg-id="MDR-Aktuell.de" tvg-name="MDR Aktuell" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_mdr-aktuell02.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Radio - ÖRR" group-title="Radio – ÖRR",MDR Aktuell
+#EXTINF:-1 radio="true" tvg-id="MDR-Aktuell.de" tvg-name="MDR Aktuell" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_mdr-aktuell02.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Radio - ÖRR" group-title="Radio – ÖRR",mdr Aktuell
 http://mdr-284340-0.cast.mdr.de/mdr/284340/0/mp3/high/stream.mp3
-#EXTINF:-1 radio="true" tvg-id="MDR-Jump.de" tvg-name="MDR Jump" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_mdr-jump.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Radio - ÖRR" group-title="Radio – ÖRR",MDR Jump
+#EXTINF:-1 radio="true" tvg-id="MDR-Jump.de" tvg-name="MDR Jump" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_mdr-jump.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Radio - ÖRR" group-title="Radio – ÖRR",mdr Jump
 http://mdr-284321-0.cast.mdr.de/mdr/284321/0/mp3/high/stream.mp3
-#EXTINF:-1 radio="true" tvg-id="MDR-Klassik.de" tvg-name="MDR Klassik" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_mdr-klassik.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Radio - ÖRR" group-title="Radio – ÖRR",MDR Klassik
+#EXTINF:-1 radio="true" tvg-id="MDR-Klassik.de" tvg-name="MDR Klassik" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_mdr-klassik.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Radio - ÖRR" group-title="Radio – ÖRR",mdr Klassik
 http://mdr-284350-0.cast.mdr.de/mdr/284350/0/mp3/high/stream.mp3
-#EXTINF:-1 radio="true" tvg-id="MDR-Kultur.de" tvg-name="MDR Kultur" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_mdr-kultur.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Radio - ÖRR" group-title="Radio – ÖRR",MDR Kultur
+#EXTINF:-1 radio="true" tvg-id="MDR-Kultur.de" tvg-name="MDR Kultur" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_mdr-kultur.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Radio - ÖRR" group-title="Radio – ÖRR",mdr Kultur
 http://mdr-284311-0.cast.mdr.de/mdr/284311/0/mp3/high/stream.mp3
-#EXTINF:-1 radio="true" tvg-id="MDR-Schlagerwelt.de" tvg-name="MDR Schlagerwelt" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_mdr-schlagerwelt.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Radio - ÖRR" group-title="Radio – ÖRR",MDR Schlagerwelt
+#EXTINF:-1 radio="true" tvg-id="MDR-Schlagerwelt.de" tvg-name="MDR Schlagerwelt" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_mdr-schlagerwelt.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Radio - ÖRR" group-title="Radio – ÖRR",mdr Schlagerwelt
 http://mdr-990601-0.cast.mdr.de/mdr/990601/0/mp3/high/stream.mp3
-#EXTINF:-1 radio="true" tvg-id="MDR-Sputnik.de" tvg-name="MDR Sputnik" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio-mdr-sputnik.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Radio - ÖRR" group-title="Radio – ÖRR",MDR Sputnik
+#EXTINF:-1 radio="true" tvg-id="MDR-Sputnik.de" tvg-name="MDR Sputnik" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio-mdr-sputnik.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Radio - ÖRR" group-title="Radio – ÖRR",mdr Sputnik
 http://mdr-284330-0.cast.mdr.de/mdr/284330/0/mp3/high/stream.mp3
-#EXTINF:-1 radio="true" tvg-id="MDR-Tweens.de" tvg-name="MDR Tweens" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_mdr-tweens.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Radio - ÖRR" group-title="Radio – ÖRR",MDR Tweens
+#EXTINF:-1 radio="true" tvg-id="MDR-Tweens.de" tvg-name="MDR Tweens" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_mdr-tweens.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Radio - ÖRR" group-title="Radio – ÖRR",mdr Tweens
 http://mdr-991101-0.cast.mdr.de/mdr/991101/0/mp3/high/stream.mp3
 #EXTINF:-1 radio="true" tvg-id="1LIVE.de" tvg-name="1LIVE" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_1live.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Radio - ÖRR" group-title="Radio – ÖRR",1LIVE
 https://wdr-1live-live.icecastssl.wdr.de/wdr/1live/live/mp3/128/stream.mp3
