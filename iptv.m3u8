@@ -397,31 +397,31 @@ https://s1-webradio.rockantenne.de/rockantenne-bayern
 https://stream.rockantenne.de/rockantenne-oesterreich/stream/mp3
 #EXTINF:-1 radio="true" tvg-name="Rock Antenne" tvg-logo="https://www.rockantenne.de/media/cache/3/version/577/streamlogo_70er-rock_ra-v1.jpg/83746558bec20a51.webp" tvg-language="de" tvg-country="DE" tvg-genre="Radio-Privat" group-title="Radio – Privat",ROCK ANTENNE – 70er Rock
 https://stream.rockantenne.de/70er-rock/stream/mp3
-#EXTINF:-1 radio="true" tvg-name="Rock Antenne" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_rock-antenne.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Radio-Privat" group-title="Radio – Privat",ROCK ANTENNE – 80er Rock
+#EXTINF:-1 radio="true" tvg-name="Rock Antenne" tvg-logo="https://www.rockantenne.de/media/cache/3/version/8271/streamlogo_80er-rock_ra-v1.jpg/ab1a065418a49d6a.webp" tvg-language="de" tvg-country="DE" tvg-genre="Radio-Privat" group-title="Radio – Privat",ROCK ANTENNE – 80er Rock
 https://stream.rockantenne.de/80er-rock/stream/mp3
-#EXTINF:-1 radio="true" tvg-name="Rock Antenne" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_rock-antenne.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Radio-Privat" group-title="Radio – Privat",ROCK ANTENNE – 90er Rock
+#EXTINF:-1 radio="true" tvg-name="Rock Antenne" tvg-logo="https://www.rockantenne.de/media/cache/3/version/578/streamlogo_90er-rock_ra-v1.jpg/da7ae06584648f07.webp" tvg-language="de" tvg-country="DE" tvg-genre="Radio-Privat" group-title="Radio – Privat",ROCK ANTENNE – 90er Rock
 https://stream.rockantenne.de/90er-rock/stream/mp3
-#EXTINF:-1 radio="true" tvg-name="Rock Antenne" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_rock-antenne.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Radio-Privat" group-title="Radio – Privat",ROCK ANTENNE – Alternative
+#EXTINF:-1 radio="true" tvg-name="Rock Antenne" tvg-logo="https://www.rockantenne.de/media/cache/3/version/8269/streamlogo_alternative_ra-v1.jpg/c0f02865f33369d9.webp" tvg-language="de" tvg-country="DE" tvg-genre="Radio-Privat" group-title="Radio – Privat",ROCK ANTENNE – Alternative
 https://stream.rockantenne.de/alternative/stream/mp3
-#EXTINF:-1 radio="true" tvg-name="Rock Antenne" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_rock-antenne.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Radio-Privat" group-title="Radio – Privat",ROCK ANTENNE – Biker Rock
+#EXTINF:-1 radio="true" tvg-name="Rock Antenne" tvg-logo="https://www.rockantenne.de/media/cache/3/version/8011/streamlogo_biker_hits-v1.jpg/faab8a4c83384831.webp" tvg-language="de" tvg-country="DE" tvg-genre="Radio-Privat" group-title="Radio – Privat",ROCK ANTENNE – Biker Rock
 https://stream.rockantenne.de/biker-rock/stream/mp3
-#EXTINF:-1 radio="true" tvg-name="Rock Antenne" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_rock-antenne.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Radio-Privat" group-title="Radio – Privat",ROCK ANTENNE – Blues Rock
+#EXTINF:-1 radio="true" tvg-name="Rock Antenne" tvg-logo="https://www.rockantenne.de/media/cache/3/version/8012/streamlogo_blues_rock_ra-v1.jpg/47b6ea99ee4d586c.webp" tvg-language="de" tvg-country="DE" tvg-genre="Radio-Privat" group-title="Radio – Privat",ROCK ANTENNE – Blues Rock
 https://stream.rockantenne.de/blues-rock/stream/mp3
-#EXTINF:-1 radio="true" tvg-name="Rock Antenne" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_rock-antenne.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Radio-Privat" group-title="Radio – Privat",ROCK ANTENNE – Classic Perlen
+#EXTINF:-1 radio="true" tvg-name="Rock Antenne" tvg-logo="https://www.rockantenne.de/media/cache/3/version/181331/streamlogo-classic-rock-ra-hp-v1.png/b6913666335777cf.webp" tvg-language="de" tvg-country="DE" tvg-genre="Radio-Privat" group-title="Radio – Privat",ROCK ANTENNE – Classic Perlen
 https://stream.rockantenne.de/classic-perlen/stream/mp3
-#EXTINF:-1 radio="true" tvg-name="Rock Antenne" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_rock-antenne.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Radio-Privat" group-title="Radio – Privat",ROCK ANTENNE – Coversongs
+#EXTINF:-1 radio="true" tvg-name="Rock Antenne" tvg-logo="https://www.rockantenne.de/media/cache/3/version/587/streamlogo_coversongs_ra-v1.jpg/d7fcccbfc836ae43.webp" tvg-language="de" tvg-country="DE" tvg-genre="Radio-Privat" group-title="Radio – Privat",ROCK ANTENNE – Coversongs
 https://stream.rockantenne.de/coversongs/stream/mp3
-#EXTINF:-1 radio="true" tvg-name="Rock Antenne" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_rock-antenne.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Radio-Privat" group-title="Radio – Privat",ROCK ANTENNE – Deutschrock
+#EXTINF:-1 radio="true" tvg-name="Rock Antenne" tvg-logo="https://www.rockantenne.de/media/cache/3/version/11677/streamlogo_deutsch_rock_ra-v1.jpg/186e2351e70a64cd.webp" tvg-language="de" tvg-country="DE" tvg-genre="Radio-Privat" group-title="Radio – Privat",ROCK ANTENNE – Deutschrock
 https://stream.rockantenne.de/deutschrock/stream/mp3
-#EXTINF:-1 radio="true" tvg-name="Rock Antenne" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_rock-antenne.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Radio-Privat" group-title="Radio – Privat",ROCK ANTENNE – Hair Metal
+#EXTINF:-1 radio="true" tvg-name="Rock Antenne" tvg-logo="https://www.rockantenne.de/media/cache/3/version/11678/streamlogo_hair_metall_ra-v1.jpg/2d6d4874f26be993.webp" tvg-language="de" tvg-country="DE" tvg-genre="Radio-Privat" group-title="Radio – Privat",ROCK ANTENNE – Hair Metal
 https://stream.rockantenne.de/hair-metal/stream/mp3
-#EXTINF:-1 radio="true" tvg-name="Rock Antenne" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_rock-antenne.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Radio-Privat" group-title="Radio – Privat",ROCK ANTENNE – Hard Rock
+#EXTINF:-1 radio="true" tvg-name="Rock Antenne" tvg-logo="https://www.rockantenne.de/media/cache/3/version/14257/streamlogo_hard_rock_ra_hp-v1.jpg/af1f4a2bc84b9108.webp" tvg-language="de" tvg-country="DE" tvg-genre="Radio-Privat" group-title="Radio – Privat",ROCK ANTENNE – Hard Rock
 https://stream.rockantenne.de/rock-antenne-hard-rock/stream/mp3
-#EXTINF:-1 radio="true" tvg-name="Rock Antenne" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_rock-antenne.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Radio-Privat" group-title="Radio – Privat",ROCK ANTENNE – Heavy Metal
+#EXTINF:-1 radio="true" tvg-name="Rock Antenne" tvg-logo="https://www.rockantenne.de/media/cache/3/version/597/streamlogo_heavymetal_ra-v1.jpg/dc217b5ce59aca86.webp" tvg-language="de" tvg-country="DE" tvg-genre="Radio-Privat" group-title="Radio – Privat",ROCK ANTENNE – Heavy Metal
 https://stream.rockantenne.de/heavy-metal/stream/mp3
-#EXTINF:-1 radio="true" tvg-name="Rock Antenne" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_rock-antenne.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Radio-Privat" group-title="Radio – Privat",ROCK ANTENNE – Indie
+#EXTINF:-1 radio="true" tvg-name="Rock Antenne" tvg-logo="https://www.rockantenne.de/media/cache/3/version/101742/streamlogo-indie-ra-hp-2000x2000-v1.jpg/28c07d1dcb477143.webp" tvg-language="de" tvg-country="DE" tvg-genre="Radio-Privat" group-title="Radio – Privat",ROCK ANTENNE – Indie
 https://stream.rockantenne.de/indie/stream/mp3
-#EXTINF:-1 radio="true" tvg-name="Rock Antenne" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_rock-antenne.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Radio-Privat" group-title="Radio – Privat",ROCK ANTENNE – Live Rock
+#EXTINF:-1 radio="true" tvg-name="Rock Antenne" tvg-logo="https://www.rockantenne.de/media/cache/3/version/11676/streamlogo_live_rock_ra-v1.jpg/426b509d105a996e.webp" tvg-language="de" tvg-country="DE" tvg-genre="Radio-Privat" group-title="Radio – Privat",ROCK ANTENNE – Live Rock
 https://stream.rockantenne.de/live-rock/stream/mp3
-#EXTINF:-1 radio="true" tvg-name="Rock Antenne" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_rock-antenne.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Radio-Privat" group-title="Radio – Privat",ROCK ANTENNE – Rock ’n’ Roll
+#EXTINF:-1 radio="true" tvg-name="Rock Antenne" tvg-logo="https://www.rockantenne.de/media/cache/3/version/584/streamlogo_rocknroll_ra-v1.jpg/38a2d6d72c3c64a8.webp" tvg-language="de" tvg-country="DE" tvg-genre="Radio-Privat" group-title="Radio – Privat",ROCK ANTENNE – Rock ’n’ Roll
 https://stream.rockantenne.de/rockandroll/stream/mp3
