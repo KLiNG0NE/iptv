@@ -427,7 +427,7 @@ http://streams.radiobob.de/bob-chillout/mp3-192/
 http://streams.radiobob.de/newcomer/mp3-192/
 #EXTINF:-1 radio="true" tvg-name="RADIO BOB!" tvg-logo="https://images.radiobob.de/files/2025-05/tobias_sammet_rockshow_schrift.jpg?width=360&height=360" tvg-language="de" tvg-country="DE" tvg-genre="Radio-Privat" group-title="Radio – Privat",RADIO BOB! – Tobias Sammet
 http://streams.radiobob.de/sammet/mp3-192/
-#EXTINF:-1 radio="true" tvg-name="RADIO BOB!" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_radio-bob.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Radio-Privat" group-title="Radio – Privat",RADIO BOB! – The BossHoss
+#EXTINF:-1 radio="true" tvg-name="RADIO BOB!" tvg-logo="https://images.radiobob.de/files/2025-05/boss_hoss_rockshow_stream_schrift.jpg" tvg-language="de" tvg-country="DE" tvg-genre="Radio-Privat" group-title="Radio – Privat",RADIO BOB! – The BossHoss
 http://streams.radiobob.de/bosshoss/mp3-192/
 #EXTINF:-1 radio="true" tvg-name="RADIO BOB!" tvg-logo="https://images.radiobob.de/files/2025-05/roadtrip_stream_schrift.jpg" tvg-language="de" tvg-country="DE" tvg-genre="Radio-Privat" group-title="Radio – Privat",RADIO BOB! – Roadtrip
 http://streams.radiobob.de/bosshoss/mp3-192/
