@@ -551,3 +551,5 @@ https://stream.rockantenne.de/indie/stream/mp3
 https://stream.rockantenne.de/live-rock/stream/mp3
 #EXTINF:-1 radio="true" tvg-name="Rock Antenne" tvg-logo="https://www.rockantenne.de/media/cache/3/version/584/streamlogo_rocknroll_ra-v1.jpg/38a2d6d72c3c64a8.webp" tvg-language="de" tvg-country="DE" tvg-genre="Radio-Privat" group-title="Radio – Privat",ROCK ANTENNE – Rock ’n’ Roll
 https://stream.rockantenne.de/rockandroll/stream/mp3
+#EXTINF:-1 radio="true" tvg-id="rsh.de" tvg-name="R.SH" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_r-sh.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Radio-Privat" group-title="Radio – Privat",R.SH
+http://streams.rsh.de/rsh-live/mp3-192/
