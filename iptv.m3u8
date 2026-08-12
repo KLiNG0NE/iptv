@@ -351,7 +351,7 @@ https://streams.deltaradio.de/delta-poprock/mp3-192/
 https://streams.deltaradio.de/delta-sommer/mp3-192/
 #EXTINF:-1 radio="true" tvg-name="delta radio" tvg-logo="https://agginfo.quantumcast.cloud/m/rc/branding/356019db-52a3-470b-bc75-6ff773e76b17/delta_unplugged_600x600.png" tvg-language="de" tvg-country="DE" tvg-genre="Radio-Privat" group-title="Radio – Privat",delta radio – UNPLUGGED
 https://streams.deltaradio.de/delta-unplugged/mp3-192/
-#EXTINF:-1 radio="true" tvg-name="delta radio" tvg-logo="https://agginfo.quantumcast.cloud/m/rc/branding/e6ba3c25-ab7f-4da7-afb3-9ac6ab901533/delta_deutschrap_600x600.png" tvg-language="de" tvg-country="DE" tvg-genre="Radio-Privat" group-title="Radio – Privat",delta radio Deutsch Rap
+#EXTINF:-1 radio="true" tvg-name="delta radio" tvg-logo="https://agginfo.quantumcast.cloud/m/rc/branding/e6ba3c25-ab7f-4da7-afb3-9ac6ab901533/delta_deutschrap_600x600.png" tvg-language="de" tvg-country="DE" tvg-genre="Radio-Privat" group-title="Radio – Privat",delta radio – Deutsch Rap
 https://streams.deltaradio.de/deutschrap/mp3-192/
 #EXTINF:-1 radio="true" tvg-name="delta radio" tvg-logo="https://agginfo.quantumcast.cloud/m/rc/branding/95b66e51-5d86-46d7-8111-3cb9de08c449/delta_deutsch-rap-klassiker_600x600.png" tvg-language="de" tvg-country="DE" tvg-genre="Radio-Privat" group-title="Radio – Privat",delta radio – Deutsch Rap Klassiker
 https://streams.deltaradio.de/deutschrap-klassiker/mp3-192/
