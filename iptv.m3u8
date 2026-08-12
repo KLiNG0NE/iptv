@@ -321,6 +321,10 @@ https://dispatcher.rndfnk.com/br/brklassik/live/mp3/high
 https://dispatcher.rndfnk.com/br/brheimat/live/mp3/mid
 #EXTINF:-1 radio="true" tvg-id="BR-Schlager.de" tvg-name="BR Schlager" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_br-schlager.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Radio - ÖRR" group-title="Radio – ÖRR",BR Schlager
 https://dispatcher.rndfnk.com/br/brschlager/live/mp3/mid
+#EXTINF:-1 radio="true" tvg-id="oldie-antenne.de" tvg-name="OLDIE ANTENNE" tvg-logo="https://www.oldie-antenne.de/media/cache/3/version/172254/80er90er-oldie-logo-digital-quadrat-ohne-outline-2000x2000-v1.png/ae886f0252d9e4d5.webp" tvg-language="de" tvg-country="DE" tvg-genre="Radio-Privat" group-title="Radio – Privat",80er 90er OLDIE ANTENNE
+https://stream.oldie-antenne.de/oldie-antenne/stream/mp3
+#EXTINF:-1 radio="true" tvg-id="80s80s.de" tvg-name="80s80s" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_80s80s.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Radio-Privat" group-title="Radio – Privat",80s80s
+http://streams.80s80s.de/web/mp3-192/
 #EXTINF:-1 radio="true" tvg-id="deltaradio.de" tvg-name="delta radio" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_delta-radio.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Radio-Privat" group-title="Radio – Privat",delta radio
 https://streams.deltaradio.de/delta-live/mp3-192/
 #EXTINF:-1 radio="true" tvg-name="delta radio" tvg-logo="https://agginfo.quantumcast.cloud/m/rc/branding/6e10a029-59f9-4421-87f7-46190d02bdcc/delta_at-home_600x600.png" tvg-language="de" tvg-country="DE" tvg-genre="Radio-Privat" group-title="Radio – Privat",delta radio – at home
