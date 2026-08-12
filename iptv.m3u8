@@ -323,6 +323,8 @@ https://dispatcher.rndfnk.com/br/brheimat/live/mp3/mid
 https://dispatcher.rndfnk.com/br/brschlager/live/mp3/mid
 #EXTINF:-1 radio="true" tvg-id="deltaradio.de" tvg-name="delta radio" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_delta-radio.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Radio-Privat" group-title="Radio – Privat",delta radio
 https://streams.deltaradio.de/delta-live/mp3-192/
+#EXTINF:-1 radio="true" tvg-name="delta radio" tvg-logo="https://agginfo.quantumcast.cloud/m/rc/branding/6e10a029-59f9-4421-87f7-46190d02bdcc/delta_at-home_600x600.png" tvg-language="de" tvg-country="DE" tvg-genre="Radio-Privat" group-title="Radio – Privat",delta radio at home
+https://streams.deltaradio.de/101/mp3-192/
 #EXTINF:-1 radio="true" tvg-id="radiobob.de" tvg-name="RADIO BOB!" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_radio-bob.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Radio-Privat" group-title="Radio – Privat",RADIO BOB!
 https://streams.radiobob.de/bob-national/mp3-192/streams.radiobob.de/
 #EXTINF:-1 radio="true" tvg-id="radiobob.de" tvg-name="RADIO BOB!" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_radio-bob-sh.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Radio-Privat" group-title="Radio – Privat",RADIO BOB! Schleswig-Holstein
