@@ -335,8 +335,8 @@ http://streams.90s90s.de/web/mp3-192/
 https://edge05.live-sm.absolutradio.de/absolut-bella/stream/mp3
 #EXTINF:-1 radio="true" tvg-name="Absolut Bella" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_absolut-classics.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Radio-Privat" group-title="Radio – Privat",Absolut Classics
 https://absolut-oldieclassics.live-sm.absolutradio.de/absolut-oldieclassics/stream/mp3
-#EXTINF:-1 radio="true" tvg-name="Absolut Germany" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_absolut-germany.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Radio-Privat" group-title="Radio – Privat",Absolut Germany
-https://absolut-germany.live-sm.absolutradio.de/absolut-germany/stream/mp3
+#EXTINF:-1 radio="true" tvg-id="aidaradio.de" tvg-name="AIDAradio" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_aida-radio.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Radio-Privat" group-title="Radio – Privat",AIDAradio
+http://frontend.streamonkey.net/aidaradio-meergefuehl/stream/mp3
 #EXTINF:-1 radio="true" tvg-id="deltaradio.de" tvg-name="delta radio" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_delta-radio.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Radio-Privat" group-title="Radio – Privat",delta radio
 https://streams.deltaradio.de/delta-live/mp3-192/
 #EXTINF:-1 radio="true" tvg-name="delta radio" tvg-logo="https://agginfo.quantumcast.cloud/m/rc/branding/6e10a029-59f9-4421-87f7-46190d02bdcc/delta_at-home_600x600.png" tvg-language="de" tvg-country="DE" tvg-genre="Radio-Privat" group-title="Radio – Privat",delta radio <at home>
