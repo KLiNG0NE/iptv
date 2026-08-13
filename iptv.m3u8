@@ -29,6 +29,8 @@ https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
 #EXTINF:-1 tvg-id="kronehit-tv.at" tvg-name="kronehit tv" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/kronehit.at.png" tvg-language="de" tvg-country="AT" tvg-genre="Musik" group-title="Musik",kronehit tv
 https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
+#EXTINF:-1 tvg-id="dasding.de" tvg-name="DASDING" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_dasding.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Musik" group-title="Musik",DASDING
+https://mcdn.swr.de/swr/visualradiodasding/master1080p-5128.m3u8
 #EXTINF:-1 tvg-id="NDR.de" tvg-name="NDR Schleswih-Holstein" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/ndr.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Drittes Fernsehprogramm" group-title="Vollprogramm",NDR Fernsehen [SH]
 https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_sh/master.m3u8
 #EXTINF:-1 tvg-id="NDR.de" tvg-name="NDR Hamburg" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/ndr.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Drittes Fernsehprogramm" group-title="Vollprogramm",NDR Fernsehen [HH]
