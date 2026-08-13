@@ -19,6 +19,8 @@ https://zdf-hls-17.akamaized.net/hls/live/2016500/de/veryhigh/master.m3u8
 https://zdf-hls-19.akamaized.net/hls/live/2016502/de/veryhigh/master.m3u8
 #EXTINF:-1 tvg-id="ARD.alpha.de" tvg-name="ARD alpha" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/ard-alpha.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Info/Doku" group-title="Spartenprogramm",ARD alpha
 https://mcdn.br.de/br/fs/ard_alpha/hls/de/master.m3u8
+#EXTINF:-1 tvg-id="KIKA.de" tvg-name="KiKA" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/kika.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Kinder" group-title="Spartenprogramm",KiKA
+https://kikageohls.akamaized.net/hls/live/2022693/livetvkika_de/master.m3u8
 #EXTINF:-1 tvg-id="DW.de" tvg-name="DW" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/dw.de.png" tvg-language="en" tvg-country="DE" tvg-genre="International" group-title="Spartenprogramm",DW
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
 #EXTINF:-1 tvg-id="Dokusat.de" tvg-name="Dokusat" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/dokusat.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Info/Doku" group-title="Spartenprogramm",Dokusat
