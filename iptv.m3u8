@@ -187,6 +187,8 @@ https://st01.sslstream.dlf.de/dlf/01/128/mp3/stream.mp3?aggregator=web
 https://st02.sslstream.dlf.de/dlf/02/128/mp3/stream.mp3?aggregator=web
 #EXTINF:-1 radio="true" tvg-id="deutschlandfunknova.de" tvg-name="Deutschlandfunk Nova" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_deutschlandfunk-nova.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Radio - ÖRR" group-title="Radio – ÖRR",Deutschlandfunk Nova
 https://st03.sslstream.dlf.de/dlf/03/128/mp3/stream.mp3?aggregator=web
+#EXTINF:-1 radio="true" tvg-name="Dokumente und Debatten" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_deutschlandradio.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Radio - ÖRR" group-title="Radio – ÖRR",Dokumente und Debatten
+https://st04.sslstream.dlf.de/dlf/04/128/mp3/stream.mp3
 #EXTINF:-1 radio="true" tvg-id="NDR-1-Welle-Nord.de" tvg-name="NDR 1 Welle Nord" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_ndr-1-welle-nord.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Radio - ÖRR" group-title="Radio – ÖRR",NDR 1 Welle Nord
 http://icecast.ndr.de/ndr/ndr1wellenord/kiel/mp3/128/stream.mp3
 #EXTINF:-1 radio="true" tvg-id="NDR-1-Niedersachsen.de" tvg-name="NDR 1 Niedersachsen" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_ndr-1-niedersachsen.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Radio - ÖRR" group-title="Radio – ÖRR",NDR 1 Niedersachsen
