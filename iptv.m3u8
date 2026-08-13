@@ -119,7 +119,7 @@ https://stream.radiodarmstadt.de/radar.mp3
 https://stream.radiofabrik.at/rf_low.mp3
 #EXTINF:-1 radio="true" tvg-id="radio_fips.de" tvg-name="Radio fips" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio__radio-fips.png" tvg-language="de" tvg-country="DE" tvg-genre="Freies Radio" group-title="Freies Radio",Radio fips [BW-GP]
 https://streams.radiofips.de/fipsmp3
-#EXTINF:-1 radio="true" tvg-id="radio-flora.de" tvg-name="radio flora" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_radio-flora.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Freies Radio" group-title="Freies Radio",radio flora [NI-H]
+#EXTINF:-1 radio="true" tvg-id="radio-flora.de" tvg-name="radio flora" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_radio-flora02.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Freies Radio" group-title="Freies Radio",radio flora [NI-H]
 https://radioflora.de:8443/studiostream.mp3
 #EXTINF:-1 radio="true" tvg-id="radio_radio-fratz.de" tvg-name="Radio Fratz" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_radio-fratz.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Freies Radio" group-title="Freies Radio",Radio Fratz [SH-FL]
 https://stream.radio-fratz.de/stream.mp3
