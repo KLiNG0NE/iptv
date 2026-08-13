@@ -83,7 +83,7 @@ http://212.89.182.114:8008/frf
 https://stream.radio-fds.de:9148/stream
 #EXTINF:-1 radio="true" tvg-id="freies-radio-fuer-stuttgart.de" tvg-name="Freies Radio für Stuttgart" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_freies-radio-fuer-stuttgart.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Freies Radio" group-title="Freies Radio",Freies Radio für Stuttgart [BW-S]
 https://streaming.fueralle.org/frs-hi.mp3
-#EXTINF:-1 radio="true" tvg-id="Freies-Radio-Innsbruck.at" tvg-name="Freies Radio Innsbruck" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_freies-radio-innsbruck.at.png" tvg-language="de" tvg-country="AT" tvg-genre="Freies Radio" group-title="Freies Radio",Freies Radio Innsbruck FREIRAD [AT-T-I]
+#EXTINF:-1 radio="true" tvg-id="Freies-Radio-Innsbruck.at" tvg-name="Freies Radio Innsbruck" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_freies-radio-innsbruck02.at.png" tvg-language="de" tvg-country="AT" tvg-genre="Freies Radio" group-title="Freies Radio",Freies Radio Innsbruck FREIRAD [AT-T-I]
 https://stream.freirad.at/live.mp3
 #EXTINF:-1 radio="true" tvg-id="Freies-Radio-Kassel.de" tvg-name="Freies Radio Kassel" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_freies-radio-kassel.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Freies Radio" group-title="Freies Radio",Freies Radio Kassel [HE-KS]
 https://stream-freies-radio-kassel.de/live.mp3
