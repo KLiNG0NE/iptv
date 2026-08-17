@@ -29,6 +29,8 @@ https://tinyurl.com/klingtv
 
 ## Sendertabelle ##
 
+(unvollständig)
+
 | Logo                                                                            | Name           | Stream-URL |
 |:-------------------------------------------------------------------------------:|:--------------:|------------|
 | Vollprogramm                                                                    |                |            |
