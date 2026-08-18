@@ -583,6 +583,8 @@ https://live.radio-aktiv.de/evw.mp3
 https://radio.oksh.de/kielfm.mp3
 #EXTINF:-1 radio="true" tvg-id="Lübeck-FM.de" tvg-name="Lübeck FM" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_luebeck-fm.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Radio – Bürger/OK" group-title="Radio – Bürger/OK",Lübeck FM [SH-HL]
 https://radio.oksh.de/luebeckfm.mp3
+#EXTINF:-1 radio="true" tvg-id="osradio.de" tvg-name="OS-Radio 104,8" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_os-radio.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Radio – Bürger/OK" group-title="Radio – Bürger/OK",OS-Radio 104,8 [NI-OS]
+https://live.os-radio.de/os-radio.mp3
 #EXTINF:-1 radio="true" tvg-id="radio-aktiv.de" tvg-name="radio aktiv" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_radio-aktiv.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Radio – Bürger/OK" group-title="Radio – Bürger/OK",radio aktiv [NI-HM]
 https://live.radio-aktiv.de/r-aktiv.mp3
 #EXTINF:-1 radio="true" tvg-id="okerwelle.de" tvg-name="Radio Okerwelle" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_radio-okerwelle.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Radio – Bürger/OK" group-title="Radio – Bürger/OK",Radio Okerwelle [NI-BS]
