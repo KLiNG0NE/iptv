@@ -577,7 +577,7 @@ http://streams.rsh.de/gutelaune/mp3-192/
 http://streams.rsh.de/rsh-nordparade/mp3-192/
 #EXTINF:-1 radio="true" tvg-name="R.SH" tvg-logo="https://images.rsh.de/files/streams/rsh_stream-tile_relax.jpg" tvg-language="de" tvg-country="DE" tvg-genre="Radio-Privat" group-title="Radio – Privat",R.SH <Relax>
 http://streams.rsh.de/relax/mp3-192/
-#EXTINF:-1 radio="true" tvg-id="KielFM.de" tvg-name="KielFM" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_kielfm.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Radio – Bürger/OK" group-title="Radio – Bürger/OK",KielFM
+#EXTINF:-1 radio="true" tvg-id="Kiel-FM.de" tvg-name="Kiel FM" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_kielfm.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Radio – Bürger/OK" group-title="Radio – Bürger/OK",Kiel FM
 https://radio.oksh.de/kielfm.mp3
 #EXTINF:-1 radio="true" tvg-id="Lübeck-FM.de" tvg-name="Lübeck FM" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_luebeck-fm.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Radio – Bürger/OK" group-title="Radio – Bürger/OK",Lübeck FM
 https://radio.oksh.de/luebeckfm.mp3
@@ -587,6 +587,8 @@ http://radiocast-radiowesertv.video-stream-hosting.de:8000/rwtvhb
 http://radiocast-radiowesertv.video-stream-hosting.de:8000/rwtvbx
 #EXTINF:-1 radio="true" tvg-name="Tide" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/tide-tv.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Radio – Bürger/OK" group-title="Radio – Bürger/OK",Tide
 http://streaming.tidenet.de:8000/tide-192.mp3
+#EXTINF:-1 radio="true" tvg-id="Westküste.FM.de" tvg-name="Westküste FM" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_westküste-fm.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Radio – Bürger/OK" group-title="Radio – Bürger/OK",Westküste FM
+https://radio.oksh.de/westkuestefm.mp3
 #EXTINF:-1 tvg-id="KielTV.de" tvg-name="KielTV" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/kiel-tv.de.png" tvg-language="de" tvg-country="DE" group-title="Offener Kanal",KielTV
 https://live-cdn.oksh.de/play/hls/kieltv/index.m3u8
 #EXTINF:-1 tvg-id="Flensburg-TV.de" tvg-name="Flensburg TV" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/flensburg-tv.de.png" tvg-language="de" tvg-country="DE" group-title="Offener Kanal",Flensburg TV
