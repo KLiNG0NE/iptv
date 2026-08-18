@@ -583,3 +583,7 @@ http://radiocast-radiowesertv.video-stream-hosting.de:8000/rwtvhb
 http://radiocast-radiowesertv.video-stream-hosting.de:8000/rwtvbx
 #EXTINF:-1 radio="true" tvg-id="Tide.de" tvg-name="Tide" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/tide-tv.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Radio – Bürger/OK" group-title="Radio – Bürger/OK",Tide
 http://streaming.tidenet.de:8000/tide-192.mp3
+#EXTINF:-1 radio="true" tvg-id="KielTV.de" tvg-name="KielTV" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/kiel-tv.de.png" tvg-language="de" tvg-country="DE" group-title="Offener Kanal",KielTV
+https://live-cdn.oksh.de/play/hls/kieltv/index.m3u8
+#EXTINF:-1 radio="true" tvg-id="Flensburg-TV.de" tvg-name="Flensburg TV" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/flensburg-tv.de.png" tvg-language="de" tvg-country="DE" group-title="Offener Kanal",Flensburg TV
+https://live-cdn.oksh.de/play/hls/flensburgtv/index.m3u8
