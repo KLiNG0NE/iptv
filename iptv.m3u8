@@ -577,6 +577,8 @@ http://streams.rsh.de/gutelaune/mp3-192/
 http://streams.rsh.de/rsh-nordparade/mp3-192/
 #EXTINF:-1 radio="true" tvg-name="R.SH" tvg-logo="https://images.rsh.de/files/streams/rsh_stream-tile_relax.jpg" tvg-language="de" tvg-country="DE" tvg-genre="Radio-Privat" group-title="Radio – Privat",R.SH <Relax>
 http://streams.rsh.de/relax/mp3-192/
+#EXTINF:-1 radio="true" tvg-name="ALEX Radio" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/alex-berlin.de.png" tvg-language="de" tvg-country="DE" group-title="Radio – Bürger/OK",ALEX Radio [B]
+http://alex-radio.rosebud-media.de:8000/alex-radio
 #EXTINF:-1 radio="true" tvg-id="Ems-Vechte-Welle.de" tvg-name="Ems-Vechte-Welle" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_ems-vechte-welle.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Radio – Bürger/OK" group-title="Radio – Bürger/OK",Ems-Vechte-Welle [NI-EL]
 https://live.radio-aktiv.de/evw.mp3
 #EXTINF:-1 radio="true" tvg-id="Kiel-FM.de" tvg-name="Kiel FM" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_kielfm.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Radio – Bürger/OK" group-title="Radio – Bürger/OK",Kiel FM [SH-KI]
