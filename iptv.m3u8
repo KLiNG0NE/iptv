@@ -581,6 +581,8 @@ http://streams.rsh.de/relax/mp3-192/
 https://radio.oksh.de/kielfm.mp3
 #EXTINF:-1 radio="true" tvg-id="Lübeck-FM.de" tvg-name="Lübeck FM" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_luebeck-fm.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Radio – Bürger/OK" group-title="Radio – Bürger/OK",Lübeck FM
 https://radio.oksh.de/luebeckfm.mp3
+#EXTINF:-1 radio="true" tvg-id="radio-aktiv.de" tvg-name="radio aktiv" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_radio-aktiv.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Radio – Bürger/OK" group-title="Radio – Bürger/OK",radio aktiv
+https://live.radio-aktiv.de/r-aktiv.mp3
 #EXTINF:-1 radio="true" tvg-name="Radio Weser.TV Bremen" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio-weser-tv.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Radio – Bürger/OK" group-title="Radio – Bürger/OK",Radio Weser.TV Bremen
 http://radiocast-radiowesertv.video-stream-hosting.de:8000/rwtvhb
 #EXTINF:-1 radio="true" tvg-name="Radio Weser.TV Bremen" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio-weser-tv.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Radio – Bürger/OK" group-title="Radio – Bürger/OK",Radio Weser.TV Bremerhaven
