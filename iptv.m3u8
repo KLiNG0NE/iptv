@@ -617,13 +617,13 @@ https://stream.radio-bf.de/listen/wartburg_radio/ssl.mp3
 https://radio.oksh.de/westkuestefm.mp3
 #EXTINF:-1 tvg-id="alex-berlin.de" tvg-name="ALEX Berlin" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/alex-berlin.de.png" tvg-language="de" tvg-country="DE" group-title="Offener Kanal",ALEX Berlin [B]
 https://alex-stream.rosebud-media.de/bounce/alexlivetv50.smil/index.m3u8
-#EXTINF:-1 tvg-id="Flensburg-TV.de" tvg-name="Flensburg TV" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/flensburg-tv.de.png" tvg-language="de" tvg-country="DE" group-title="Offener Kanal",Flensburg TV
+#EXTINF:-1 tvg-id="Flensburg-TV.de" tvg-name="Flensburg TV" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/flensburg-tv.de.png" tvg-language="de" tvg-country="DE" group-title="Offener Kanal",Flensburg TV [SH-FL]
 https://live-cdn.oksh.de/play/hls/flensburgtv/index.m3u8
-#EXTINF:-1 tvg-id="h-eins.tv" tvg-name="h1" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_h1.de.png" tvg-language="de" tvg-country="DE" group-title="Offener Kanal",h1 (15:00-00:00)
+#EXTINF:-1 tvg-id="h-eins.tv" tvg-name="h1" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_h1.de.png" tvg-language="de" tvg-country="DE" group-title="Offener Kanal",h1 [NI-H] (15:00-00:00)
 https://5857499ee635b.streamlock.net/heinstv-live/_definst_/smil:livestream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="KielTV.de" tvg-name="KielTV" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/kiel-tv.de.png" tvg-language="de" tvg-country="DE" group-title="Offener Kanal",KielTV
+#EXTINF:-1 tvg-id="KielTV.de" tvg-name="KielTV" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/kiel-tv.de.png" tvg-language="de" tvg-country="DE" group-title="Offener Kanal",KielTV [SH-KI]
 https://live-cdn.oksh.de/play/hls/kieltv/index.m3u8
 #EXTINF:-1 tvg-id="ok4.tv" tvg-name="OK4" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/ok4.de.png" tvg-language="de" tvg-country="DE" group-title="Offener Kanal",OK4 [RP-AW]
 https://s.ok54.de/abr_ok4/live/ok4/live_720p/chunks.m3u8
-#EXTINF:-1 tvg-id="oeins.de" tvg-name="oldenburg eins" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/oldenburg-eins.de.png" tvg-language="de" tvg-country="DE" group-title="Offener Kanal",oldenburg eins (11:00-00:00)
+#EXTINF:-1 tvg-id="oeins.de" tvg-name="oldenburg eins" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/oldenburg-eins.de.png" tvg-language="de" tvg-country="DE" group-title="Offener Kanal",oldenburg eins [NI-OL] (11:00-00:00)
 https://cdn.oeins.de/hd1080/index.m3u8
