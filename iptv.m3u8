@@ -67,6 +67,10 @@ https://mcdn.br.de/br/fs/bfs_nord/hls/de/master.m3u8
 https://mcdn.br.de/br/fs/bfs_sued/hls/de/master.m3u8
 #EXTINF:-1 tvg-id="filstalwelle.de" tvg-name="filstalwelle" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/filstalwelle.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Regionalfernsehen" group-title="Regional/Lokal",filstalwelle (BW-GP)
 https://h055.video-stream-hosting.de/filstalwelle-live/_definst_/mp4:livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="noa4.de" tvg-name="noa4 Norderstedt" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/noa4.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Regionalfernsehen" group-title="Regional/Lokal",noa4 Norderstedt [SH-SE]
+https://hls1.wtnet.de/noa4/apple/wifi6500.m3u8
+#EXTINF:-1 tvg-name="noa4 Hamburg" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/noa4.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Regionalfernsehen" group-title="Regional/Lokal",noa4 Hamburg [SH-SE]
+https://hls1.wtnet.de/noa4hh/apple/wifi6500.m3u8
 #EXTINF:-1 tvg-id="Okto.at" tvg-name="OKTO" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/okto.at.png" tvg-language="de" tvg-country="AT" group-title="Bürgerfernsehen",OKTO
 https://cdn3.wowza.com/1/MHFtazJReW5rOFhP/N2NWNDZ2/hls/live/playlist.m3u8
 #EXTINF:-1 radio="true" tvg-id="radio_bermuda-funk.de" tvg-name="bermuda.funk" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio__bermudafunk.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Freies Radio" group-title="Freies Radio",bermuda.funk [BW-MA]
