@@ -623,5 +623,7 @@ https://live-cdn.oksh.de/play/hls/flensburgtv/index.m3u8
 https://5857499ee635b.streamlock.net/heinstv-live/_definst_/smil:livestream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="KielTV.de" tvg-name="KielTV" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/kiel-tv.de.png" tvg-language="de" tvg-country="DE" group-title="Offener Kanal",KielTV
 https://live-cdn.oksh.de/play/hls/kieltv/index.m3u8
+#EXTINF:-1 tvg-id="ok4.tv" tvg-name="OK4" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/ok4.de.png" tvg-language="de" tvg-country="DE" group-title="Offener Kanal",OK4 [RP-AW]
+https://s.ok54.de/abr_ok4/live/ok4/live_720p/chunks.m3u8
 #EXTINF:-1 tvg-id="oeins.de" tvg-name="oldenburg eins" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/oldenburg-eins.de.png" tvg-language="de" tvg-country="DE" group-title="Offener Kanal",oldenburg eins (11:00-00:00)
 https://cdn.oeins.de/hd1080/index.m3u8
