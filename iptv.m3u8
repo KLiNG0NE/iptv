@@ -603,6 +603,8 @@ https://funkturm.zusa.de:8443/mp3
 http://stream.stadtradio-goettingen.de:8000/stadtradio.mp3
 #EXTINF:-1 radio="true" tvg-name="Tide" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/tide-tv.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Radio – Bürger/OK" group-title="Radio – Bürger/OK",Tide [HH]
 http://streaming.tidenet.de:8000/tide-192.mp3
+#EXTINF:-1 radio="true" tvg-id="wartburgradio.org" tvg-name="Wartburg-Radio" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_wartburg-radio.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Radio – Bürger/OK" group-title="Radio – Bürger/OK",Wartburg-Radio [TH-EA]
+https://stream.radio-bf.de/listen/wartburg_radio/ssl.mp3
 #EXTINF:-1 radio="true" tvg-id="Westküste.FM.de" tvg-name="Westküste FM" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_westküste-fm.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Radio – Bürger/OK" group-title="Radio – Bürger/OK",Westküste FM [SH-HEI]
 https://radio.oksh.de/westkuestefm.mp3
 #EXTINF:-1 tvg-id="alex-berlin.de" tvg-name="ALEX Berlin" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/alex-berlin.de.png" tvg-language="de" tvg-country="DE" group-title="Offener Kanal",ALEX Berlin [B]
