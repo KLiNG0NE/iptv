@@ -591,7 +591,7 @@ https://oeins.de/oeins
 https://live.os-radio.de/os-radio.mp3
 #EXTINF:-1 radio="true" tvg-id="radio-aktiv.de" tvg-name="radio aktiv" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_radio-aktiv.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Radio – Bürger/OK" group-title="Radio – Bürger/OK",radio aktiv [NI-HM]
 https://live.radio-aktiv.de/r-aktiv.mp3
-#EXTINF:-1 radio="true" tvg-id="radio-enno.de" tvg-name="Radio Enno" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_radio-enno.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Radio – Bürger/OK" group-title="Radio – Bürger/OK",Radio Enno
+#EXTINF:-1 radio="true" tvg-id="radio-enno.de" tvg-name="Radio Enno" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_radio-enno.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Radio – Bürger/OK" group-title="Radio – Bürger/OK",Radio Enno [TH-NDH]
 https://stream.radio-bf.de/listen/enno/ssl.mp3
 #EXTINF:-1 radio="true" tvg-id="okerwelle.de" tvg-name="Radio Okerwelle" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_radio-okerwelle.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Radio – Bürger/OK" group-title="Radio – Bürger/OK",Radio Okerwelle [NI-BS]
 http://stream.okerwelle.de/okw.mp3
@@ -603,6 +603,10 @@ http://radiocast-radiowesertv.video-stream-hosting.de:8000/rwtvhb
 http://radiocast-radiowesertv.video-stream-hosting.de:8000/rwtvbx
 #EXTINF:-1 radio="true" tvg-id="zusa.de" tvg-name="Radio ZuSa" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_radio-zusa.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Radio – Bürger/OK" group-title="Radio – Bürger/OK",Radio ZuSa [NI-UE]
 https://funkturm.zusa.de:8443/mp3
+#EXTINF:-1 radio="true" tvg-id="srb.fm" tvg-name="SRB" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_srb.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Radio – Bürger/OK" group-title="Radio – Bürger/OK",SRB [TH-SLF]
+http://tbradio.de/srb
+#EXTINF:-1 radio="true" tvg-name="SRB Rock" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_srb.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Radio – Bürger/OK" group-title="Radio – Bürger/OK",SRB <Rock>
+http://tbradio.de/srb-rock
 #EXTINF:-1 radio="true" tvg-id="stadtradio-goettingen.de" tvg-name="StadtRadio Göttingen" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_stadtradio-goettingen.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Radio – Bürger/OK" group-title="Radio – Bürger/OK",StadtRadio Göttingen [NI-GÖ]
 http://stream.stadtradio-goettingen.de:8000/stadtradio.mp3
 #EXTINF:-1 radio="true" tvg-name="Tide" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/tide-tv.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Radio – Bürger/OK" group-title="Radio – Bürger/OK",Tide [HH]
