@@ -27,6 +27,22 @@ https://tinyurl.com/klingtv
 > - Es kann vorkommen, dass Sender den Stream nur für bestimmte Länder zur Verfügung stellen. (Geoblocking)
 > - Diese Liste wird privat zusammengestellt und erhebt keinen Anspruch auf Vollständigkeit oder Verfügbarkeit.
 
+## Umfang ##
+
+| Typ | Gruppe            | Anzal |
+|:---:|:-----------------:|------:|
+| 📺  | Vollprogram       | 21    |
+| 📺  | Spartenprogram    | 8     |
+| 📺  | Nachrichten       | 1     |
+| 📺  | Musik             | 3     |
+| 📺  | Regional/Lokal    | 3     |
+| 📺  | Offener Kanal     | 7     |
+| 📻  | Freies Radio      | 58    |
+| 📻  | Radio - ÖRR       | 71    |
+| 📻  | Radio - Privat    | 125   |
+| 📻  | Radio - Bürger/OK | 19    |
+
+
 ## Sendertabelle ##
 
 (unvollständig)
