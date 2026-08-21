@@ -631,7 +631,9 @@ https://s.ok54.de/abr_nahetv/webstream/nahetv/webstream_720p/chunks.m3u8
 https://fms.nrwision.de/live/ngrp:livestreamHD.stream/chunklist_w1799347434_b7240867.m3u8
 #EXTINF:-1 tvg-id="ok4.tv" tvg-name="OK4" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/ok4.de.png" tvg-language="de" tvg-country="DE" group-title="Bürger/OK",OK4 [RP-AW]
 https://s.ok54.de/abr_ok4/live/ok4/live_720p/chunks.m3u8
-#EXTINF:-1 tvg-id="Okto.at" tvg-name="OKTO" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/okto.at.png" tvg-language="de" tvg-country="AT" group-title="Bürger/OK",OKTO
+#EXTINF:-1 tvg-id="ok54.d" tvg-name="OK54" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/ok54.de.png" tvg-language="de" tvg-country="DE" group-title="Bürger/OK",OK54 [RP-TR]
+https://s.ok54.de/abr_ok4/live/ok4/live_720p/chunks.m3u8
+#EXTINF:-1 tvg-id="Okto.at" tvg-name="OKTO" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/okto.at.png" tvg-language="de" tvg-country="AT" group-title="Bürger/OK",OKTO [AT-W]
 https://cdn3.wowza.com/1/MHFtazJReW5rOFhP/N2NWNDZ2/hls/live/playlist.m3u8
 #EXTINF:-1 tvg-id="oeins.de" tvg-name="oldenburg eins" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/oldenburg-eins.de.png" tvg-language="de" tvg-country="DE" group-title="Bürger/OK",oldenburg eins [NI-OL] (11:00-00:00)
 https://cdn.oeins.de/hd1080/index.m3u8
