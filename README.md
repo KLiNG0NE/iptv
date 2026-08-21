@@ -36,7 +36,7 @@ https://tinyurl.com/klingtv
 | 📺  | Nachrichten       | 1     |
 | 📺  | Musik             | 3     |
 | 📺  | Regional/Lokal    | 3     |
-| 📺  | Offener Kanal     | 7     |
+| 📺  | Bürger/OK         | 8     |
 | 📻  | Freies Radio      | 58    |
 | 📻  | Radio - ÖRR       | 71    |
 | 📻  | Radio - Privat    | 125   |
