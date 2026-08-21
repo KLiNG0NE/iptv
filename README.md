@@ -29,18 +29,18 @@ https://tinyurl.com/klingtv
 
 ## Umfang ##
 
-| Typ | Gruppe            | Anzal |
-|:---:|:-----------------:|------:|
-| 📺  | Vollprogram       | 21    |
-| 📺  | Spartenprogram    | 8     |
-| 📺  | Nachrichten       | 1     |
-| 📺  | Musik             | 3     |
-| 📺  | Regional/Lokal    | 3     |
-| 📺  | Bürger/OK         | 8     |
-| 📻  | Freies Radio      | 58    |
-| 📻  | Radio - ÖRR       | 71    |
-| 📻  | Radio - Privat    | 125   |
-| 📻  | Radio - Bürger/OK | 19    |
+| Typ       | Gruppe            | Anzal |
+|:---------:|:-----------------:|------:|
+| 📺 TV    | Vollprogram       | 21    |
+| 📺 TV    | Spartenprogram    | 8     |
+| 📺 TV    | Nachrichten       | 1     |
+| 📺 TV    | Musik             | 3     |
+| 📺 TV    | Regional/Lokal    | 3     |
+| 📺 TV    | Bürger/OK         | 12    |
+| 📻 Radio | Freies Radio      | 58    |
+| 📻 Radio | Radio - ÖRR       | 71    |
+| 📻 Radio | Radio - Privat    | 125   |
+| 📻 Radio | Radio - Bürger/OK | 19    |
 
 
 ## Sendertabelle ##
