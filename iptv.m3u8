@@ -71,8 +71,6 @@ https://h055.video-stream-hosting.de/filstalwelle-live/_definst_/mp4:livestream/
 https://hls1.wtnet.de/noa4/apple/wifi6500.m3u8
 #EXTINF:-1 tvg-name="noa4 Hamburg" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/noa4.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Regionalfernsehen" group-title="Regional/Lokal",noa4 Hamburg [SH-SE]
 https://hls1.wtnet.de/noa4hh/apple/wifi6500.m3u8
-#EXTINF:-1 tvg-id="Okto.at" tvg-name="OKTO" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/okto.at.png" tvg-language="de" tvg-country="AT" group-title="Bürgerfernsehen",OKTO
-https://cdn3.wowza.com/1/MHFtazJReW5rOFhP/N2NWNDZ2/hls/live/playlist.m3u8
 #EXTINF:-1 radio="true" tvg-id="radio_bermuda-funk.de" tvg-name="bermuda.funk" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio__bermudafunk.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Freies Radio" group-title="Freies Radio",bermuda.funk [BW-MA]
 http://streaming.fueralle.org:8000/bermudafunk_high
 #EXTINF:-1 radio="true" tvg-id="campus-city-radio-st-poelten.at" tvg-name="Campus & City Radio St. Pölten" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_campus-city-radio-st-poelten.at.png" tvg-language="de" tvg-country="AT" tvg-genre="Freies Radio" group-title="Freies Radio",Campus & City Radio St. Pölten [AT-NÖ-P]
@@ -619,17 +617,21 @@ http://streaming.tidenet.de:8000/tide-192.mp3
 https://stream.radio-bf.de/listen/wartburg_radio/ssl.mp3
 #EXTINF:-1 radio="true" tvg-id="Westküste.FM.de" tvg-name="Westküste FM" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_westküste-fm.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Radio – Bürger/OK" group-title="Radio – Bürger/OK",Westküste FM [SH-HEI]
 https://radio.oksh.de/westkuestefm.mp3
-#EXTINF:-1 tvg-id="alex-berlin.de" tvg-name="ALEX Berlin" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/alex-berlin.de.png" tvg-language="de" tvg-country="DE" group-title="Offener Kanal",ALEX Berlin [B]
+#EXTINF:-1 tvg-id="alex-berlin.de" tvg-name="ALEX Berlin" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/alex-berlin.de.png" tvg-language="de" tvg-country="DE" group-title="Bürger/OK",ALEX Berlin [B]
 https://alex-stream.rosebud-media.de/bounce/alexlivetv50.smil/index.m3u8
-#EXTINF:-1 tvg-id="Flensburg-TV.de" tvg-name="Flensburg TV" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/flensburg-tv.de.png" tvg-language="de" tvg-country="DE" group-title="Offener Kanal",Flensburg TV [SH-FL]
+#EXTINF:-1 tvg-id="Flensburg-TV.de" tvg-name="Flensburg TV" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/flensburg-tv.de.png" tvg-language="de" tvg-country="DE" group-title="Bürger/OK",Flensburg TV [SH-FL]
 https://live-cdn.oksh.de/play/hls/flensburgtv/index.m3u8
-#EXTINF:-1 tvg-id="h-eins.tv" tvg-name="h1" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_h1.de.png" tvg-language="de" tvg-country="DE" group-title="Offener Kanal",h1 [NI-H] (15:00-00:00)
+#EXTINF:-1 tvg-id="h-eins.tv" tvg-name="h1" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_h1.de.png" tvg-language="de" tvg-country="DE" group-title="Bürger/OK",h1 [NI-H] (15:00-00:00)
 https://5857499ee635b.streamlock.net/heinstv-live/_definst_/smil:livestream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-name="Kiel TV" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/kiel-tv.de.png" tvg-language="de" tvg-country="DE" group-title="Offener Kanal",Kiel TV [SH-KI]
+#EXTINF:-1 tvg-name="Kiel TV" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/kiel-tv.de.png" tvg-language="de" tvg-country="DE" group-title="Bürger/OK",Kiel TV [SH-KI]
 https://live-cdn.oksh.de/play/hls/kieltv/index.m3u8
-#EXTINF:-1 tvg-name="naheTV" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/nahetv.de.png" tvg-language="de" tvg-country="DE" group-title="Offener Kanal",naheTV [RP-KH]
+#EXTINF:-1 tvg-name="naheTV" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/nahetv.de.png" tvg-language="de" tvg-country="DE" group-title="Bürger/OK",naheTV [RP-KH]
 https://s.ok54.de/abr_nahetv/webstream/nahetv/webstream_720p/chunks.m3u8
-#EXTINF:-1 tvg-id="ok4.tv" tvg-name="OK4" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/ok4.de.png" tvg-language="de" tvg-country="DE" group-title="Offener Kanal",OK4 [RP-AW]
+#EXTINF:-1 tvg-id="nrwision.de" tvg-name="NRWision" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/nrwision.de.png" tvg-language="de" tvg-country="DE" group-title="Bürger/OK",NRWision [NRW-DO]
+https://fms.nrwision.de/live/ngrp:livestreamHD.stream/chunklist_w1799347434_b7240867.m3u8
+#EXTINF:-1 tvg-id="ok4.tv" tvg-name="OK4" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/ok4.de.png" tvg-language="de" tvg-country="DE" group-title="Bürger/OK",OK4 [RP-AW]
 https://s.ok54.de/abr_ok4/live/ok4/live_720p/chunks.m3u8
-#EXTINF:-1 tvg-id="oeins.de" tvg-name="oldenburg eins" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/oldenburg-eins.de.png" tvg-language="de" tvg-country="DE" group-title="Offener Kanal",oldenburg eins [NI-OL] (11:00-00:00)
+#EXTINF:-1 tvg-id="Okto.at" tvg-name="OKTO" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/okto.at.png" tvg-language="de" tvg-country="AT" group-title="Bürger/OK",OKTO
+https://cdn3.wowza.com/1/MHFtazJReW5rOFhP/N2NWNDZ2/hls/live/playlist.m3u8
+#EXTINF:-1 tvg-id="oeins.de" tvg-name="oldenburg eins" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/oldenburg-eins.de.png" tvg-language="de" tvg-country="DE" group-title="Bürger/OK",oldenburg eins [NI-OL] (11:00-00:00)
 https://cdn.oeins.de/hd1080/index.m3u8
