@@ -629,6 +629,8 @@ https://live-cdn.oksh.de/play/hls/kieltv/index.m3u8
 https://s.ok54.de/abr_nahetv/webstream/nahetv/webstream_720p/chunks.m3u8
 #EXTINF:-1 tvg-id="nrwision.de" tvg-name="NRWision" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/nrwision.de.png" tvg-language="de" tvg-country="DE" group-title="Bürger/OK",NRWision [NRW-DO]
 https://fms.nrwision.de/live/ngrp:livestreamHD.stream/chunklist_w1799347434_b7240867.m3u8
+#EXTINF:-1 tvg-id="ok-dessau.de" tvg-name="Offener Kanal Dessau" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/offener-kanal-dessau.de.png" tvg-language="de" tvg-country="DE" group-title="Bürger/OK",Offener Kanal Dessau [ST-DE]
+https://h056.video-stream-hosting.de/medienasa-live/_definst_/mp4:ok-dessau_high/chunklist_w1845037526.m3u8
 #EXTINF:-1 tvg-id="ok4.tv" tvg-name="OK4" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/ok4.de.png" tvg-language="de" tvg-country="DE" group-title="Bürger/OK",OK4 [RP-AW]
 https://s.ok54.de/abr_ok4/live/ok4/live_720p/chunks.m3u8
 #EXTINF:-1 tvg-id="ok54.d" tvg-name="OK54" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/ok54.de.png" tvg-language="de" tvg-country="DE" group-title="Bürger/OK",OK54 [RP-TR]
