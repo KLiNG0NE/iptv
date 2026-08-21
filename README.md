@@ -29,6 +29,8 @@ https://tinyurl.com/klingtv
 
 ## Umfang ##
 
+Die Playlist hat derzeit einen Umfang von 320+ Programmen:
+
 | Typ       | Gruppe            | Anzal |
 |:---------:|:-----------------:|------:|
 | 📺 TV    | Vollprogram       | 21    |
