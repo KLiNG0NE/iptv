@@ -7,7 +7,7 @@ http://zdf-hls-15.akamaized.net/hls/live/2016498/de/veryhigh/master.m3u8
 https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/high/master.m3u8
 #EXTINF:-1 tvg-id="ARTE.de" tvg-name="ARTE" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/arte.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Vollprogramm" group-title="Vollprogramm",arte
 https://artesimulcast.akamaized.net/hls/live/2030993/artelive_de/master.m3u8
-#EXTINF:-1 tvg-id="DF1.de" tvg-name="DF1" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/df1.de.png" tvg-genre="Vollprogramm" group-title="Vollprogramm",DF1
+#EXTINF:-1 tvg-id="DF1.de" tvg-name="DF1" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/df1.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Vollprogramm" group-title="Vollprogramm",DF1
 https://d287776cjxyfeq.cloudfront.net/out/v1/08823cd7fba74508a5a577fd51dc41f6/index_2.m3u8
 #EXTINF:-1 tvg-id="ZDFneo.de" tvg-name="ZDFneo" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/zdfneo.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Unterhaltung" group-title="Spartenprogramm",ZDFneo
 https://zdf-hls-16.akamaized.net/hls/live/2016499/de/veryhigh/master.m3u8
@@ -397,6 +397,8 @@ https://streams.deltaradio.de/tiktokhittracks/mp3-192/
 https://streams.deltaradio.de/uptempo/mp3-192/
 #EXTINF:-1 radio="true" tvg-name="delta radio" tvg-logo="https://agginfo.quantumcast.cloud/m/rc/branding/bed8b0e6-cade-44ac-b6a2-fc4d5be6cfc6/delta_x-mas_600x600.png" tvg-language="de" tvg-country="DE" tvg-genre="Radio-Privat" group-title="Radio – Privat",delta radio <X-Mas>
 https://streams.deltaradio.de/x-mas/mp3-192/
+#EXTINF:-1 radio="true" tvg-id="RadioAhuga.ch" tvg-name="RadioAhuga!" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_radioahuga.ch.png" tvg-language="de" tvg-country="CH" tvg-genre="Radio-Privat" group-title="Radio – Privat",RadioAhuga!
+https://stream.laut.fm/ahuga
 #EXTINF:-1 radio="true" tvg-id="radiobob.de" tvg-name="RADIO BOB!" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_radio-bob.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Radio-Privat" group-title="Radio – Privat",RADIO BOB!
 https://streams.radiobob.de/bob-national/mp3-192/streams.radiobob.de/
 #EXTINF:-1 radio="true" tvg-id="radiobob.de" tvg-name="RADIO BOB!" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_radio-bob-sh.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Radio-Privat" group-title="Radio – Privat",RADIO BOB! Schleswig-Holstein
