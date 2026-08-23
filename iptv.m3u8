@@ -397,7 +397,9 @@ https://streams.deltaradio.de/tiktokhittracks/mp3-192/
 https://streams.deltaradio.de/uptempo/mp3-192/
 #EXTINF:-1 radio="true" tvg-name="delta radio" tvg-logo="https://agginfo.quantumcast.cloud/m/rc/branding/bed8b0e6-cade-44ac-b6a2-fc4d5be6cfc6/delta_x-mas_600x600.png" tvg-language="de" tvg-country="DE" tvg-genre="Radio-Privat" group-title="Radio – Privat",delta radio <X-Mas>
 https://streams.deltaradio.de/x-mas/mp3-192/
-#EXTINF:-1 radio="true" tvg-id="RadioAhuga.ch" tvg-name="RadioAhuga!" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_radioahuga.ch.png" tvg-language="de" tvg-country="CH" tvg-genre="Radio-Privat" group-title="Radio – Privat",RadioAhuga!
+#EXTINF:-1 radio="true" tvg-id="Punkrockers-Radio.de" tvg-name="Punkrockers-Radio" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_punkrockers-radio.de.png" tvg-language="de" tvg-country="CH" tvg-genre="Radio-Privat" group-title="Radio – Privat",Punkrockers-Radio [NRW-BO]
+https://stream.punkrockers-radio.de:8443/prr.mp3
+#EXTINF:-1 radio="true" tvg-id="RadioAhuga.ch" tvg-name="RadioAhuga!" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_radioahuga.ch.png" tvg-language="de" tvg-country="CH" tvg-genre="Radio-Privat" group-title="Radio – Privat",RadioAhuga! [CH]
 https://stream.laut.fm/ahuga
 #EXTINF:-1 radio="true" tvg-id="radiobob.de" tvg-name="RADIO BOB!" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_radio-bob.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Radio-Privat" group-title="Radio – Privat",RADIO BOB!
 https://streams.radiobob.de/bob-national/mp3-192/streams.radiobob.de/
