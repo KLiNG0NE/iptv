@@ -397,7 +397,7 @@ https://streams.deltaradio.de/tiktokhittracks/mp3-192/
 https://streams.deltaradio.de/uptempo/mp3-192/
 #EXTINF:-1 radio="true" tvg-name="delta radio" tvg-logo="https://agginfo.quantumcast.cloud/m/rc/branding/bed8b0e6-cade-44ac-b6a2-fc4d5be6cfc6/delta_x-mas_600x600.png" tvg-language="de" tvg-country="DE" tvg-genre="Radio-Privat" group-title="Radio – Privat",delta radio <X-Mas>
 https://streams.deltaradio.de/x-mas/mp3-192/
-#EXTINF:-1 radio="true" tvg-id="Punkrockers-Radio.de" tvg-name="Punkrockers-Radio" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_punkrockers-radio.de.png" tvg-language="de" tvg-country="CH" tvg-genre="Radio-Privat" group-title="Radio – Privat",Punkrockers-Radio [NRW-BO]
+#EXTINF:-1 radio="true" tvg-id="punkrockers-radio.de" tvg-name="Punkrockers-Radio" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_punkrockers-radio.de.png" tvg-language="de" tvg-country="CH" tvg-genre="Radio-Privat" group-title="Radio – Privat",Punkrockers-Radio [NRW-BO]
 https://stream.punkrockers-radio.de:8443/prr.mp3
 #EXTINF:-1 radio="true" tvg-id="RadioAhuga.ch" tvg-name="RadioAhuga!" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_radioahuga.ch.png" tvg-language="de" tvg-country="CH" tvg-genre="Radio-Privat" group-title="Radio – Privat",RadioAhuga! [CH]
 https://stream.laut.fm/ahuga
@@ -531,6 +531,8 @@ https://streams.radiobob.de/emo/mp3-192/
 https://streams.radiobob.de/stonerrock/mp3-192/
 #EXTINF:-1 radio="true" tvg-name="RADIO BOB!" tvg-logo="https://images.radiobob.de/files/2025-05/ska_stream_schrift.jpg?width=360&height=360" tvg-language="de" tvg-country="DE" tvg-genre="Radio-Privat" group-title="Radio – Privat",RADIO BOB! <Ska>
 https://streams.radiobob.de/ska/mp3-192/
+#EXTINF:-1 radio="true" tvg-id="radio-endstation.de" tvg-name="Radio-Endstation" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_radio-endstation.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Radio-Privat" group-title="Radio – Privat",Radio-Endstation [SN-L]
+https://funkturm.radio-endstation.de/listen/radio-endstation/radio.mp3
 #EXTINF:-1 radio="true" tvg-id="rockantenne.de" tvg-name="Rock Antenne" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_rock-antenne.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Radio-Privat" group-title="Radio – Privat",ROCK ANTENNE
 https://stream.rockantenne.de/rockantenne/stream/mp3
 #EXTINF:-1 radio="true" tvg-id="rockantenne.de" tvg-name="Rock Antenne" tvg-logo="https://www.rockantenne.de/media/cache/3/version/13/rahh-v1.jpg/aa29e200ce152a93.webp" tvg-language="de" tvg-country="DE" tvg-genre="Radio-Privat" group-title="Radio – Privat",ROCK ANTENNE Hamburg
