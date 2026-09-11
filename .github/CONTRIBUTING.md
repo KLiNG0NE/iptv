@@ -12,5 +12,5 @@ Dieser Bereich ist noch nicht fertig gestellt.
 
 > ⚠️ Bitte beachten:
 > - Diese Liste wird privat zusammengestellt und erhebt keinen Anspruch auf Vollständigkeit oder Verfügbarkeit.
-> - Wer bestimmte Sender vorschlagen möchte, kann unter "Issues" einen Eintrag hinterlassen.
+> - Wer bestimmte Sender vorschlagen möchte, kann unter ["Issues"](https://github.com/KLiNG0NE/iptv/issues) einen Eintrag hinterlassen.
 > - Es können nur **legale** Stream-Adressen/-Anbieter angenommen werden.
