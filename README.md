@@ -65,6 +65,8 @@ Die Playlist hat derzeit einen Umfang von 320+ Programmen:
 
 ---
 
+## EPG-Anbieter ##
+
 Diese Playlist nutzt folgende kostenlosen EPG-Anbieter:
 
 - [EPGSHARE01](https://epgshare01.online/)
