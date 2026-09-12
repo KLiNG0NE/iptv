@@ -4,7 +4,7 @@
 
 ## M3U-Playlist ##
 
-Dies ist eine M3U-Liste mit *kostenlos* und *legal* verfügbaren TV- sowie Radio-Sendern für deutschsprachige Zuschauer. Diese Liste beinhaltet einen Link zu einem EPG-Anbieter. Somit ist es besonders einfach diese Playlist in *Kodi* einzubinden (nur ein einziger Link).
+Dies ist eine M3U-Liste mit *kostenlos* und *legal* verfügbaren TV- sowie Radio-Sendern für deutschsprachige Zuschauer. Die Senderlogos sind in dieser Liste ebenfalls verlinkt. Diese Liste beinhaltet einen Link zu einem EPG-Anbieter. Somit ist es besonders einfach diese Playlist in *Kodi* einzubinden (nur ein einziger Link).
 
 Die Playlist kann u. a. über den folgenden Link in *Plex, Kodi* oder dem *VLC Media Player* aufgerufen werden:
 
@@ -61,3 +61,11 @@ Die Playlist hat derzeit einen Umfang von 320+ Programmen:
 | <img src="logos/radio_frn.de.png" alt="Logo" width="24px" />                    | Freies Radio Neumünster (NMS) | http://streaming.fueralle.org:8000/frn
 | <img src="logos/radio_freies-sender-kombinat.de.png" alt="Logo" width="24px" /> | Freies Sender Kombinat (HH)   | https://streaming.fueralle.org/fsk.mp3
 | <img src="logos/radio_radio-fratz.de.png" alt="Logo" width="24px" />            | Radio Fratz (FL)              | https://stream.radio-fratz.de/stream.mp3
+
+
+---
+
+Diese Playlist nutzt folgende kostenlosen EPG-Anbieter:
+
+- [EPGSHARE01](https://epgshare01.online/)
+- [IPTV-EPG.org](https://iptv-epg.org/)
