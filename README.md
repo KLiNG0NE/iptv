@@ -18,6 +18,17 @@ Kurz-URL:
 https://tinyurl.com/klingtv
 ```
 
+---
+
+## Übersicht ##
+
+- [Hinweise](#hinweise)
+- [Umfang](#umfang)
+- [Sendertabelle](#sendertabelle)
+- [EPG-Anbieter](#epg-anbieter)
+
+---
+
 ## Hinweise ##
 
 > ⚠️ Bitte beachten:
@@ -26,6 +37,8 @@ https://tinyurl.com/klingtv
 > - Zu bestimmten Zeiten übertragen einige Programme die gleiche Sendung.
 > - Es kann vorkommen, dass Sender den Stream nur für bestimmte Länder zur Verfügung stellen. (Geoblocking)
 > - Diese Liste wird privat zusammengestellt und erhebt keinen Anspruch auf Vollständigkeit oder Verfügbarkeit.
+
+---
 
 ## Umfang ##
 
@@ -45,6 +58,8 @@ Die Playlist hat derzeit einen Umfang von 320+ Programmen:
 | 📻 Radio | Radio - Bürger/OK | 19    |
 | 📰 EPG   | Programmführer    | 2     |
 
+---
+
 ## Sendertabelle ##
 
 (unvollständig)
@@ -61,7 +76,6 @@ Die Playlist hat derzeit einen Umfang von 320+ Programmen:
 | <img src="logos/radio_frn.de.png" alt="Logo" width="24px" />                    | Freies Radio Neumünster (NMS) | http://streaming.fueralle.org:8000/frn
 | <img src="logos/radio_freies-sender-kombinat.de.png" alt="Logo" width="24px" /> | Freies Sender Kombinat (HH)   | https://streaming.fueralle.org/fsk.mp3
 | <img src="logos/radio_radio-fratz.de.png" alt="Logo" width="24px" />            | Radio Fratz (FL)              | https://stream.radio-fratz.de/stream.mp3
-
 
 ---
 
