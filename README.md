@@ -43,7 +43,7 @@ Die Playlist hat derzeit einen Umfang von 320+ Programmen:
 | 📻 Radio | Radio - ÖRR       | 71    |
 | 📻 Radio | Radio - Privat    | 129   |
 | 📻 Radio | Radio - Bürger/OK | 19    |
-
+| 📰 EPG   | Programmführer    | 2     |
 
 ## Sendertabelle ##
 
