@@ -533,6 +533,8 @@ https://streams.radiobob.de/stonerrock/mp3-192/
 https://streams.radiobob.de/ska/mp3-192/
 #EXTINF:-1 radio="true" tvg-id="radio-endstation.de" tvg-name="Radio-Endstation" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_radio-endstation.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Radio-Privat" group-title="Radio – Privat",Radio-Endstation [SN-L]
 https://funkturm.radio-endstation.de/listen/radio-endstation/radio.mp3
+#EXTINF:-1 radio="true" tvg-id="realpunkradio.com" tvg-name="Real Punk Radio" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_real-punk-radio.de.png" tvg-language="en" tvg-country="DE" tvg-genre="Radio-Privat" group-title="Radio – Privat",Real Punk Radio
+http://149.56.155.73:8080/stream
 #EXTINF:-1 radio="true" tvg-id="rockantenne.de" tvg-name="Rock Antenne" tvg-logo="https://raw.githubusercontent.com/KLiNG0NE/iptv/refs/heads/main/logos/radio_rock-antenne.de.png" tvg-language="de" tvg-country="DE" tvg-genre="Radio-Privat" group-title="Radio – Privat",ROCK ANTENNE
 https://stream.rockantenne.de/rockantenne/stream/mp3
 #EXTINF:-1 radio="true" tvg-id="rockantenne.de" tvg-name="Rock Antenne" tvg-logo="https://www.rockantenne.de/media/cache/3/version/13/rahh-v1.jpg/aa29e200ce152a93.webp" tvg-language="de" tvg-country="DE" tvg-genre="Radio-Privat" group-title="Radio – Privat",ROCK ANTENNE Hamburg
