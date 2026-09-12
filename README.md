@@ -41,7 +41,7 @@ Die Playlist hat derzeit einen Umfang von 320+ Programmen:
 | 📺 TV    | Bürger/OK         | 12    |
 | 📻 Radio | Freies Radio      | 58    |
 | 📻 Radio | Radio - ÖRR       | 71    |
-| 📻 Radio | Radio - Privat    | 128   |
+| 📻 Radio | Radio - Privat    | 129   |
 | 📻 Radio | Radio - Bürger/OK | 19    |
 
 
