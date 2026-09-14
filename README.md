@@ -4,7 +4,7 @@
 
 ## M3U-Playlist ##
 
-Dies ist eine M3U-Liste mit *kostenlos* und *legal* verfügbaren TV- sowie Radio-Sendern für deutschsprachige Zuschauer. Die Senderlogos sind in dieser Liste ebenfalls verlinkt. Diese Liste beinhaltet einen Link zu einem EPG-Anbieter. Somit ist es besonders einfach diese Playlist in *Kodi* einzubinden (nur ein einziger Link).
+Dies ist eine M3U-Liste mit *kostenlos* und *legal* verfügbaren TV- sowie Radio-Sendern für deutschsprachige Nutzer. Die Senderlogos sind in dieser Liste ebenfalls verlinkt. Diese Liste beinhaltet einen Link zu einem EPG-Anbieter. Somit ist es besonders einfach diese Playlist in *Kodi* einzubinden (nur ein einziger Link).
 
 Die Playlist kann u. a. über den folgenden Link in *Plex, Kodi* oder dem *VLC Media Player* aufgerufen werden:
 
