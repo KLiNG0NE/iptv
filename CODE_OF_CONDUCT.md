@@ -1,102 +1,88 @@
-# Verhaltenskodex für Mitwirkende
 
-## Unser Anspruch
+# Contributor Covenant 3.0 (deutsche Übersetzung)
 
-Wir als Mitglieder, Mitwirkende und Führungskräfte verpflichten uns, die Teilnahme an unserer Community für alle zu einer Erfahrung ohne Belästigung zu machen, unabhängig von Alter, Körpergröße, sichtbaren oder unsichtbaren Behinderungen, ethnischer Zugehörigkeit, Geschlechtsmerkmalen, Geschlechtsidentität und -ausdruck, Erfahrungsstand, Bildungsstand, sozioökonomischem Status, Nationalität, äußerem Erscheinungsbild, ethnischer Zugehörigkeit, Religion oder sexueller Identität und Orientierung.
+## Unser Versprechen
 
-Wir verpflichten uns, so zu handeln und miteinander umzugehen, dass wir zu einer offenen, einladenden, vielfältigen, inklusiven und gesunden Gemeinschaft beitragen.
+Wir verpflichten uns dazu, unsere Gemeinschaft offen, sicher und fair für alle zu gestalten.
 
-## Unsere Standards
+Wir setzen uns ein für ein Umfeld, das die Würde, Rechte und Beiträge aller Beteiligten respektiert und würdigt – unabhängig von Merkmalen wie Rasse, Ethnie, Kaste, Hautfarbe, Alter, körperlichen Eigenschaften, Neurodiversität, Behinderung, Geschlecht oder Geschlechtsidentität, sexueller Orientierung, Sprache, Philosophie oder Religion, nationaler oder sozialer Herkunft, sozioökonomischer Stellung, Bildungsniveau oder anderem Status. Die gleichen Teilhaberechte gelten für alle, die in guter Absicht und gemäß diesem Verhaltenskodex teilnehmen.
 
-Beispiele für Verhaltensweisen, die zu einem positiven Umfeld für unsere Gemeinschaft beitragen, sind unter anderem:
+## Erwünschte Verhaltensweisen
 
-* Empathie und Freundlichkeit gegenüber anderen Menschen zeigen
-* Respekt gegenüber unterschiedlichen Meinungen, Standpunkten und Erfahrungen zeigen
-* Konstruktives Feedback geben und es dankbar annehmen
-* Verantwortung übernehmen, uns bei den von unseren Fehlern Betroffenen entschuldigen und aus der Erfahrung lernen
-* Den Fokus darauf zu legen, was nicht nur für uns als Einzelpersonen, sondern für die Gemeinschaft als Ganzes am besten ist
+Wir erkennen Unterschiede in sozialen Normen an und bemühen uns, die Erwartungen unserer Gemeinschaft an ein positives Verhalten zu erfüllen. Wir verstehen auch, dass unsere Worte und Handlungen je nach Kultur, Hintergrund oder Muttersprache unterschiedlich interpretiert werden können.
 
-Beispiele für inakzeptables Verhalten sind unter anderem:
+Vor diesem Hintergrund verpflichten wir uns zu einem achtsamen Umgang miteinander und zu Handlungen, die unsere gemeinsamen Werte in den Mittelpunkt stellen. Dazu zählen:
 
-* Die Verwendung sexualisierter Sprache oder Bilder sowie sexuelle Annäherungsversuche oder Avancen jeglicher Art
-* Trolling, beleidigende oder abwertende Kommentare sowie persönliche oder politische Angriffe
-* Öffentliche oder private Belästigung
-* Die Veröffentlichung privater Informationen anderer Personen, wie beispielsweise einer Anschrift oder E-Mail-Adresse, ohne deren ausdrückliche Zustimmung
-* Sonstiges Verhalten, das in einem beruflichen Umfeld vernünftigerweise als unangemessen angesehen werden könnte
+1. Respekt vor dem **Zweck unserer Gemeinschaft**, unseren Aktivitäten und unseren Formen des Zusammenkommens.  
+2. **Freundlicher und ehrlicher** Umgang miteinander.  
+3. Respekt vor **unterschiedlichen Standpunkten** und Erfahrungen.  
+4. **Verantwortung übernehmen** für unser Handeln und unsere Beiträge.  
+5. **Konstruktives Feedback** geben und annehmen.  
+6. **Schäden wiedergutmachen**, wenn sie entstehen.  
+7. Weitere Verhaltensweisen, die das **Wohlbefinden unserer Gemeinschaft** fördern und erhalten.
 
-## Verantwortung für die Umsetzung
+## Inakzeptable Verhaltensweisen
 
-Die Community-Verantwortlichen sind dafür zuständig, unsere Standards für akzeptables Verhalten zu erläutern und durchzusetzen, und werden angemessene und faire Korrekturmaßnahmen ergreifen, wenn sie ein Verhalten beobachten, das sie als unangemessen, bedrohlich, beleidigend oder schädlich erachten.
+Wir verpflichten uns, die folgenden Verhaltensweisen in unserer Gemeinschaft zu unterbinden. Vorfälle, Drohungen und die Förderung dieser Verhaltensweisen stellen Verstöße gegen diesen Verhaltenskodex dar.
 
-Community-Verantwortliche haben das Recht und die Pflicht, Kommentare, Commits, Code, Wiki-Bearbeitungen, Issues und andere Beiträge, die nicht mit diesem Verhaltenskodex im Einklang stehen, zu entfernen, zu bearbeiten oder abzulehnen, und werden gegebenenfalls die Gründe für Moderationsentscheidungen mitteilen.
+1. **Belästigung.** Missachtung ausdrücklich geäußerter Grenzen oder fortgesetzte unnötige Kontaktaufnahme nach einer klaren Aufforderung, dies zu unterlassen.  
+2. **Persönliche Angriffe.** Beleidigende, herabwürdigende oder abwertende Kommentare gegenüber einem Gemeinschaftsmitglied oder einer Gruppe.  
+3. **Stereotypisierung oder Diskriminierung.** Bewertung oder Beurteilung von Personen aufgrund unveränderlicher Identitätsmerkmale.  
+4. **Sexualisierung.**  Sexualisierte Sprache, Bilder oder Verhalten, das im Kontext der Gemeinschaft als unangemessen gilt.  
+5. **Bruch der Vertraulichkeit.** Weitergabe oder Nutzung persönlicher oder privater Informationen ohne Erlaubnis.  
+6. **Gefährdung.** Verursachung, Förderung oder Androhung von Gewalt jeder Art gegenüber Personen oder Gruppen.  
+7. Weitere Verhaltensweisen, die das **Wohlbefinden unserer Gemeinschaft gefährden**.
+
+### Weitere inakzeptable Verhaltensweisen
+
+1. **Identitätstäuschung.** Sich als jemand anderes ausgeben, insbesondere um Maßnahmen bei Verstößen zu umgehen.  
+2. **Fehlende Quellenangaben.** Verwendung fremder Inhalte ohne ordnungsgemäße Quellenangabe.  
+3. **Werbung.** Teilen von Marketing- oder kommerziellen Inhalten außerhalb der Gemeinschaftsnormen.  
+4. **Unverantwortlicher Umgang mit Inhalten.** Unverantwortliche Präsentation von Inhalten, die unerwünschte Verhaltensweisen enthalten, verlinken oder beschreiben.
+
+## Melden eines Vorfalls
+
+Spannungen können auch bei bestem Bemühen um Zusammenarbeit entstehen. Nicht jeder Konflikt stellt einen Verstoß gegen den Verhaltenskodex dar; dieser Verhaltenskodex fördert erwünschte Verhaltensweisen und Normen, die helfen, Konflikte zu vermeiden und Schäden zu minimieren.
+
+Wenn ein Vorfall eintritt, ist es wichtig, ihn umgehend zu melden. Um einen möglichen Verstoß zu melden, **[ANMERKUNG: Beschreiben Sie hier Ihr Meldeverfahren.]**
+
+Moderator:innen nehmen Meldungen von Verstößen ernst und bemühen sich um eine zeitnahe Reaktion. Sie untersuchen alle Meldungen, prüfen Nachrichten, Protokolle und Aufzeichnungen oder befragen Zeugen und andere Beteiligte. Moderator:innen halten Untersuchungen zu und Maßnahmen bei Verstößen so transparent wie möglich, wobei Sicherheit und Vertraulichkeit Vorrang haben. Maßnahmen zur Durchsetzung des Verhaltenskodex  erfolgen privat mit den beteiligten Parteien, aber eine Kommunikation an die gesamte Gemeinschaft kann Teil einer einvernehmlich verabredeten Lösung sein.
+
+## Umgang mit Verstößen und Wiedergutmachung 
+
+**[ANMERKUNG: Die unten aufgeführten Maßnahmen bei Verstößen und zur Wiedergutmachung sind Vorschläge basierend auf bewährten Praktiken der Durchsetzung von Verhaltenskodizes. Wenn Ihre Gemeinschaft eigene Verfahren hat, passen Sie diesen Abschnitt entsprechend an.]**
+
+Stellt das Moderationsteam nach einer Untersuchung einen Verstoß gegen diesen Verhaltenskodex fest, kann das folgende Eskalationsverfahren angewendet werden. Die Wahl der Maßnahme hängt von der Auswirkung des Vorfalls auf die Beteiligten und die Gemeinschaft ab. Je nach Schwere des Verstoßes können niedrigere Stufen übersprungen werden.
+
+1. Verwarnung  
+   1. Ereignis: Ein Verstoß, der einen einzelnen Vorfall oder eine Reihe von Vorfällen umfasst.  
+   2. Konsequenz: Eine private, schriftliche Verwarnung durch die Moderator:innen.  
+   3. Wiedergutmachung: Beispiele sind eine private, schriftliche Entschuldigung, Übernahme der Verantwortung und das Einholen von Klarstellungen zu den Erwartungen.  
+2. Vorübergehende Einschränkung von Aktivitäten  
+   1. Ereignis: Wiederholtes Auftreten eines Verstoßes nach einer Verwarnung oder ein erstmaliger schwerwiegender Verstoß.  
+   2. Konsequenz: Eine private, schriftliche Verwarnung mit einer zeitlich begrenzten Auszeit, um die Ernsthaftigkeit zu unterstreichen und den Beteiligten Zeit zur Verarbeitung zu geben. Diese Auszeit kann auf bestimmte Kommunikationskanäle oder Interaktionen beschränkt sein.  
+   3. Wiedergutmachung: Beispiele sind eine Entschuldigung, Reflexion während der Auszeit und achtsamer Wiedereintritt in die Gemeinschaft.  
+3. Vorübergehende Sperre  
+   1. Ereignis: Ein Muster wiederholter Verstöße, die das Moderationsteam bereits mit Verwarnungen zu behandeln versucht hat, oder ein einzelner schwerwiegender Verstoß.  
+   2. Konsequenz: Eine private, schriftliche Verwarnung mit Bedingungen für eine Aufhebung der Sperre. Die Sperre dient der Reflexion über das Verhalten und mögliche Korrekturmassnahmen.  
+   3. Wiedergutmachung: Beispiele sind die Respektierung des Sinns der Sperre, Erfüllung der Bedingungen für eine Aufhebung der Sperre und achtsame Wiedereingliederung in die Gemeinschaft.  
+4. Dauerhafter Ausschluss  
+   1. Ereignis: Ein Muster wiederholter Verstöße gegen den Verhaltenskodex, das durch andere Stufen der Eskalation nicht behoben werden konnte, oder ein so schwerwiegender Verstoß, dass das Moderationsteam keine Möglichkeit sieht, die Gemeinschaft mit dieser Person sicher zu halten.  
+   2. Konsequenz: Der Zugang zu allen Gemeinschaftsbereichen, Tools und Kommunikationskanälen wird entzogen. Dauerhafte Sperren sollten selten angewendet werden, gut begründet sein und nur dann erfolgen, wenn die Anwendung anderer Maßnahmen das Verhalten nicht ändern konnte.  
+   3. Wiedergutmachung: In Fällen dieser Schwere ist keine Wiedergutmachung möglich.
+
+Dieses Eskalationsverfahren dient als Richtlinie. Es schränkt die Fähigkeit der Gemeinschaftsleitung nicht ein, nach eigenem Ermessen und im besten Interesse unserer Gemeinschaft zu handeln.
 
 ## Geltungsbereich
 
-Dieser Verhaltenskodex gilt in allen Community-Bereichen sowie in Fällen, in denen eine Person die Community offiziell in der Öffentlichkeit vertritt. Beispiele für die Vertretung unserer Community sind die Nutzung einer offiziellen E-Mail-Adresse, Beiträge über ein offizielles Social-Media-Konto oder die Tätigkeit als ernannter Vertreter bei einer Online- oder Offline-Veranstaltung.
+Dieser Verhaltenskodex gilt in allen Gemeinschaftsbereichen und auch dann, wenn eine Person die Gemeinschaft offiziell in öffentlichen oder anderen Bereichen vertritt. Beispiele hierfür sind die Nutzung einer offiziellen E-Mail-Adresse, das Posten über einen offiziellen Social-Media-Account oder das Auftreten als ernannte(r) Vertreter:in bei Online- oder Offline-Veranstaltungen.
 
-## Durchführung
+## Quellenangabe
 
-Fälle von beleidigendem, belästigendem oder anderweitig inakzeptablem Verhalten können den für die Durchführung zuständigen Community-Verantwortlichen unter [???] gemeldet werden. Alle Beschwerden werden umgehend und fair geprüft und untersucht.
+Dieser Verhaltenskodex basiert auf dem Contributor Covenant, Version 3.0, dauerhaft verfügbar unter [https://www.contributor-covenant.org/version/3/0/](https://www.contributor-covenant.org/version/3/0/).
 
-Alle Community-Verantwortlichen sind verpflichtet, die Privatsphäre und Sicherheit der Person, die einen Vorfall meldet, zu wahren.
+Der Contributor Covenant wird von der Organization for Ethical Source betreut und steht unter der CC BY-SA 4.0 Lizenz. Eine Kopie der Lizenz finden Sie unter [https://creativecommons.org/licenses/by-sa/4.0/](https://creativecommons.org/licenses/by-sa/4.0/).
 
-## Enforcement Guidelines
+Antworten auf häufige Fragen zum Contributor Covenant finden Sie im FAQ unter [https://www.contributor-covenant.org/faq](https://www.contributor-covenant.org/faq). Übersetzungen sind verfügbar unter [https://www.contributor-covenant.org/translations](https://www.contributor-covenant.org/translations). Weitere Ressourcen zu Gemeinschaftsrichtlinien und deren Durchsetzung finden Sie unter [https://www.contributor-covenant.org/resources](https://www.contributor-covenant.org/resources). Das Eskalationsverfahren wurde inspiriert durch die Arbeit des [Mozilla Code of Conduct Teams](https://github.com/mozilla/inclusion).
 
-Community leaders will follow these Community Impact Guidelines in determining
-the consequences for any action they deem in violation of this Code of Conduct:
 
-### 1. Correction
-
-**Community Impact**: Use of inappropriate language or other behavior deemed
-unprofessional or unwelcome in the community.
-
-**Consequence**: A private, written warning from community leaders, providing
-clarity around the nature of the violation and an explanation of why the
-behavior was inappropriate. A public apology may be requested.
-
-### 2. Warning
-
-**Community Impact**: A violation through a single incident or series
-of actions.
-
-**Consequence**: A warning with consequences for continued behavior. No
-interaction with the people involved, including unsolicited interaction with
-those enforcing the Code of Conduct, for a specified period of time. This
-includes avoiding interactions in community spaces as well as external channels
-like social media. Violating these terms may lead to a temporary or
-permanent ban.
-
-### 3. Temporary Ban
-
-**Community Impact**: A serious violation of community standards, including
-sustained inappropriate behavior.
-
-**Consequence**: A temporary ban from any sort of interaction or public
-communication with the community for a specified period of time. No public or
-private interaction with the people involved, including unsolicited interaction
-with those enforcing the Code of Conduct, is allowed during this period.
-Violating these terms may lead to a permanent ban.
-
-### 4. Permanent Ban
-
-**Community Impact**: Demonstrating a pattern of violation of community
-standards, including sustained inappropriate behavior,  harassment of an
-individual, or aggression toward or disparagement of classes of individuals.
-
-**Consequence**: A permanent ban from any sort of public interaction within
-the community.
-
-## Attribution
-
-This Code of Conduct is adapted from the [Contributor Covenant][homepage],
-version 2.0, available at
-https://www.contributor-covenant.org/version/2/0/code_of_conduct.html.
-
-Community Impact Guidelines were inspired by [Mozilla's code of conduct
-enforcement ladder](https://github.com/mozilla/diversity).
-
-[homepage]: https://www.contributor-covenant.org
-
-For answers to common questions about this code of conduct, see the FAQ at
-https://www.contributor-covenant.org/faq. Translations are available at
-https://www.contributor-covenant.org/translations.
