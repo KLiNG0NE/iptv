@@ -50,10 +50,6 @@ Moderator:innen nehmen Meldungen von Verstößen ernst und bemühen sich um eine
 
 ## Umgang mit Verstößen und Wiedergutmachung 
 
-**[ANMERKUNG: Die unten aufgeführten Maßnahmen bei Verstößen und zur Wiedergutmachung sind Vorschläge basierend auf bewährten Praktiken der Durchsetzung von Verhaltenskodizes. Wenn Ihre Gemeinschaft eigene Verfahren hat, passen Sie diesen Abschnitt entsprechend an.]**
-
-Stellt das Moderationsteam nach einer Untersuchung einen Verstoß gegen diesen Verhaltenskodex fest, kann das folgende Eskalationsverfahren angewendet werden. Die Wahl der Maßnahme hängt von der Auswirkung des Vorfalls auf die Beteiligten und die Gemeinschaft ab. Je nach Schwere des Verstoßes können niedrigere Stufen übersprungen werden.
-
 1. Verwarnung  
    1. Ereignis: Ein Verstoß, der einen einzelnen Vorfall oder eine Reihe von Vorfällen umfasst.  
    2. Konsequenz: Eine private, schriftliche Verwarnung durch die Moderator:innen.  
