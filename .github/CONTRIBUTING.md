@@ -4,7 +4,7 @@
 
 ## Mitwirken ##
 
-Wer mitwirken möchte, erklärt sich mit unseren [Verhaltensregeln](../.github/CODE_OF_CONDUCT.md) einverstanden, und muss folgende Hinweise beachten:
+Wer mitwirken möchte, erklärt sich mit unseren [Verhaltensregeln](https://github.com/KLiNG0NE/iptv/blob/main/.github/CODE_OF_CONDUCT.md) einverstanden, und muss folgende Hinweise beachten:
 
 ---
 
