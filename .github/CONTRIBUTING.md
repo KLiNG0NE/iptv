@@ -12,6 +12,6 @@ Wer mitwirken möchte, erklärt sich mit unseren [Verhaltensregeln](https://gith
 
 > ⚠️ Bitte beachten:
 > - Wer bestimmte Sender vorschlagen möchte, kann unter ["Issues"](https://github.com/KLiNG0NE/iptv/issues) einen Eintrag hinterlassen.
-> - Es können nur **legale** Stream-Adressen/-Anbieter angenommen werden.
+> - Es können nur **legale** Stream-Adressen/-Anbieter angenommen werden. Die Informationen zur [Lizenzierung](https://github.com/KLiNG0NE/iptv/blob/main/LICENSE.md) sind zu beachten.
 > - Diese Liste wird privat zusammengestellt und erhebt keinen Anspruch auf Vollständigkeit oder Verfügbarkeit.
 > - Es besteht keinerlei Anspruch auf Eintrag eines Senders/Programms. Vorschläge werden von den Mods geprüft, und nach positiver Entscheidung in die Liste eingetragen.
