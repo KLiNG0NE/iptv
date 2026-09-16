@@ -4,7 +4,7 @@
 
 ## Mitwirken ##
 
-Wer mitwirken möchte, sollte folgende Hinweise beachten:
+Wer mitwirken möchte, erklärt sich mit unseren Verhaltensregeln einverstanden, und muss folgende Hinweise beachten:
 
 ---
 
@@ -14,3 +14,4 @@ Wer mitwirken möchte, sollte folgende Hinweise beachten:
 > - Wer bestimmte Sender vorschlagen möchte, kann unter ["Issues"](https://github.com/KLiNG0NE/iptv/issues) einen Eintrag hinterlassen.
 > - Es können nur **legale** Stream-Adressen/-Anbieter angenommen werden.
 > - Diese Liste wird privat zusammengestellt und erhebt keinen Anspruch auf Vollständigkeit oder Verfügbarkeit.
+> - Es besteht keinerlei Anspruch auf Eintrag eines Senders/Programms. Vorschläge werden von den Mods geprüft, und nach positiver Entscheidung in die Liste eingetragen.
