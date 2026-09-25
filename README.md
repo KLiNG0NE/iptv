@@ -26,6 +26,7 @@ https://tinyurl.com/klingtv
 - [Umfang](#umfang)
 - [Sendertabelle](#sendertabelle)
 - [EPG-Anbieter](#epg-anbieter)
+- [Star History](#star-history)
 
 ---
 
