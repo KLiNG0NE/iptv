@@ -85,3 +85,7 @@ Diese Playlist nutzt folgende kostenlosen EPG-Anbieter:
 
 - [EPGSHARE01](https://epgshare01.online/)
 - [IPTV-EPG.org](https://iptv-epg.org/)
+
+## Star History ##
+
+[![Star History Chart](https://api.star-history.com/chart?repos=kling0ne/iptv&type=date&legend=top-left)](https://www.star-history.com/?repos=kling0ne%2Fiptv&type=date&legend=top-left)
