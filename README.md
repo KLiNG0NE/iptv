@@ -65,11 +65,11 @@ Die Playlist hat derzeit einen Umfang von 320+ Programmen:
 
 (unvollständig)
 
-| Logo                                                                            | Name           | Stream-URL |
+| Logo                                                                            | Name           | Website |
 |:-------------------------------------------------------------------------------:|:--------------:|------------|
 | Vollprogramm                                                                    |                |            |
-| <img src="logos/das-erste.de.png" alt="Logo" width="24px" />                    | Das Erste      | https://daserste-live.ard-mcdn.de/daserste/live/hls/de/master.m3u8
-| <img src="logos/zdf.de.png" alt="Logo" width="24px" />                          | ZDF            | http://zdf-hls-15.akamaized.net/hls/live/2016498/de/veryhigh/master.m3u8
+| <img src="logos/das-erste.de.png" alt="Logo" width="24px" />                    | Das Erste      | https://www.ardmediathek.de/
+| <img src="logos/zdf.de.png" alt="Logo" width="24px" />                          | ZDF            | https://www.zdf.de/live-tv
 | <img src="logos/3sat.de.png" alt="Logo" width="24px" />                         | 3sat           | https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/high/master.m3u8
 | <img src="logos/arte.de.png" alt="Logo" width="24px" />                         | arte           | https://artesimulcast.akamaized.net/hls/live/2030993/artelive_de/master.m3u8
 |Spartenprogramm |
