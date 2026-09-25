@@ -49,7 +49,7 @@ Die Playlist hat derzeit einen Umfang von 320+ Programmen:
 | 📺 TV    | Vollprogram       | 21    |
 | 📺 TV    | Spartenprogram    | 8     |
 | 📺 TV    | Nachrichten       | 1     |
-| 📺 TV    | Musik             | 3     |
+| 📺 TV    | Musik             | 4     |
 | 📺 TV    | Regional/Lokal    | 3     |
 | 📺 TV    | Bürger/OK         | 12    |
 | 📻 Radio | Freies Radio      | 58    |
