@@ -37,7 +37,7 @@ https://tinyurl.com/klingtv
 > - Einige Programme senden keine 24/7, also evtl. später nochmal rein hören/schauen.
 > - Zu bestimmten Zeiten übertragen einige Programme die gleiche Sendung.
 > - Es kann vorkommen, dass Sender den Stream nur für bestimmte Länder zur Verfügung stellen. (Geoblocking)
-> - Diese Liste wird privat zusammengestellt und erhebt keinen Anspruch auf Vollständigkeit oder Verfügbarkeit.
+> - Diese Liste wird _privat_ zusammengestellt und erhebt _keinen_ Anspruch auf Vollständigkeit oder Verfügbarkeit.
 
 ---
 
