@@ -98,3 +98,7 @@ Diese Playlist nutzt folgende kostenlosen EPG-Anbieter:
    <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=kling0ne/iptv&type=date&legend=bottom-right" />
  </picture>
 </a>
+
+---
+
+[KLiNG0NE](https://github.com/kling0ne) / [iptv](https://github.com/kling0ne/iptv)
